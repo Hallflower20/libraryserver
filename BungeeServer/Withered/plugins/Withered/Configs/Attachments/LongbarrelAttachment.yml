@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bLongbarrel"
+    material: RED_DYE
+    modelId: 11
+    positiveModifier: 0.5
+    negativeModifier: 0.0
+    lore:
+      - '&9+50 Bullet range'
+    parent: LONGBARREL
+    level: 36
+    chanceOfSpawning: 1.0

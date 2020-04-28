@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bSkull crusher"
+    material: RED_DYE
+    modelId: 8
+    positiveModifier: 3.0
+    negativeModifier: 0.0
+    lore:
+      - '&9+3 Headshot damage'
+    parent: HEADSHOTMULTIPLIER
+    level: 40
+    chanceOfSpawning: 1.0

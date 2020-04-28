@@ -1,0 +1,10 @@
+ammo:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AmmoSerializable
+    name: "&8Tracer Round"
+    id: 10
+    modelId: 1
+    material: SPECTRAL_ARROW
+    maxAmount: 10
+    maxStackSize: 15
+    level: 12
+    chanceOfSpawning: 1.0

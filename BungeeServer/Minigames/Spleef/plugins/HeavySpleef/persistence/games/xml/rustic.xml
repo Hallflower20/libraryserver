@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game name="rustic" world="world" enable-rating="true">
+  <flags>
+    <flag name="autostart">2</flag>
+    <flag name="lobby">
+      <world>world</world>
+      <x>606.7803878826971</x>
+      <y>210.39611710894033</y>
+      <z>325.50792453607056</z>
+      <yaw>269.0772</yaw>
+      <pitch>-3.1112514</pitch>
+    </flag>
+    <flag name="countdown">10</flag>
+    <flag name="bowspleef"/>
+  </flags>
+  <floors>
+    <floor name="floor_0"/>
+  </floors>
+  <extensions>
+    <extension name="lobby-wall">
+      <start>
+        <x>187</x>
+        <y>67</y>
+        <z>322</z>
+        <world>world</world>
+      </start>
+      <end>
+        <x>186</x>
+        <y>67</y>
+        <z>322</z>
+      </end>
+    </extension>
+  </extensions>
+  <deathzones>
+    <deathzone name="deathzone_0" regiontype="cuboid">
+      <pos1>
+        <x>591</x>
+        <y>50</y>
+        <z>339</z>
+      </pos1>
+      <pos2>
+        <x>620</x>
+        <y>40</y>
+        <z>310</z>
+      </pos2>
+    </deathzone>
+  </deathzones>
+</game>

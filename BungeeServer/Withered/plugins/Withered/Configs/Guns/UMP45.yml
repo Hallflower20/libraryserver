@@ -1,0 +1,30 @@
+gun:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.GunSerializable
+    name: "&7UMP45"
+    ammoId: 2
+    modelId: 19
+    isPrimaryGun: true
+    isAutomatic: true
+    fireRate: 3
+    reloadRate: 1
+    clipSize: 25
+    ammoConsumedPerReload: 1
+    shotsReloadedPerReload: 1
+    fireSound: SMALL_AUTOMATIC
+    fireVolume: 300
+    firePitch: 1.0
+    bulletCount: 1
+    bulletDamage: 2.5
+    headShotDamage: 3.0
+    bulletFalloff: 0.09
+    bulletSpread: 25
+    bulletSpeed: 2.0
+    bulletDrop: 0.2
+    bulletType: REGULAR
+    illegalAttachments:
+      - EXPLOSIVEPUNCH
+      - MAXLOAD
+    startingAttachments:
+    explosiveYield: 0.0
+    level: 10
+    chanceOfSpawning: 3.0

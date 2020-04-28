@@ -1,0 +1,28 @@
+| 04-27 20:11:22 | com.djrapitops.plan.storage.database.MySQLDB caught CompletionException
+| 04-27 20:11:22 | java.util.concurrent.CompletionException: java.lang.NullPointerException
+| 04-27 20:11:22 |    java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+| 04-27 20:11:22 |    java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+| 04-27 20:11:22 |    java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+| 04-27 20:11:22 |    java.lang.Thread.run(Thread.java:748)
+| 04-27 20:11:22 | Caused by:
+| 04-27 20:11:22 | java.lang.NullPointerException
+| 04-27 20:11:22 |    plan.com.zaxxer.hikari.pool.PoolBase.resetConnectionState(PoolBase.java:215)
+| 04-27 20:11:22 |    plan.com.zaxxer.hikari.pool.PoolEntry.resetConnectionState(PoolEntry.java:102)
+| 04-27 20:11:22 |    plan.com.zaxxer.hikari.pool.ProxyConnection.close(ProxyConnection.java:242)
+| 04-27 20:11:22 |    com.djrapitops.plan.storage.database.MySQLDB.returnToPool(MySQLDB.java:166)
+| 04-27 20:11:22 |    com.djrapitops.plan.storage.database.transactions.Transaction.executeTransaction(Transaction.java:78)
+| 04-27 20:11:22 |    com.djrapitops.plan.storage.database.SQLDB.lambda$executeTransaction$2(SQLDB.java:246)
+| 04-27 20:11:22 |    java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+| 04-27 20:11:22 |    java.lang.Thread.run(Thread.java:748)
+| 04-27 20:11:22 |    com.djrapitops.plan.storage.database.SQLDB.executeTransaction(SQLDB.java:239)
+| 04-27 20:11:22 |    com.djrapitops.plan.identification.ServerServerInfo.updateDbInfo(ServerServerInfo.java:136)
+| 04-27 20:11:22 |    com.djrapitops.plan.identification.ServerServerInfo.lambda$loadServerInfo$0(ServerServerInfo.java:93)
+| 04-27 20:11:22 |    com.djrapitops.plan.processing.Processing.lambda$submitNonCritical$1(Processing.java:78)
+| 04-27 20:11:22 |    java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+| 04-27 20:11:22 |    java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+| 04-27 20:11:22 |    java.lang.Thread.run(Thread.java:748)

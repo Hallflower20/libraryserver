@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bThermals"
+    material: RED_DYE
+    modelId: 16
+    positiveModifier: 0.0
+    negativeModifier: 0.0
+    lore:
+      - '&9See heat'
+    parent: THERMALS
+    level: 40
+    chanceOfSpawning: 1.0

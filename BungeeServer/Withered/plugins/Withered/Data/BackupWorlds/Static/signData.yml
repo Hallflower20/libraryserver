@@ -1,0 +1,58 @@
+signs:
+  - ==: me.Math0424.Withered.Signs.SignData
+    spawnLocation:
+      ==: org.bukkit.Location
+      world: world
+      x: -367.0
+      y: 40.0
+      z: 369.0
+      pitch: 0.0
+      yaw: 0.0
+    townName: Woodsdale
+    signLoc:
+      ==: org.bukkit.Location
+      world: world
+      x: 724.0
+      y: 201.0
+      z: 7.0
+      pitch: 0.0
+      yaw: 0.0
+    spread: 25
+  - ==: me.Math0424.Withered.Signs.SignData
+    spawnLocation:
+      ==: org.bukkit.Location
+      world: world
+      x: -314.0
+      y: 40.0
+      z: -300.0
+      pitch: 0.0
+      yaw: 0.0
+    townName: BirchTown
+    signLoc:
+      ==: org.bukkit.Location
+      world: world
+      x: 724.0
+      y: 201.0
+      z: 6.0
+      pitch: 0.0
+      yaw: 0.0
+    spread: 25
+  - ==: me.Math0424.Withered.Signs.SignData
+    spawnLocation:
+      ==: org.bukkit.Location
+      world: world
+      x: 368.0
+      y: 40.0
+      z: -321.0
+      pitch: 0.0
+      yaw: 0.0
+    townName: City 17
+    signLoc:
+      ==: org.bukkit.Location
+      world: world
+      x: 724.0
+      y: 201.0
+      z: 9.0
+      pitch: 0.0
+      yaw: 0.0
+    spread: 50

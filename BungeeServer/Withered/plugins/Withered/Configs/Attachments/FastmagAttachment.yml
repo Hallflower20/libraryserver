@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bFastmag"
+    material: RED_DYE
+    modelId: 6
+    positiveModifier: 2.0
+    negativeModifier: 0.0
+    lore:
+      - '&9-2 Reload time'
+    parent: FASTMAG
+    level: 15
+    chanceOfSpawning: 1.0

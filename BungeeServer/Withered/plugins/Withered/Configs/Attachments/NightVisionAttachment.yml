@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bNightVision"
+    material: RED_DYE
+    modelId: 13
+    positiveModifier: 0.0
+    negativeModifier: 0.0
+    lore:
+      - '&9See in the dark'
+    parent: NIGHTVISION
+    level: 30
+    chanceOfSpawning: 1.0

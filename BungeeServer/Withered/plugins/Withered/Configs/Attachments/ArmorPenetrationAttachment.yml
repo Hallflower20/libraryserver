@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bArmorPenetration"
+    material: RED_DYE
+    modelId: 2
+    positiveModifier: 3.0
+    negativeModifier: 0.0
+    lore:
+      - '&9+3 Bullet damage'
+    parent: ARMORPENETRATION
+    level: 46
+    chanceOfSpawning: 1.0

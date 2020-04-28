@@ -1,0 +1,31 @@
+gun:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.GunSerializable
+    name: "&2AcidGun"
+    ammoId: 14
+    modelId: 26
+    isPrimaryGun: false
+    isAutomatic: false
+    fireRate: 20
+    reloadRate: 20
+    clipSize: 1
+    ammoConsumedPerReload: 1
+    shotsReloadedPerReload: 1
+    fireSound: ACID_GUN
+    fireVolume: 200
+    firePitch: 1.0
+    bulletCount: 1
+    bulletDamage: 3.0
+    headShotDamage: 4.0
+    bulletFalloff: 0.1
+    bulletSpread: 30
+    bulletSpeed: 3.0
+    bulletDrop: 0.2
+    bulletType: ACID
+    illegalAttachments:
+      - EXPLOSIVEPUNCH
+      - SILENCER
+      - MAXLOAD
+    startingAttachments:
+    explosiveYield: 0.0
+    level: 40
+    chanceOfSpawning: 3.0

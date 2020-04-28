@@ -1,0 +1,1911 @@
+chests:
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 347.0
+    y: 46.0
+    z: 414.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 340.0
+    y: 46.0
+    z: 390.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 351.0
+    y: 44.0
+    z: 424.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 410.0
+    y: 48.0
+    z: 390.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 385.0
+    y: 46.0
+    z: 380.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 347.0
+    y: 54.0
+    z: 413.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 341.0
+    y: 46.0
+    z: 363.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 403.0
+    y: 42.0
+    z: 353.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 2
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 431.0
+    y: 45.0
+    z: 378.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 311.0
+    y: 48.0
+    z: 430.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 380.0
+    y: 46.0
+    z: 376.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 362.0
+    y: 43.0
+    z: 352.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 299.0
+    y: 52.0
+    z: 357.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 200.0
+    y: 41.0
+    z: 350.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 197.0
+    y: 41.0
+    z: 351.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 120.0
+    y: 51.0
+    z: 347.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 136.0
+    y: 55.0
+    z: 393.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 190.0
+    y: 60.0
+    z: 447.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 170.0
+    y: 51.0
+    z: 344.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 144.0
+    y: 56.0
+    z: 295.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 30.0
+    y: 71.0
+    z: 352.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -213.0
+    y: 43.0
+    z: 239.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -228.0
+    y: 44.0
+    z: 266.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -224.0
+    y: 44.0
+    z: 284.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -282.0
+    y: 39.0
+    z: 265.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -230.0
+    y: 54.0
+    z: 271.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -193.0
+    y: 17.0
+    z: 290.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -290.0
+    y: 16.0
+    z: 269.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -347.0
+    y: 49.0
+    z: 351.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -338.0
+    y: 47.0
+    z: 359.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -328.0
+    y: 44.0
+    z: 373.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -340.0
+    y: 48.0
+    z: 402.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -353.0
+    y: 44.0
+    z: 396.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -351.0
+    y: 43.0
+    z: 394.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -369.0
+    y: 46.0
+    z: 391.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -372.0
+    y: 47.0
+    z: 378.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.0
+    y: 47.0
+    z: 378.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -382.0
+    y: 45.0
+    z: 394.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -388.0
+    y: 51.0
+    z: 355.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -384.0
+    y: 46.0
+    z: 336.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -378.0
+    y: 46.0
+    z: 423.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -397.0
+    y: 44.0
+    z: 454.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -394.0
+    y: 44.0
+    z: 478.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -406.0
+    y: 42.0
+    z: 486.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -407.0
+    y: 43.0
+    z: 474.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -407.0
+    y: 39.0
+    z: 481.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -379.0
+    y: 48.0
+    z: 504.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -381.0
+    y: 41.0
+    z: 506.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -381.0
+    y: 44.0
+    z: 503.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -357.0
+    y: 52.0
+    z: -256.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -316.0
+    y: 43.0
+    z: -271.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -362.0
+    y: 48.0
+    z: -286.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -361.0
+    y: 44.0
+    z: -286.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -301.0
+    y: 43.0
+    z: -279.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -286.0
+    y: 48.0
+    z: -275.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -281.0
+    y: 44.0
+    z: -280.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -281.0
+    y: 43.0
+    z: -297.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -285.0
+    y: 43.0
+    z: -297.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 2
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -265.0
+    y: 44.0
+    z: -299.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -345.0
+    y: 44.0
+    z: -301.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -347.0
+    y: 46.0
+    z: -322.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -323.0
+    y: 45.0
+    z: -321.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -328.0
+    y: 49.0
+    z: -317.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -310.0
+    y: 44.0
+    z: -327.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -290.0
+    y: 42.0
+    z: -341.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -214.0
+    y: 52.0
+    z: -286.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -369.0
+    y: 68.0
+    z: -357.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -122.0
+    y: 121.0
+    z: -153.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -124.0
+    y: 121.0
+    z: -139.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -101.0
+    y: 128.0
+    z: -113.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -82.0
+    y: 136.0
+    z: -179.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -67.0
+    y: 126.0
+    z: -176.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -64.0
+    y: 127.0
+    z: -187.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -84.0
+    y: 126.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -91.0
+    y: 122.0
+    z: -182.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 35
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -90.0
+    y: 122.0
+    z: -176.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -80.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -82.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -78.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -76.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -74.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -72.0
+    y: 122.0
+    z: -174.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -62.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -66.0
+    y: 122.0
+    z: -172.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -62.0
+    y: 122.0
+    z: -183.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -72.0
+    y: 126.0
+    z: -201.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -60.0
+    y: 126.0
+    z: -201.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -60.0
+    y: 122.0
+    z: -201.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -70.0
+    y: 122.0
+    z: -213.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -72.0
+    y: 126.0
+    z: -207.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -73.0
+    y: 118.0
+    z: -246.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -88.0
+    y: 121.0
+    z: -143.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -102.0
+    y: 124.0
+    z: -20.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -164.0
+    y: 124.0
+    z: 1.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -209.0
+    y: 124.0
+    z: -5.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -247.0
+    y: 124.0
+    z: -42.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -271.0
+    y: 124.0
+    z: -47.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 16.0
+    y: 124.0
+    z: -321.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 30.0
+    y: 124.0
+    z: -192.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 14.0
+    y: 124.0
+    z: -101.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -57.0
+    y: 124.0
+    z: -48.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -212.0
+    y: 245.0
+    z: -213.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -192.0
+    y: 247.0
+    z: -227.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: -231.0
+    y: 242.0
+    z: -178.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 287.0
+    y: 40.0
+    z: -457.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 295.0
+    y: 44.0
+    z: -429.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 287.0
+    y: 48.0
+    z: -432.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 229.0
+    y: 40.0
+    z: -449.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 258.0
+    y: 47.0
+    z: -452.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 262.0
+    y: 52.0
+    z: -444.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 263.0
+    y: 47.0
+    z: -445.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 266.0
+    y: 42.0
+    z: -451.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 414.0
+    y: 41.0
+    z: -243.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 410.0
+    y: 46.0
+    z: -233.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 408.0
+    y: 41.0
+    z: -233.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 395.0
+    y: 47.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 389.0
+    y: 47.0
+    z: -233.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 366.0
+    y: 47.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 375.0
+    y: 47.0
+    z: -235.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 361.0
+    y: 52.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 373.0
+    y: 52.0
+    z: -236.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 377.0
+    y: 52.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 372.0
+    y: 57.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 375.0
+    y: 57.0
+    z: -235.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 372.0
+    y: 57.0
+    z: -239.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 365.0
+    y: 57.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 367.0
+    y: 62.0
+    z: -245.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 366.0
+    y: 62.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 361.0
+    y: 67.0
+    z: -236.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 365.0
+    y: 67.0
+    z: -254.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 367.0
+    y: 72.0
+    z: -242.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 363.0
+    y: 72.0
+    z: -255.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 368.0
+    y: 77.0
+    z: -242.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 374.0
+    y: 77.0
+    z: -234.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 370.0
+    y: 43.0
+    z: -279.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 368.0
+    y: 43.0
+    z: -277.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 374.0
+    y: 49.0
+    z: -273.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 378.0
+    y: 48.0
+    z: -279.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 378.0
+    y: 49.0
+    z: -276.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 363.0
+    y: 53.0
+    z: -268.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 373.0
+    y: 32.0
+    z: -296.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 368.0
+    y: 32.0
+    z: -304.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 350.0
+    y: 45.0
+    z: -283.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 342.0
+    y: 48.0
+    z: -278.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 343.0
+    y: 48.0
+    z: -277.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 35
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 346.0
+    y: 39.0
+    z: -280.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 345.0
+    y: 40.0
+    z: -282.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 35
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 344.0
+    y: 40.0
+    z: -277.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 343.0
+    y: 40.0
+    z: -277.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 344.0
+    y: 43.0
+    z: -236.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 337.0
+    y: 43.0
+    z: -239.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 330.0
+    y: 45.0
+    z: -221.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 321.0
+    y: 55.0
+    z: -219.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 327.0
+    y: 55.0
+    z: -206.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 335.0
+    y: 55.0
+    z: -201.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 322.0
+    y: 55.0
+    z: -190.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 323.0
+    y: 55.0
+    z: -180.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 4
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 328.0
+    y: 50.0
+    z: -209.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 333.0
+    y: 50.0
+    z: -200.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 328.0
+    y: 50.0
+    z: -191.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 333.0
+    y: 50.0
+    z: -182.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 321.0
+    y: 45.0
+    z: -212.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 321.0
+    y: 45.0
+    z: -203.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 40
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 321.0
+    y: 45.0
+    z: -188.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 376.0
+    y: 42.0
+    z: -188.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 35
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 381.0
+    y: 46.0
+    z: -191.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 381.0
+    y: 54.0
+    z: -191.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 381.0
+    y: 58.0
+    z: -190.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 374.0
+    y: 58.0
+    z: -188.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 404.0
+    y: 42.0
+    z: -192.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 393.0
+    y: 43.0
+    z: -186.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 399.0
+    y: 46.0
+    z: -189.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 359.0
+    y: 62.0
+    z: -253.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 356.0
+    y: 47.0
+    z: -216.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 356.0
+    y: 48.0
+    z: -211.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 363.0
+    y: 52.0
+    z: -217.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 52.0
+    z: -221.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 353.0
+    y: 53.0
+    z: -213.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 361.0
+    y: 57.0
+    z: -206.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 12
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 57.0
+    z: -221.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 8
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 353.0
+    y: 58.0
+    z: -214.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 62.0
+    z: -206.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 62.0
+    z: -217.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 348.0
+    y: 67.0
+    z: -217.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 68.0
+    z: -213.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 358.0
+    y: 72.0
+    z: -206.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 16
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 353.0
+    y: 72.0
+    z: -214.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 359.0
+    y: 77.0
+    z: -214.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 361.0
+    y: 77.0
+    z: -206.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 353.0
+    y: 85.0
+    z: -214.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 30
+- ==: me.Math0424.Withered.Chests.LevelChest
+  loc:
+    ==: org.bukkit.Location
+    world: world
+    x: 402.0
+    y: 97.0
+    z: -263.0
+    pitch: 0.0
+    yaw: 0.0
+  level: 25

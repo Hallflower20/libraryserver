@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bForegrip"
+    material: RED_DYE
+    modelId: 7
+    positiveModifier: 10.0
+    negativeModifier: 0.0
+    lore:
+      - '&9+10 Accuracy'
+    parent: FOREGRIP
+    level: 40
+    chanceOfSpawning: 1.0

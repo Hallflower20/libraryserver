@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game name="snowy" world="world" enable-rating="true">
+  <flags>
+    <flag name="autostart">2</flag>
+    <flag name="lobby">
+      <world>world</world>
+      <x>-168.03646135607246</x>
+      <y>100.74631495467513</y>
+      <z>329.47645738046083</z>
+      <yaw>90.14628</yaw>
+      <pitch>0.25996023</pitch>
+    </flag>
+    <flag name="countdown">20</flag>
+    <flag name="splegg"/>
+  </flags>
+  <floors>
+    <floor name="floor_0"/>
+  </floors>
+  <extensions>
+    <extension name="lobby-wall">
+      <start>
+        <x>187</x>
+        <y>66</y>
+        <z>322</z>
+        <world>world</world>
+      </start>
+      <end>
+        <x>186</x>
+        <y>66</y>
+        <z>322</z>
+      </end>
+    </extension>
+  </extensions>
+  <deathzones>
+    <deathzone name="deathzone_0" regiontype="cuboid">
+      <pos1>
+        <x>-146</x>
+        <y>78</y>
+        <z>307</z>
+      </pos1>
+      <pos2>
+        <x>-189</x>
+        <y>77</y>
+        <z>350</z>
+      </pos2>
+    </deathzone>
+  </deathzones>
+</game>

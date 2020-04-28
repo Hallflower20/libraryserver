@@ -1,0 +1,35 @@
+debug: none
+server_log: false
+stats: true
+tracker: true
+language: en
+onlyPVPinArena: false
+safeadmin: true
+x-offset: 0.5
+y-offset: 0.5
+z-offset: 0.5
+whitelist:
+- ungod
+use_shortcuts: false
+only_shortcuts: false
+allow_ungrouped: false
+consoleoffduty: false
+update:
+  mode: both
+  type: beta
+  modules: announce
+  plugin: announce
+materialprefixes:
+- minecraft
+- bukkit
+globalPrefix: PVP Arena
+whitelist_wildcard: false
+shortcut_shuffle: false
+shortcuts:
+  freeforall:
+  - arena1
+  - arena2
+  teams:
+  - teamarena1
+  - teamarena2
+ver: 1

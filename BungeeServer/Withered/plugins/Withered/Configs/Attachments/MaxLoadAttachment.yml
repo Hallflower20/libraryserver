@@ -1,0 +1,13 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bMaxLoad"
+    material: RED_DYE
+    modelId: 12
+    positiveModifier: 3.0
+    negativeModifier: 7.0
+    lore:
+      - '&9+3 Bullets'
+      - '&c+7 Reload rate'
+    parent: MAXLOAD
+    level: 30
+    chanceOfSpawning: 1.0

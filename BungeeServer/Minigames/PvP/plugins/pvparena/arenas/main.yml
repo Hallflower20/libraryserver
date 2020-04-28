@@ -1,0 +1,167 @@
+configversion: 1.0.6.198
+chat:
+  colorNick: true
+  defaultTeam: false
+  enabled: true
+  onlyPrivate: false
+  toGlobal: none
+cmds:
+  defaultjoin: true
+  whitelist:
+  - ungod
+damage:
+  armor: true
+  fromOutsiders: false
+  spawncamp: 1
+  weapons: true
+general:
+  classspawn: false
+  classSwitchAfterRespawn: false
+  customReturnsGear: false
+  enabled: true
+  gm: 0
+  leavedeath: false
+  lang: none
+  owner: server
+  quickspawn: true
+  prefix: PVP Arena
+  showRemainingLives: true
+  smartspawn: true
+  time: -1
+  type: free
+  wand: 280
+goal:
+  livesPerPlayer: false
+  endCountDown: 5
+  playerlives:
+    plives: 3
+  teamlives:
+    tlives: 10
+items:
+  excludeFromDrops: none
+  keepOnRespawn: none
+  minplayers: 2
+  random: true
+  rewards: none
+  takeOutOfGame: none
+join:
+  range: 0
+  forceregionjoin: false
+  onlyifhasplayed: false
+block:
+  blacklist: []
+  whitelist: []
+goals:
+- PlayerLives
+mods:
+- BattlefieldJoin
+- StandardLounge
+- StandardSpectate
+msg:
+  lounge: Welcome to the arena lounge! Hit a class sign and then the iron block to flag yourself as ready!
+  playerjoined: '%1% joined the Arena!'
+  playerjoinedteam: '%1% joined team %2%!'
+  starting: Arena is starting! Type &e/pa %1% to join!
+  youjoined: You have joined the FreeForAll Arena!
+  youjoinedteam: You have joined team %1%!
+perms:
+  alwaysJoinInBattle: false
+  explicitArenaNeeded: false
+  explicitClassNeeded: false
+  fly: true
+  loungeinteract: false
+  joinInBattle: false
+  joinWithScoreboard: true
+  teamkill: true
+  specTalk: true
+player:
+  autoIgniteTNT: false
+  clearInventory: NONE
+  dropsEXP: false
+  dropsInventory: false
+  exhaustion: 0.0
+  hungerforkill: 0
+  foodLevel: 20
+  health: -1
+  healforkill: false
+  hunger: true
+  mayChangeArmor: true
+  maxhealth: -1
+  preventDeath: false
+  refillInventory: true
+  saturation: 20
+  quickloot: false
+protection:
+  enabled: true
+  punish: false
+  spawn: 0
+ready:
+  autoClass: none
+  block: 42
+  checkEachPlayer: false
+  checkEachTeam: true
+  enforceCountdown: false
+  minPlayers: 2
+  maxPlayers: 0
+  maxTeam: 0
+  neededRatio: 0.5
+time:
+  startCountDown: 10
+  regionTimer: 10
+  teleportProtect: 3
+  resetDelay: -1
+  warmupCountDown: 0
+  pvp: 0
+tp:
+  death: old
+  exit: old
+  lose: old
+  win: old
+  offsets: []
+uses:
+  classSignsDisplay: false
+  deathMessages: true
+  evenTeams: false
+  ingameClassSwitch: false
+  invisibilityfix: false
+  evilinvisibilityfix: false
+  playerclasses: false
+  overlapCheck: true
+  teamrewards: false
+  woolHead: false
+flagColors:
+  red: WHITE
+  blue: BLACK
+classitems:
+  Ranger: 267,261,262:64,262:64,310,311,300,309,322:3
+  Swordsman: 276,306,307,308,309,322:3
+  Tank: 272,310,311,308,313,322:3
+teams:
+  red: RED
+  blue: BLUE
+spawns:
+  exit: world,65,93,158,269.269287109375,-0.3606802225112915
+  spectator: world,99,104,158,269.742431640625,-0.47899189591407776
+  lounge: world,65,93,158,267.5633544921875,-0.9521174430847168
+  spawn1: world,81,98,131,333.2255859375,2.360614776611328
+  spawn2: world,101,100,133,0.317626953125,17.031286239624023
+  spawn3: world,117,90,132,9.426513671875,-2.3718581199645996
+  spawn4: world,134,95,133,356.8853759765625,4.25359582901001
+  spawn5: world,146,104,136,52.1383056640625,21.76371192932129
+  spawn6: world,152,90,135,61.72119140625,0.11263015121221542
+  spawn7: world,147,90,128,27.52978515625,1.1774346828460693
+  spawn8: world,154,90,154,68.11083984375,4.371842861175537
+  spawn9: world,146,93,150,52.3763427734375,7.2113118171691895
+  spawn10: world,145,93,167,89.8792724609375,2.2422008514404297
+  spawn11: world,148,97,182,115.789306640625,4.608434200286865
+  spawn12: world,136,96,186,144.421142578125,20.698823928833008
+  spawn13: world,119,92,187,150.217041015625,17.031171798706055
+  spawn14: world,109,90,189,182.160400390625,-0.9522150754928589
+  spawn15: world,98,90,188,192.4539794921875,1.5323318243026733
+  spawn16: world,85,90,188,215.5247802734375,1.177396535873413
+  spawn17: world,77,90,173,251.13623046875,-2.2536556720733643
+  spawn18: world,76,93,158,273.6171875,-2.0170443058013916
+  spawn19: world,103,104,171,222.743408203125,10.642300605773926
+  spawn20: world,117,105,153,33.70458984375,3.0703341960906982
+arenaregion:
+  create: world,70,85,114,165,127,208,cuboid,0,8191,BATTLE

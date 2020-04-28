@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bHitNotifier"
+    material: RED_DYE
+    modelId: 9
+    positiveModifier: 0.0
+    negativeModifier: 0.0
+    lore:
+      - '&9Hear hit noise when target is damaged'
+    parent: HITNOTIFY
+    level: 10
+    chanceOfSpawning: 1.0

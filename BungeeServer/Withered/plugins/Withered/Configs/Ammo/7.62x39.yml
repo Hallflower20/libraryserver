@@ -1,0 +1,10 @@
+ammo:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AmmoSerializable
+    name: "&87.62x39"
+    id: 4
+    modelId: 1
+    material: CYAN_DYE
+    maxAmount: 64
+    maxStackSize: 64
+    level: 20
+    chanceOfSpawning: 1.0

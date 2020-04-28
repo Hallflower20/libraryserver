@@ -1,0 +1,13 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bTapedMag"
+    material: RED_DYE
+    modelId: 15
+    positiveModifier: 4.0
+    negativeModifier: 10.0
+    lore:
+      - '&9+5 Rounds'
+      - '&c-10 Accuracy'
+    parent: TAPEDMAG
+    level: 30
+    chanceOfSpawning: 1.0

@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bScope x2"
+    material: RED_DYE
+    modelId: 1
+    positiveModifier: 10.0
+    negativeModifier: 0.0
+    lore:
+      - '&9+2 Zoom'
+    parent: SCOPE
+    level: 12
+    chanceOfSpawning: 1.0

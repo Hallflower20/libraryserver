@@ -1,0 +1,48 @@
+#better giants by Math0424
+#will break completely in other versions because custom AI
+#dont plan on supporting lower MC versions, but will support higher versions
+
+#[world]:[chance]:[spawnProtection]
+#world? world name in the folder !!remember CaPiTaLiZaTiOnS!!
+#chance? chance is the likelihood of *1* out of X amount of zombies turning into a giant
+#spawnProtection? range that they cannot spawn from the world spawn; a safe zone
+spawnable:
+  - world:100:800
+  - world_nether:100:100
+#note: only worlds with zombies spawning can giants spawn, so it cannot naturally spawn giants in the end
+#otherNote: the nether works for natural spawning, Pigmen are Zombies in code
+
+
+#GIANT MINION CONFIG
+minionAmount: 7
+minionSpeed: 0.35
+minionName: "GiantsMinion"
+minionAntiKnockback: 10.0
+showMinionNametag: true
+
+#GIANTS CONFIG
+#note, by changing this it will break existing giants in the world
+name: 'SmartGiant'
+
+#I found changing this to high numbers will lag the server, MC pathfinding inst that efficient
+range: 20
+#projectiles dont hurt him?
+projectileInvulnerability: true
+
+speed: 0.57
+health: 250
+attackDamage: 10
+
+#loot
+#materials can be found here https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+#[material]:[name]:[amount]:[chance]
+loot:
+  - LEATHER:&cGiants skin:1:2
+  - IRON_BLOCK:&fGiants stash:10:3
+  - STONE_SWORD:&8Giants sword:1:3
+  - DIAMOND:&9Giants diamond:4:10
+  - TOTEM_OF_UNDYING:&eGiants totem:1:20
+  - EMERALD_BLOCK:&aGiants emeralds:10:10
+  - ZOMBIE_HEAD:&2Giants head:1:1
+  - ROTTEN_FLESH:&4Gaints flesh:64:1
+  - BONE_BLOCK:&fGiants bones:20:1

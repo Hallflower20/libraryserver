@@ -1,0 +1,37 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    #name of the weapon '&' represents the minecraft color code
+    name: "&bScope x1.5"
+    #what item the gun will be a list of item types are found below
+    #https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+    material: RED_DYE
+    #model ID
+    modelId: 1
+    #modifier for the good part
+    positiveModifier: 5.0
+    #modifier for the negative part if applicable
+    negativeModifier: 0.0
+    #lore of item
+    lore:
+      - '&9+1.5 Zoom'
+    #types of attachments
+    #SCOPE
+    #THERMALS
+    #NIGHTVISION
+    #SILENCER
+    #FOREGRIP
+    #BUMPSTOCK
+    #LASERTARGET
+    #FASTMAG
+    #EXTENDEDMAG
+    #TAPPEDMAG
+    #LONGBARREL
+    #FULLMETALJACKET
+    #HITNOTIFY
+    #HEADSHOTMULTIPLIER
+    parent: SCOPE
+    #level to spawn in chests
+    level: 12
+    #how often will this spawn in a normal loot chest (0.0 for nothing)
+    # 0 - 100.000
+    chanceOfSpawning: 1.0

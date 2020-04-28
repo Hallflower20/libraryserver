@@ -1,0 +1,13 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bBumpstock"
+    material: RED_DYE
+    modelId: 3
+    positiveModifier: 3.0
+    negativeModifier: 10.0
+    lore:
+      - '&9+3 Firerate'
+      - '&c-10 Accuracy'
+    parent: BUMPSTOCK
+    level: 20
+    chanceOfSpawning: 1.0

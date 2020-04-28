@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game name="overgrown" world="world" enable-rating="true">
+  <flags>
+    <flag name="autostart">2</flag>
+    <flag name="lobby">
+      <world>world</world>
+      <x>773.5477469225253</x>
+      <y>116.48888233960328</y>
+      <z>325.20883425306545</z>
+      <yaw>-2.0758362</yaw>
+      <pitch>-0.91122127</pitch>
+    </flag>
+    <flag name="countdown">10</flag>
+    <flag name="shears"/>
+  </flags>
+  <floors>
+    <floor name="floor_1"/>
+    <floor name="floor_0"/>
+  </floors>
+  <extensions>
+    <extension name="lobby-wall">
+      <start>
+        <x>184</x>
+        <y>67</y>
+        <z>322</z>
+        <world>world</world>
+      </start>
+      <end>
+        <x>183</x>
+        <y>67</y>
+        <z>322</z>
+      </end>
+    </extension>
+  </extensions>
+  <deathzones/>
+</game>

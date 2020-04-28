@@ -1,0 +1,10 @@
+ammo:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AmmoSerializable
+    name: "&8Fuel"
+    id: 8
+    modelId: 1
+    material: ORANGE_DYE
+    maxAmount: 64
+    maxStackSize: 64
+    level: 12
+    chanceOfSpawning: 1.0

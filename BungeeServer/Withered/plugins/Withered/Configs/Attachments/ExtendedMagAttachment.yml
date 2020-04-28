@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bExtendedMag"
+    material: RED_DYE
+    modelId: 5
+    positiveModifier: 5.0
+    negativeModifier: 0.0
+    lore:
+      - '&9+5 Rounds'
+    parent: EXTENDEDMAG
+    level: 50
+    chanceOfSpawning: 1.0

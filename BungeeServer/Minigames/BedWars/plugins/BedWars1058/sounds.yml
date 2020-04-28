@@ -1,0 +1,29 @@
+game-end: AMBIENCE_THUNDER
+rejoin-denied: VILLAGER_NO
+rejoin-allowed: SLIME_WALK
+spectate-denied: VILLAGER_NO
+spectate-allowed: SLIME_WALK
+join-denied: VILLAGER_NO
+join-allowed: SLIME_WALK
+spectator-gui-click: SLIME_WALK
+game-countdown-others: CHICKEN_EGG_POP
+game-countdown-s5: CHICKEN_EGG_POP
+game-countdown-s4: CHICKEN_EGG_POP
+game-countdown-s3: CHICKEN_EGG_POP
+game-countdown-s2: CHICKEN_EGG_POP
+game-countdown-s1: CHICKEN_EGG_POP
+game-countdown-start: SLIME_ATTACK
+bed-destroy: ENDERDRAGON_GROWL
+shop-insufficient-money: VILLAGER_NO
+shop-bought: VILLAGER_YES
+next-event:
+  beds-destroy: ENDERDRAGON_GROWL
+  diamond-II: LEVEL_UP
+  diamond-III: LEVEL_UP
+  emerald-II: GHAST_MOAN
+  emerald-III: GHAST_MOAN
+  dragons-spawn: ENDERDRAGON_WINGS
+player-re-spawn: SLIME_ATTACK
+arena-selector-open: CHICKEN_EGG_POP
+stats-gui-open: CHICKEN_EGG_POP
+trap-sound: ENDERMAN_TELEPORT

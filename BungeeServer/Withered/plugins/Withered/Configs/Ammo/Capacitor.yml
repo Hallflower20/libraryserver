@@ -1,0 +1,10 @@
+ammo:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AmmoSerializable
+    name: "&1Capacitor"
+    id: 15
+    modelId: 1
+    material: YELLOW_DYE
+    maxAmount: 64
+    maxStackSize: 64
+    level: 17
+    chanceOfSpawning: 1.0

@@ -1,0 +1,12 @@
+attachment:
+  - ==: me.Math0424.Withered.WitheredAPI.Serializable.AttachmentSerializable
+    name: "&bSilencer"
+    material: RED_DYE
+    modelId: 14
+    positiveModifier: 100.0
+    negativeModifier: 0.0
+    lore:
+      - '&9Silences the gunshots'
+    parent: SILENCER
+    level: 45
+    chanceOfSpawning: 1.0
