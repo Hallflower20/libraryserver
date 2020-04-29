@@ -208,6 +208,8 @@ Plugins:
     Factions:
         HideFactions:
           - ExampleFaction
+    GriefPrevention:
+        Enabled: true
     LuckPerms:
         Enabled: true
     Towny:

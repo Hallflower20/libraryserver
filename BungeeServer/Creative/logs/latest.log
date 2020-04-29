@@ -1,7 +1,64 @@
-[00:12:40] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:12:40 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:12:50] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:12:50 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:13:17] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:13:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:13:32] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:13:32 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:13:38] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:13:38 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:13:39] [luckperms-hikari connection adder/WARN]: Tue Apr 28 00:13:39 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:16:24] [Server thread/INFO]: Stopping server
+[23:29:00] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.ProxyConnection] luckperms-hikari - Connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@15c7dca marked as broken because of SQLSTATE(08S01), ErrorCode(0)
+me.lucko.luckperms.lib.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 16 milliseconds ago.  The last packet sent successfully to the server was 16 milliseconds ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_252]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_252]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_252]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_252]
+	at me.lucko.luckperms.lib.mysql.jdbc.Util.handleNewInstance(Util.java:425) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3517) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3417) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3860) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.ServerPreparedStatement.serverExecute(ServerPreparedStatement.java:1281) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.ServerPreparedStatement.executeInternal(ServerPreparedStatement.java:787) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2020) ~[?:?]
+	at me.lucko.luckperms.lib.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52) ~[?:?]
+	at me.lucko.luckperms.lib.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java) ~[?:?]
+	at me.lucko.luckperms.common.messaging.sql.AbstractSqlMessenger.pollMessages(AbstractSqlMessenger.java:99) ~[?:?]
+	at me.lucko.luckperms.common.plugin.scheduler.AbstractJavaScheduler$ErrorReportingRunnable.run(AbstractJavaScheduler.java:118) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_252]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_252]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2969) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3427) ~[?:?]
+	... 13 more
+[23:29:01] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.ProxyConnection] luckperms-hikari - Connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@7435ed3b marked as broken because of SQLSTATE(08S01), ErrorCode(0)
+me.lucko.luckperms.lib.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 1 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_252]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_252]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_252]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_252]
+	at me.lucko.luckperms.lib.mysql.jdbc.Util.handleNewInstance(Util.java:425) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3517) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3417) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3860) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.ServerPreparedStatement.serverExecute(ServerPreparedStatement.java:1281) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.ServerPreparedStatement.executeInternal(ServerPreparedStatement.java:787) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2020) ~[?:?]
+	at me.lucko.luckperms.lib.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52) ~[?:?]
+	at me.lucko.luckperms.lib.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java) ~[?:?]
+	at me.lucko.luckperms.common.messaging.sql.AbstractSqlMessenger.pollMessages(AbstractSqlMessenger.java:99) ~[?:?]
+	at me.lucko.luckperms.common.plugin.scheduler.AbstractJavaScheduler$ErrorReportingRunnable.run(AbstractJavaScheduler.java:118) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_252]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_252]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2969) ~[?:?]
+	at me.lucko.luckperms.lib.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3427) ~[?:?]
+	... 13 more
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@228cc4d9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@3afd4df3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@5ff6d3b5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@1ef53ab0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@4e376e48 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@27b56740 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@211166a7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+[23:29:02] [luckperms-scheduler-worker-1/WARN]: [me.lucko.luckperms.lib.hikari.pool.PoolBase] luckperms-hikari - Failed to validate connection me.lucko.luckperms.lib.mysql.jdbc.JDBC4Connection@1606e88f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.

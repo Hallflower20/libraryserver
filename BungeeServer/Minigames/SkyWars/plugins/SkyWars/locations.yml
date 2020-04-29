@@ -1,9 +1,16 @@
-portals: []
+portals:
+- ==: SkyLocation
+  world: world
+  x: 106
+  y: 141
+  z: 239
 lobby:
   ==: SkyLocationAccurate
-  x: 112.0
-  y: 64.0
-  z: 256.0
+  x: 103.50898655260933
+  y: 141.0
+  z: 238.43514505695737
+  yaw: 89.6961669921875
+  pitch: -3.29976749420166
   world: world
 signs: []
 storage-specification-version: 1

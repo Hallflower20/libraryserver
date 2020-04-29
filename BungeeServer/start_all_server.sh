@@ -38,6 +38,5 @@ cd Minigames/SkyWars
 screen -R -S skywars sh run.sh
 cd ..
 cd ..
-screen -d
 echo "All servers booted"
 echo "Would you like a piece of cake?"

@@ -9,9 +9,9 @@
 
 config-version: 9
 settings:
-  limit-player-interactions: true
   baby-zombie-movement-speed: 0.5
-data-value-allowed-items: []
+  limit-player-interactions: true
+warnWhenSettingExcessiveVelocity: true
 stackable-buckets:
   lava: false
   water: false
@@ -19,11 +19,10 @@ stackable-buckets:
 effect-modifiers:
   strength: 1.3
   weakness: -0.5
-warnWhenSettingExcessiveVelocity: true
+data-value-allowed-items: []
 world-settings:
   default:
     verbose: false
-    allow-block-location-tab-completion: true
     generator-settings:
       canyon: false
       caves: false
@@ -35,7 +34,21 @@ world-settings:
       temple: false
       village: false
       flat-bedrock: true
-    disable-teleportation-suffocation-check: false
+    allow-block-location-tab-completion: true
+    despawn-ranges:
+      soft: 32
+      hard: 128
+    fishing-time-range:
+      MinimumTicks: 100
+      MaximumTicks: 900
+    squid-spawn-height:
+      minimum: 45.0
+      maximum: 63.0
+    cache-chunk-maps: false
+    player-blocking-damage-multiplier: 0.5
+    max-growth-height:
+      cactus: 3
+      reeds: 3
     nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
@@ -47,44 +60,31 @@ world-settings:
     lava-flow-speed:
       normal: 30
       nether: 10
-    squid-spawn-height:
-      minimum: 45.0
-      maximum: 63.0
+    optimize-explosions: false
     remove-invalid-mob-spawner-tile-entities: true
-    cache-chunk-maps: false
+    falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
       falling-blocks: true
-    optimize-explosions: false
-    mob-spawner-tick-rate: 1
-    tnt-explosion-volume: 4.0
-    player-blocking-damage-multiplier: 0.5
-    despawn-ranges:
-      soft: 32
-      hard: 128
-    max-growth-height:
-      cactus: 3
-      reeds: 3
-    falling-block-height-nerf: 0
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
-    fishing-time-range:
-      MinimumTicks: 100
-      MaximumTicks: 900
+    mob-spawner-tick-rate: 1
+    tnt-explosion-volume: 4.0
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
-    all-chunks-are-slime-chunks: false
-    allow-undead-horse-leashing: false
+    disable-teleportation-suffocation-check: false
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
     tnt-entity-height-nerf: 0
     use-hopper-check: false
+    all-chunks-are-slime-chunks: false
+    allow-undead-horse-leashing: false
     falling-blocks-collide-with-signs: false
     keep-spawn-loaded: true
     container-update-tick-rate: 1

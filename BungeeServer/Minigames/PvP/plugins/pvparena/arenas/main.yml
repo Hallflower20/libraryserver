@@ -54,8 +54,8 @@ block:
 goals:
 - PlayerLives
 mods:
-- BattlefieldJoin
 - StandardLounge
+- BattlefieldJoin
 - StandardSpectate
 msg:
   lounge: Welcome to the arena lounge! Hit a class sign and then the iron block to flag yourself as ready!
