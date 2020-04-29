@@ -96,7 +96,7 @@ ZombiesMode: false
 #water kill you?
 DeathByWater: true
 #show nametags?
-NameTagVisibility: false
+NameTagVisibility: true
 #use permissions
 #useful if you dont have a permission plugin
 UsePermissions: false

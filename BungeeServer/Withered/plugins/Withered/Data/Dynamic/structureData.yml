@@ -1,12 +1,221 @@
 structures:
 - ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
+  owner: Hallflower
   chest:
     ==: org.bukkit.Location
     world: world
-    x: -344.0
-    y: 43.0
-    z: 384.0
+    x: 369.0
+    y: 77.0
+    z: -239.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 370.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 371.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 372.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 372.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 373.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 373.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 374.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 374.0
+    y: 77.0
+    z: -238.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 280.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 280.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 280.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 280.0
+    y: 60.0
+    z: -249.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 279.0
+    y: 60.0
+    z: -249.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 276.0
+    y: 60.0
+    z: -246.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 277.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 277.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 276.0
+    y: 60.0
+    z: -247.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 264.0
+    y: 60.0
+    z: -276.0
+    pitch: 0.0
+    yaw: 0.0
+  name: bunker
+- ==: me.Math0424.Withered.Structures.Structure
+  owner: Hallflower
+  chest:
+    ==: org.bukkit.Location
+    world: world
+    x: 261.0
+    y: 80.0
+    z: -346.0
     pitch: 0.0
     yaw: 0.0
   name: fort
@@ -15,130 +224,9 @@ structures:
   chest:
     ==: org.bukkit.Location
     world: world
-    x: -343.0
-    y: 43.0
-    z: 385.0
-    pitch: 0.0
-    yaw: 0.0
-  name: fort
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -340.0
-    y: 43.0
-    z: 386.0
-    pitch: 0.0
-    yaw: 0.0
-  name: filler
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -336.0
-    y: 43.0
-    z: 387.0
-    pitch: 0.0
-    yaw: 0.0
-  name: filler
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -336.0
-    y: 43.0
-    z: 391.0
-    pitch: 0.0
-    yaw: 0.0
-  name: filler
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -334.0
-    y: 43.0
-    z: 393.0
-    pitch: 0.0
-    yaw: 0.0
-  name: filler
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -329.0
-    y: 42.0
-    z: 399.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -327.0
-    y: 42.0
-    z: 401.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -326.0
-    y: 42.0
-    z: 402.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -326.0
-    y: 42.0
-    z: 403.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -325.0
-    y: 42.0
-    z: 404.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -324.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: bank
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -322.0
-    y: 42.0
-    z: 407.0
+    x: 274.0
+    y: 60.0
+    z: -253.0
     pitch: 0.0
     yaw: 0.0
   name: bunker
@@ -147,713 +235,9 @@ structures:
   chest:
     ==: org.bukkit.Location
     world: world
-    x: -320.0
-    y: 42.0
-    z: 407.0
-    pitch: 0.0
-    yaw: 0.0
-  name: woodtower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -321.0
-    y: 42.0
-    z: 406.0
-    pitch: 0.0
-    yaw: 0.0
-  name: roadblock
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -322.0
-    y: 42.0
-    z: 406.0
-    pitch: 0.0
-    yaw: 0.0
-  name: stonetower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -322.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: stonetower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -322.0
-    y: 42.0
-    z: 404.0
-    pitch: 0.0
-    yaw: 0.0
-  name: stonetower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -324.0
-    y: 42.0
-    z: 403.0
-    pitch: 0.0
-    yaw: 0.0
-  name: stonetower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -320.0
-    y: 42.0
-    z: 410.0
-    pitch: 0.0
-    yaw: 0.0
-  name: tunnel
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -318.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: fort
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -318.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -318.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -318.0
-    y: 42.0
-    z: 405.0
-    pitch: 0.0
-    yaw: 0.0
-  name: fence
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -322.0
-    y: 42.0
-    z: 398.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -320.0
-    y: 42.0
-    z: 398.0
-    pitch: 0.0
-    yaw: 0.0
-  name: bank
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -319.0
-    y: 42.0
-    z: 399.0
-    pitch: 0.0
-    yaw: 0.0
-  name: woodtower
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -318.0
-    y: 42.0
-    z: 399.0
+    x: 277.0
+    y: 60.0
+    z: -248.0
     pitch: 0.0
     yaw: 0.0
   name: bunker
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -317.0
-    y: 43.0
-    z: 417.0
-    pitch: 0.0
-    yaw: 0.0
-  name: bank
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -316.0
-    y: 43.0
-    z: 416.0
-    pitch: 0.0
-    yaw: 0.0
-  name: defense
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -339.0
-    y: 45.0
-    z: 318.0
-    pitch: 0.0
-    yaw: 0.0
-  name: bunker
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -340.0
-    y: 45.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: bunker
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -340.0
-    y: 45.0
-    z: 316.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -340.0
-    y: 45.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 45.0
-    z: 316.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 318.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -339.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -339.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -338.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -337.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -336.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -336.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -337.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 318.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -342.0
-    y: 50.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -337.0
-    y: 50.0
-    z: 319.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -336.0
-    y: 50.0
-    z: 320.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 50.0
-    z: 321.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 64.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 64.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 64.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 64.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 59.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -335.0
-    y: 59.0
-    z: 317.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -344.0
-    y: 50.0
-    z: 312.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -344.0
-    y: 50.0
-    z: 312.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -344.0
-    y: 50.0
-    z: 312.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall
-- ==: me.Math0424.Withered.Structures.Structure
-  owner: Math0424
-  chest:
-    ==: org.bukkit.Location
-    world: world
-    x: -343.0
-    y: 50.0
-    z: 314.0
-    pitch: 0.0
-    yaw: 0.0
-  name: wall

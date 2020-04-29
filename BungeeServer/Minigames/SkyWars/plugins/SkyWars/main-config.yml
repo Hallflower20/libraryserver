@@ -16,6 +16,7 @@ save-position-gamemode-health: true
 enabled-arenas:
 - skyblock-warriors
 - water-warriors
+- End
 locale: en
 skywars-arena-gamerules:
   doDaylightCycle: 'false'
@@ -39,7 +40,7 @@ economy:
   kill-reward: 10
   win-reward: 10
   reward-messages: true
-arena-distance-apart: 200
+arena-distance-apart: 500
 arena-copying:
   number-of-blocks-to-copy-at-once: 500
 command-whitelist:

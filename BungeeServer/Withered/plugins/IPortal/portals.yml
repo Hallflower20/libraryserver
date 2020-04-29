@@ -1,21 +1,11 @@
 portals:
-  Hub:
-    world: world
-    x: 739.0
-    y: 199.0
-    z: 6.0
-    x2: 739.0
-    y2: 203.0
-    z2: 7.0
-    type: BUNGEE
-    tpto: '0'
   hub:
     world: world
-    x: 739.0
-    y: 199.0
-    z: 6.0
-    x2: 739.0
-    y2: 203.0
-    z2: 7.0
+    x: 742.0
+    y: 201.0
+    z: 7.0
+    x2: 742.0
+    y2: 199.0
+    z2: 6.0
     type: BUNGEE
     tpto: hub

@@ -12,7 +12,6 @@
 
 config-version: 8
 settings:
-  save-user-cache-on-stop-only: false
   bungeecord: true
   late-bind: false
   sample-count: 12
@@ -33,7 +32,26 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  save-user-cache-on-stop-only: false
   debug: false
+commands:
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  log: true
+  tab-complete: 0
+messages:
+  restart: Server is restarting
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
 timings:
   enabled: true
   verbose: true
@@ -43,24 +61,6 @@ timings:
   - settings.bungeecord-addresses
   history-interval: 300
   history-length: 3600
-commands:
-  tab-complete: 0
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
@@ -128,6 +128,7 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    hanging-tick-frequency: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
@@ -136,7 +137,6 @@ world-settings:
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 10
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     chunks-per-tick: 650
     clear-tick-list: false

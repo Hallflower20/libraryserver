@@ -15206,3 +15206,836 @@ Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException:
 23:26:05 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
 23:26:05 [INFO] [LuckPerms] Goodbye!
 23:26:05 [INFO] Closing IO threads
+23:47:01 [INFO] Using mbed TLS based native cipher.
+23:47:01 [INFO] Using zlib based native compressor.
+23:47:01 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+23:47:01 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:47:01 [INFO] Epoll is working, utilising it!
+23:47:01 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:47:01 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:47:01 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:47:01 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:47:01 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:47:01 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:47:02 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+23:47:02 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+23:47:02 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:02 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+23:47:02 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:03 [INFO] §b       §3 __    
+23:47:03 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+23:47:03 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+23:47:03 [INFO] 
+23:47:03 [INFO] [LuckPerms] Loading configuration...
+23:47:03 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+23:47:03 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+23:47:04 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+23:47:04 [INFO] [LuckPerms] Loading messaging service... [SQL]
+23:47:05 [INFO] [LuckPerms] Loading internal permission managers...
+23:47:05 [INFO] [LuckPerms] Performing initial data load...
+23:47:05 [INFO] [LuckPerms] Successfully enabled. (took 2430ms)
+23:47:05 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+23:47:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:05 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:05 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:05 [INFO] §f
+23:47:05 [INFO] §f§2           ██▌
+23:47:05 [INFO] §f§2     ██▌   ██▌
+23:47:05 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+23:47:05 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+23:47:05 [INFO] §f
+23:47:05 [INFO] [Plan] Locale: 'English' by Rsl1122
+23:47:06 [INFO] [Plan] You're using the latest version.
+23:47:06 [INFO] [Plan] MySQL-database connection established.
+23:47:06 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+23:47:06 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+23:47:06 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+23:47:07 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+23:47:07 [INFO] [Plan] Registered extension: LuckPerms
+23:47:07 [INFO] [Plan] Player Analytics Enabled.
+23:47:07 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+23:47:07 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:07 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:47:09 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+23:47:10 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+23:47:11 [INFO] Listening on /0.0.0.0:25565
+23:47:11 [INFO] §cCommand not found
+23:48:39 [INFO] [/165.124.163.206:60150] <-> InitialHandler has connected
+23:48:40 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:48:48 [INFO] [/73.208.230.151:51444] <-> InitialHandler has pinged
+23:48:48 [INFO] [/73.208.230.151:51448] <-> InitialHandler has pinged
+23:48:49 [INFO] [DavidTheStarman,/73.208.230.151:51450] <-> InitialHandler has connected
+23:48:49 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+23:48:51 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+23:48:52 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:48:55 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+23:48:55 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+23:49:05 [INFO] [/165.124.163.206:60168] <-> InitialHandler has pinged
+23:49:08 [INFO] [/10.0.1.4:60175] <-> InitialHandler has pinged
+23:50:41 [SEVERE] Exception in thread "main" 
+23:50:41 [SEVERE] java.io.IOException: Input/output error
+23:50:41 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+23:50:41 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+23:50:41 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+23:50:41 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+23:50:41 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+23:50:41 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+23:50:41 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+23:50:41 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+23:50:41 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+23:50:41 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+23:50:41 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+23:50:41 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+23:50:41 [INFO] Closing listener [id: 0xb464b253, L:/0:0:0:0:0:0:0:0%0:25565]
+23:50:41 [INFO] Closing pending connections
+23:50:41 [INFO] Disconnecting 2 connections
+23:50:41 [INFO] [DavidTheStarman] disconnected with: §f[Proxy] Proxy restarting.
+23:50:41 [INFO] [Hallflower] disconnected with: §f[Proxy] Proxy restarting.
+23:50:41 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+23:50:41 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+23:50:41 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+23:50:41 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+23:50:41 [INFO] Disabling plugins
+23:50:41 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+23:50:41 [INFO] [Plan] Processing complete.
+23:50:41 [INFO] [Plan] Webserver has been disabled.
+23:50:41 [INFO] [Plan] Player Analytics Disabled.
+23:50:41 [INFO] [LuckPerms] Starting shutdown process...
+23:50:41 [INFO] [LuckPerms] Closing messaging service...
+23:50:41 [INFO] [LuckPerms] Closing storage...
+23:50:41 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+23:50:41 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+23:50:41 [INFO] [LuckPerms] Goodbye!
+23:50:41 [INFO] Closing IO threads
+23:51:01 [INFO] Using mbed TLS based native cipher.
+23:51:01 [INFO] Using zlib based native compressor.
+23:51:01 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+23:51:01 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:51:01 [INFO] Epoll is working, utilising it!
+23:51:01 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:51:01 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+23:51:01 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+23:51:01 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:01 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+23:51:02 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:02 [INFO] §b       §3 __    
+23:51:02 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+23:51:02 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+23:51:02 [INFO] 
+23:51:02 [INFO] [LuckPerms] Loading configuration...
+23:51:02 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+23:51:02 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+23:51:02 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+23:51:02 [INFO] [LuckPerms] Loading messaging service... [SQL]
+23:51:02 [INFO] [LuckPerms] Loading internal permission managers...
+23:51:02 [INFO] [LuckPerms] Performing initial data load...
+23:51:02 [INFO] [LuckPerms] Successfully enabled. (took 952ms)
+23:51:02 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+23:51:02 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:02 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:02 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:03 [INFO] §f
+23:51:03 [INFO] §f§2           ██▌
+23:51:03 [INFO] §f§2     ██▌   ██▌
+23:51:03 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+23:51:03 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+23:51:03 [INFO] §f
+23:51:03 [INFO] [Plan] Locale: 'English' by Rsl1122
+23:51:03 [INFO] [Plan] You're using the latest version.
+23:51:03 [INFO] [Plan] MySQL-database connection established.
+23:51:03 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+23:51:03 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+23:51:03 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+23:51:03 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+23:51:03 [INFO] [Plan] Registered extension: LuckPerms
+23:51:04 [INFO] [Plan] Player Analytics Enabled.
+23:51:04 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+23:51:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+23:51:04 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+23:51:04 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+23:51:04 [INFO] Listening on /0.0.0.0:25565
+23:51:08 [INFO] [/98.32.158.72:61439] <-> InitialHandler has pinged
+23:51:10 [INFO] [/165.124.163.206:60262] <-> InitialHandler has connected
+23:51:11 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:51:17 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+23:51:18 [WARNING] No client connected for pending server!
+23:51:18 [INFO] [Hallflower] <-> ServerConnector [hub] has disconnected
+23:51:37 [INFO] [Hallflower,/165.124.163.206:60279] <-> InitialHandler has connected
+23:51:37 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:51:49 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+23:51:50 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:52:07 [INFO] [/73.208.230.151:51470] <-> InitialHandler has pinged
+23:52:07 [INFO] [/73.208.230.151:51471] <-> InitialHandler has pinged
+23:52:08 [INFO] [DavidTheStarman,/73.208.230.151:51473] <-> InitialHandler has connected
+23:52:08 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+23:52:14 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+23:52:14 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:02:37 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - read timed out
+00:02:37 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:02:37 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:02:37 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:02:37 [WARNING] No client connected for pending server!
+00:02:37 [INFO] [Hallflower] <-> ServerConnector [hub] has disconnected
+00:02:37 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] - read timed out
+00:02:37 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:02:37 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:02:43 [INFO] [Hallflower,/165.124.163.206:61612] <-> InitialHandler has connected
+00:02:43 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:02:46 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:02:54 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:03:16 [WARNING] [DavidTheStarman] <-> ServerConnector [skywars] - read timed out
+00:03:16 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has disconnected
+00:03:24 [WARNING] [Hallflower] <-> ServerConnector [skywars] - read timed out
+00:03:24 [INFO] [Hallflower] <-> ServerConnector [skywars] has disconnected
+00:06:56 [WARNING] [DavidTheStarman] -> UpstreamBridge - NativeIoException: readAddress(..) failed: Connection reset by peer
+00:06:56 [INFO] [DavidTheStarman] disconnected with: §fNativeIoException : readAddress(..) failed: Connection reset by peer
+00:06:56 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:06:56 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:08:26 [INFO] [/73.208.230.151:51704] <-> InitialHandler has pinged
+00:08:26 [INFO] [/73.208.230.151:51707] <-> InitialHandler has pinged
+00:08:28 [INFO] [DavidTheStarman,/73.208.230.151:51708] <-> InitialHandler has connected
+00:08:29 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:08:59 [SEVERE] Exception in thread "main" 
+00:08:59 [SEVERE] java.io.IOException: Input/output error
+00:08:59 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:08:59 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:08:59 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:08:59 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:08:59 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:08:59 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:08:59 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:08:59 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+00:08:59 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+00:08:59 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+00:08:59 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+00:08:59 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:08:59 [INFO] Closing listener [id: 0x34454100, L:/0:0:0:0:0:0:0:0%0:25565]
+00:08:59 [INFO] Closing pending connections
+00:08:59 [INFO] Disconnecting 2 connections
+00:08:59 [INFO] [DavidTheStarman] disconnected with: §f[Proxy] Proxy restarting.
+00:08:59 [INFO] [Hallflower] disconnected with: §f[Proxy] Proxy restarting.
+00:08:59 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:08:59 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:08:59 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:08:59 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:08:59 [INFO] Disabling plugins
+00:08:59 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+00:08:59 [INFO] [Plan] Processing complete.
+00:08:59 [INFO] [Plan] Webserver has been disabled.
+00:08:59 [INFO] [Plan] Player Analytics Disabled.
+00:08:59 [INFO] [LuckPerms] Starting shutdown process...
+00:08:59 [INFO] [LuckPerms] Closing messaging service...
+00:08:59 [INFO] [LuckPerms] Closing storage...
+00:08:59 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+00:08:59 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+00:08:59 [INFO] [LuckPerms] Goodbye!
+00:08:59 [INFO] Closing IO threads
+00:09:12 [INFO] Using mbed TLS based native cipher.
+00:09:12 [INFO] Using zlib based native compressor.
+00:09:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+00:09:12 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:09:12 [INFO] Epoll is working, utilising it!
+00:09:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:09:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+00:09:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+00:09:12 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:09:12 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:12 [INFO] §b       §3 __    
+00:09:12 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+00:09:12 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+00:09:12 [INFO] 
+00:09:12 [INFO] [LuckPerms] Loading configuration...
+00:09:13 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+00:09:13 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+00:09:13 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+00:09:13 [INFO] [LuckPerms] Loading messaging service... [SQL]
+00:09:13 [INFO] [LuckPerms] Loading internal permission managers...
+00:09:13 [INFO] [LuckPerms] Performing initial data load...
+00:09:13 [INFO] [LuckPerms] Successfully enabled. (took 983ms)
+00:09:13 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+00:09:13 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:13 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:13 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:13 [INFO] §f
+00:09:13 [INFO] §f§2           ██▌
+00:09:13 [INFO] §f§2     ██▌   ██▌
+00:09:13 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+00:09:13 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+00:09:13 [INFO] §f
+00:09:13 [INFO] [Plan] Locale: 'English' by Rsl1122
+00:09:14 [INFO] [Plan] You're using the latest version.
+00:09:14 [INFO] [Plan] MySQL-database connection established.
+00:09:14 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+00:09:14 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+00:09:14 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+00:09:14 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+00:09:14 [INFO] [Plan] Registered extension: LuckPerms
+00:09:14 [INFO] [Plan] Player Analytics Enabled.
+00:09:14 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+00:09:14 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:14 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:09:15 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+00:09:15 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:09:15 [INFO] Listening on /0.0.0.0:25565
+00:10:19 [SEVERE] Exception in thread "main" 
+00:10:19 [SEVERE] java.io.IOException: Input/output error
+00:10:19 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:10:19 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:10:19 [INFO] Closing listener [id: 0x07391fe9, L:/0:0:0:0:0:0:0:0%0:25565]
+00:10:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:10:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:10:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:10:19 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:10:19 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:10:19 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+00:10:19 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+00:10:19 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+00:10:19 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+00:10:19 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:10:19 [INFO] Closing pending connections
+00:10:19 [INFO] Disconnecting 0 connections
+00:10:20 [INFO] Disabling plugins
+00:10:20 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+00:10:20 [INFO] [Plan] Processing complete.
+00:10:20 [INFO] [Plan] Webserver has been disabled.
+00:10:20 [INFO] [Plan] Player Analytics Disabled.
+00:10:20 [INFO] [LuckPerms] Starting shutdown process...
+00:10:20 [INFO] [LuckPerms] Closing messaging service...
+00:10:20 [INFO] [LuckPerms] Closing storage...
+00:10:20 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+00:10:20 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+00:10:20 [INFO] [LuckPerms] Goodbye!
+00:10:20 [INFO] Closing IO threads
+00:10:53 [INFO] Using mbed TLS based native cipher.
+00:10:53 [INFO] Using zlib based native compressor.
+00:10:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+00:10:53 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:10:53 [INFO] Epoll is working, utilising it!
+00:10:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:10:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+00:10:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+00:10:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:10:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:53 [INFO] §b       §3 __    
+00:10:53 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+00:10:53 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+00:10:53 [INFO] 
+00:10:53 [INFO] [LuckPerms] Loading configuration...
+00:10:54 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+00:10:54 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+00:10:54 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+00:10:54 [INFO] [LuckPerms] Loading messaging service... [SQL]
+00:10:54 [INFO] [LuckPerms] Loading internal permission managers...
+00:10:54 [INFO] [LuckPerms] Performing initial data load...
+00:10:54 [INFO] [LuckPerms] Successfully enabled. (took 868ms)
+00:10:54 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+00:10:54 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:54 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:54 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:54 [INFO] §f
+00:10:54 [INFO] §f§2           ██▌
+00:10:54 [INFO] §f§2     ██▌   ██▌
+00:10:54 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+00:10:54 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+00:10:54 [INFO] §f
+00:10:54 [INFO] [Plan] Locale: 'English' by Rsl1122
+00:10:55 [INFO] [Plan] You're using the latest version.
+00:10:55 [INFO] [Plan] MySQL-database connection established.
+00:10:55 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+00:10:55 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+00:10:55 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+00:10:55 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+00:10:55 [INFO] [Plan] Registered extension: LuckPerms
+00:10:55 [INFO] [Plan] Player Analytics Enabled.
+00:10:55 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+00:10:55 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:55 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:10:55 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+00:10:55 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:10:55 [INFO] Listening on /0.0.0.0:25565
+00:11:40 [INFO] [/73.208.230.151:51724] <-> InitialHandler has pinged
+00:11:40 [INFO] [/73.208.230.151:51720] <-> InitialHandler has pinged
+00:11:41 [INFO] [/73.208.230.151:51725] <-> InitialHandler has connected
+00:11:42 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:11:45 [INFO] [Hallflower,/10.0.1.4:54836] <-> InitialHandler has connected
+00:11:45 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:11:48 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:11:48 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:12:08 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:12:08 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:13:42 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] - read timed out
+00:13:42 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - read timed out
+00:13:42 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:13:42 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:13:42 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:13:42 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:13:42 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:13:42 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:13:42 [WARNING] No client connected for pending server!
+00:13:42 [INFO] [Hallflower] <-> ServerConnector [hub] has disconnected
+00:13:42 [WARNING] No client connected for pending server!
+00:13:42 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:13:54 [SEVERE] Exception in thread "main" 
+00:13:54 [SEVERE] java.io.IOException: Input/output error
+00:13:54 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:13:54 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:13:54 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:13:54 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:13:54 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:13:54 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:13:54 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:13:54 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+00:13:54 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+00:13:54 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+00:13:54 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+00:13:54 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:13:54 [INFO] Closing listener [id: 0x2641a911, L:/0:0:0:0:0:0:0:0%0:25565]
+00:13:54 [INFO] Closing pending connections
+00:13:54 [INFO] Disconnecting 0 connections
+00:13:55 [INFO] Disabling plugins
+00:13:55 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+00:13:55 [INFO] [Plan] Processing complete.
+00:13:55 [INFO] [Plan] Webserver has been disabled.
+00:13:55 [INFO] [Plan] Player Analytics Disabled.
+00:13:55 [INFO] [LuckPerms] Starting shutdown process...
+00:13:55 [INFO] [LuckPerms] Closing messaging service...
+00:13:55 [INFO] [LuckPerms] Closing storage...
+00:13:55 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+00:13:55 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+00:13:55 [INFO] [LuckPerms] Goodbye!
+00:13:55 [INFO] Closing IO threads
+00:15:16 [INFO] Using mbed TLS based native cipher.
+00:15:16 [INFO] Using zlib based native compressor.
+00:15:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+00:15:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:15:16 [INFO] Epoll is working, utilising it!
+00:15:16 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:15:16 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+00:15:16 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+00:15:16 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:16 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:15:17 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:17 [INFO] §b       §3 __    
+00:15:17 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+00:15:17 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+00:15:17 [INFO] 
+00:15:17 [INFO] [LuckPerms] Loading configuration...
+00:15:17 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+00:15:17 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+00:15:17 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+00:15:17 [INFO] [LuckPerms] Loading messaging service... [SQL]
+00:15:17 [INFO] [LuckPerms] Loading internal permission managers...
+00:15:17 [INFO] [LuckPerms] Performing initial data load...
+00:15:17 [INFO] [LuckPerms] Successfully enabled. (took 822ms)
+00:15:17 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+00:15:17 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:17 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:17 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:18 [INFO] §f
+00:15:18 [INFO] §f§2           ██▌
+00:15:18 [INFO] §f§2     ██▌   ██▌
+00:15:18 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+00:15:18 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+00:15:18 [INFO] §f
+00:15:18 [INFO] [Plan] Locale: 'English' by Rsl1122
+00:15:18 [INFO] [Plan] You're using the latest version.
+00:15:18 [INFO] [Plan] MySQL-database connection established.
+00:15:18 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+00:15:18 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+00:15:18 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+00:15:18 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+00:15:18 [INFO] [Plan] Registered extension: LuckPerms
+00:15:18 [INFO] [Plan] Player Analytics Enabled.
+00:15:18 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+00:15:18 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:18 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:15:18 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+00:15:18 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:15:18 [INFO] Listening on /0.0.0.0:25565
+00:16:03 [INFO] [/73.208.230.151:51763] <-> InitialHandler has pinged
+00:16:03 [INFO] [/73.208.230.151:51760] <-> InitialHandler has pinged
+00:16:04 [INFO] [/73.208.230.151:51766] <-> InitialHandler has connected
+00:16:05 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:16:09 [INFO] [/98.32.158.72:61916] <-> InitialHandler has pinged
+00:16:15 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:16:15 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:16:22 [INFO] [/98.32.158.72:61931] <-> InitialHandler has pinged
+00:16:23 [INFO] [Hallflower,/10.0.1.4:54999] <-> InitialHandler has connected
+00:16:24 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:16:25 [INFO] [Hallflower,/10.0.1.4:55001] <-> InitialHandler has connected
+00:16:26 [INFO] [Hallflower] disconnected with: §cYou are already connected to this proxy!
+00:16:26 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:16:26 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:16:26 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:16:37 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:16:37 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:19:27 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - read timed out
+00:19:27 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:19:27 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:19:43 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:19:45 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] - read timed out
+00:19:45 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:19:45 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:19:56 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:20:09 [INFO] [Hallflower] <-> ServerConnector [skywars] has disconnected
+00:20:09 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has disconnected
+00:21:33 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:21:34 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:21:35 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:21:35 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:21:39 [INFO] [/98.32.158.72:61968] <-> InitialHandler has pinged
+00:21:49 [INFO] [/98.32.158.72:61980] <-> InitialHandler has pinged
+00:21:50 [INFO] [Math0424,/98.32.158.72:61984] <-> InitialHandler has connected
+00:21:50 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:22:03 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+00:22:03 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:23:12 [INFO] [Math0424] -> UpstreamBridge has disconnected
+00:23:12 [INFO] [Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+00:23:12 [INFO] [/98.32.158.72:62006] <-> InitialHandler has pinged
+00:23:40 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:23:40 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:23:42 [INFO] [/98.32.158.72:62096] <-> InitialHandler has pinged
+00:24:30 [INFO] [DavidTheStarman] disconnected with: §fServer closed
+00:24:30 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:24:30 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:26:14 [INFO] [/73.208.230.151:51830] <-> InitialHandler has pinged
+00:26:14 [INFO] [/73.208.230.151:51831] <-> InitialHandler has pinged
+00:26:15 [INFO] [DavidTheStarman,/73.208.230.151:51832] <-> InitialHandler has connected
+00:26:16 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:26:21 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:26:21 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has disconnected
+00:26:23 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:26:23 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:26:27 [INFO] [/98.32.158.72:62193] <-> InitialHandler has pinged
+00:26:29 [INFO] [Math0424,/98.32.158.72:62196] <-> InitialHandler has connected
+00:26:30 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:26:37 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:26:37 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:26:41 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+00:26:41 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:27:30 [INFO] [Math0424] -> UpstreamBridge has disconnected
+00:27:30 [INFO] [Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+00:27:30 [INFO] [/98.32.158.72:62208] <-> InitialHandler has pinged
+00:27:35 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] - read timed out
+00:27:35 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:27:35 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:27:35 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - read timed out
+00:27:35 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:27:35 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:27:35 [INFO] [/98.32.158.72:62222] <-> InitialHandler has pinged
+00:29:24 [INFO] [/98.32.158.72:62247] <-> InitialHandler has pinged
+00:29:25 [INFO] [Math0424,/98.32.158.72:62257] <-> InitialHandler has connected
+00:29:25 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:29:29 [INFO] [/98.32.158.72:62264] <-> InitialHandler has pinged
+00:29:43 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:29:44 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:29:45 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+00:29:45 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:30:07 [INFO] [/73.211.183.236:63590] <-> InitialHandler has pinged
+00:30:10 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:30:10 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:37:21 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] - read timed out
+00:37:21 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - read timed out
+00:37:21 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:37:21 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:37:21 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:37:21 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:37:21 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:37:21 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:37:21 [WARNING] No client connected for pending server!
+00:37:21 [INFO] [Hallflower] <-> ServerConnector [hub] has disconnected
+00:37:21 [WARNING] No client connected for pending server!
+00:37:21 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:37:31 [INFO] [Hallflower,/10.0.1.4:64827] <-> InitialHandler has connected
+00:37:32 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:37:44 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:37:44 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:37:56 [INFO] [/73.208.230.151:51886] <-> InitialHandler has pinged
+00:37:56 [INFO] [/73.208.230.151:51888] <-> InitialHandler has pinged
+00:37:57 [INFO] [DavidTheStarman,/73.208.230.151:51889] <-> InitialHandler has connected
+00:37:57 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:38:02 [INFO] [DavidTheStarman] <-> ServerConnector [skywars] has connected
+00:38:02 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:48:20 [INFO] [Math0424] disconnected with: §fServer closed
+00:48:20 [INFO] [DavidTheStarman] disconnected with: §fServer closed
+00:48:20 [INFO] [Math0424] -> UpstreamBridge has disconnected
+00:48:20 [INFO] [Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+00:48:20 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:48:20 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+00:48:21 [WARNING] [Hallflower] <-> DownstreamBridge <-> [skywars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+00:48:21 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+00:48:21 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:48:25 [INFO] [Math0424,/98.32.158.72:62469] <-> InitialHandler has connected
+00:48:26 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:48:36 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+00:48:42 [INFO] [Math0424] <-> ServerConnector [skywars] has disconnected
+00:48:42 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+00:48:42 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:48:52 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+00:48:52 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:49:18 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:09:31 [INFO] [Hallflower] disconnected with: §fServer closed
+01:09:31 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:09:31 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+01:09:32 [WARNING] [Math0424] <-> DownstreamBridge <-> [skywars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+01:09:32 [INFO] [Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+01:09:32 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:09:42 [INFO] [Hallflower,/10.0.1.4:49565] <-> InitialHandler has connected
+01:09:42 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:10:41 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:10:46 [INFO] [Math0424] <-> ServerConnector [withered] has disconnected
+01:12:12 [SEVERE] Exception in thread "main" 
+01:12:12 [SEVERE] java.io.IOException: Input/output error
+01:12:12 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+01:12:12 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+01:12:12 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+01:12:12 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+01:12:12 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+01:12:12 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+01:12:12 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+01:12:12 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+01:12:12 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+01:12:12 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+01:12:12 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+01:12:12 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+01:12:12 [INFO] Closing listener [id: 0x5f250eb6, L:/0:0:0:0:0:0:0:0%0:25565]
+01:12:12 [INFO] Closing pending connections
+01:12:12 [INFO] Disconnecting 2 connections
+01:12:12 [INFO] [Hallflower] disconnected with: §f[Proxy] Proxy restarting.
+01:12:12 [INFO] [Math0424] disconnected with: §f[Proxy] Proxy restarting.
+01:12:12 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:12:12 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:12:12 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:12:12 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:12:12 [INFO] Disabling plugins
+01:12:12 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+01:12:12 [INFO] [Plan] Processing complete.
+01:12:12 [INFO] [Plan] Webserver has been disabled.
+01:12:12 [INFO] [Plan] Player Analytics Disabled.
+01:12:12 [INFO] [LuckPerms] Starting shutdown process...
+01:12:12 [INFO] [LuckPerms] Closing messaging service...
+01:12:12 [INFO] [LuckPerms] Closing storage...
+01:12:12 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+01:12:12 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+01:12:12 [INFO] [LuckPerms] Goodbye!
+01:12:12 [INFO] Closing IO threads
+01:13:44 [INFO] Using mbed TLS based native cipher.
+01:13:44 [INFO] Using zlib based native compressor.
+01:13:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:13:44 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:13:44 [INFO] Epoll is working, utilising it!
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:13:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:13:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:13:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] §b       §3 __    
+01:13:44 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:13:44 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:13:44 [INFO] 
+01:13:44 [INFO] [LuckPerms] Loading configuration...
+01:13:45 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:13:45 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:13:45 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:13:45 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:13:45 [INFO] [LuckPerms] Loading internal permission managers...
+01:13:45 [INFO] [LuckPerms] Performing initial data load...
+01:13:45 [INFO] [LuckPerms] Successfully enabled. (took 926ms)
+01:13:45 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:13:45 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:45 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:45 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] §f
+01:13:46 [INFO] §f§2           ██▌
+01:13:46 [INFO] §f§2     ██▌   ██▌
+01:13:46 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:13:46 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:13:46 [INFO] §f
+01:13:46 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:13:46 [INFO] [Plan] You're using the latest version.
+01:13:46 [INFO] [Plan] MySQL-database connection established.
+01:13:46 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:13:46 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:13:46 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:13:46 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:13:46 [INFO] [Plan] Registered extension: LuckPerms
+01:13:46 [INFO] [Plan] Player Analytics Enabled.
+01:13:46 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:13:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:13:47 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:13:47 [INFO] Listening on /0.0.0.0:25565
+01:14:59 [INFO] [/10.0.1.4:57884] <-> InitialHandler has connected
+01:15:00 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:15:22 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+01:15:23 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:15:46 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:16:44 [INFO] [/98.32.158.72:62678] <-> InitialHandler has pinged
+01:16:48 [INFO] [Math0424,/98.32.158.72:62690] <-> InitialHandler has connected
+01:16:48 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:16:49 [INFO] [/98.32.158.72:62695] <-> InitialHandler has pinged
+01:16:55 [INFO] [Math0424] <-> ServerConnector [skywars] has connected
+01:16:55 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:20:46 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:23:46 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:24:46 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:32:57 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:32:57 [INFO] [Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+01:33:07 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:33:07 [INFO] [Math0424] <-> ServerConnector [withered] has disconnected
+01:33:09 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:33:09 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:33:09 [INFO] [/98.32.158.72:62856] <-> InitialHandler has pinged
+01:33:42 [INFO] [/98.32.158.72:62970] <-> InitialHandler has pinged
+01:33:44 [INFO] [Math0424,/98.32.158.72:62975] <-> InitialHandler has connected
+01:33:45 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:33:50 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:33:50 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:34:39 [INFO] [Math0424] disconnected with: §fServer closed
+01:34:39 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:34:39 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+01:34:56 [INFO] [Math0424,/98.32.158.72:62982] <-> InitialHandler has connected
+01:34:57 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:35:11 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:35:11 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:35:43 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+01:35:43 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:35:43 [INFO] [Hallflower] <-> ServerConnector [withered] has disconnected
+01:35:43 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+01:35:46 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+01:35:46 [INFO] [Hallflower] <-> ServerConnector [withered] has disconnected
+01:35:50 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:35:50 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:36:19 [INFO] [Hallflower,/165.124.163.206:58773] <-> InitialHandler has connected
+01:36:20 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:36:37 [INFO] [Hallflower] <-> ServerConnector [skywars] has connected
+01:36:37 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:36:42 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+01:36:42 [INFO] [Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+01:37:08 [INFO] [/165.124.163.206:58808] <-> InitialHandler has pinged
+01:37:11 [INFO] [/10.0.1.4:58811] <-> InitialHandler has pinged
+01:37:45 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:37:45 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+01:37:50 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:37:50 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:40:18 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:40:18 [INFO] [Hallflower] <-> DownstreamBridge <-> [withered] has disconnected
+01:40:30 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+01:40:30 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:41:49 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:41:49 [INFO] [Hallflower] <-> DownstreamBridge <-> [withered] has disconnected
+01:41:53 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+01:41:53 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:57:41 [INFO] [Math0424] disconnected with: §fBreaking international nuke laws
+01:57:41 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:57:41 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+01:57:48 [INFO] [Math0424,/98.32.158.72:63102] <-> InitialHandler has connected
+01:57:48 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:57:53 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+01:57:53 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:08:20 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:08:20 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+02:08:25 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+02:08:25 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:16:31 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:16:31 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+02:16:34 [INFO] [Math0424] <-> ServerConnector [withered] has connected
+02:16:34 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:18:29 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+02:18:29 [INFO] [Hallflower] <-> DownstreamBridge <-> [withered] has disconnected
+02:18:39 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+02:18:39 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:18:47 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+02:18:47 [INFO] [Hallflower] <-> DownstreamBridge <-> [withered] has disconnected
+02:18:49 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:18:49 [INFO] [Math0424] <-> DownstreamBridge <-> [withered] has disconnected
+02:19:00 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+02:19:00 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:19:04 [INFO] [Math0424] -> UpstreamBridge has disconnected
+02:19:04 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+12:34:51 [INFO] [/73.208.230.151:54170] <-> InitialHandler has pinged
+12:34:51 [INFO] [/73.208.230.151:54173] <-> InitialHandler has pinged
+12:34:53 [INFO] [DavidTheStarman,/73.208.230.151:54174] <-> InitialHandler has connected
+12:34:54 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+12:41:25 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+12:41:25 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+12:52:02 [INFO] [/73.208.230.151:54423] <-> InitialHandler has pinged
+12:52:03 [INFO] [/73.208.230.151:54428] <-> InitialHandler has pinged
+12:52:04 [INFO] [/73.208.230.151:54431] <-> InitialHandler has pinged
+12:52:04 [INFO] [/73.208.230.151:54436] <-> InitialHandler has pinged
+12:52:05 [INFO] [DavidTheStarman,/73.208.230.151:54437] <-> InitialHandler has connected
+12:52:05 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+12:53:15 [INFO] [DavidTheStarman] <-> ServerConnector [elytra] has connected
+12:53:16 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+12:53:24 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+12:53:25 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [elytra] has disconnected
+12:53:31 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+12:53:31 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+12:54:13 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+12:54:13 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+12:54:13 [INFO] [/73.208.230.151:54454] <-> InitialHandler has pinged
+12:54:13 [INFO] [/73.208.230.151:54459] <-> InitialHandler has pinged
+12:54:14 [INFO] [DavidTheStarman,/73.208.230.151:54460] <-> InitialHandler has connected
+12:54:15 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+12:55:50 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+12:55:50 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
