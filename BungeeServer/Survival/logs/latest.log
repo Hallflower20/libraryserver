@@ -1,191 +1,178 @@
-[00:35:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[00:35:11] [Server thread/INFO]: Loading properties
-[00:35:11] [Server thread/INFO]: This server is running Paper version git-Paper-211 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[00:35:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:35:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:35:11] [Server thread/INFO]: Debug logging is disabled
-[00:35:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:35:11] [Server thread/INFO]: Generating keypair
-[00:35:11] [Server thread/INFO]: Starting Minecraft server on *:25556
-[00:35:11] [Server thread/INFO]: Using epoll channel type
-[00:35:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:35:15] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
-[00:35:15] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
-[00:35:15] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
-[00:35:15] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[00:35:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[00:35:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@53ec322d]
-[00:35:16] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
-[00:35:16] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
-[00:35:16] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
-[00:35:16] [Server thread/INFO]: [SurvivalDuels] Loading SurvivalDuels v1.0.0
-[00:35:16] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[00:35:16] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
-[00:35:16] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
-[00:35:16] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[00:35:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:35:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[00:35:16] [Server thread/INFO]:         __    
-[00:35:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
-[00:35:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:35:16] [Server thread/INFO]: 
-[00:35:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:35:16] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[00:35:16] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
-[00:35:16] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [luckperms-hikari connection adder/WARN]: Thu Apr 30 00:35:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[00:35:17] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:35:17] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:35:17] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1518ms)
-[00:35:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[00:35:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[00:35:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[00:35:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:35:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:35:18] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[00:35:18] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[00:35:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:35:18] [Server thread/INFO]: Preparing level "world"
-[00:35:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[00:35:19] [Server thread/INFO]: Loaded 6 recipes
-[00:35:19] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:35:19] [Server thread/INFO]: Mob Spawn Range: 8
-[00:35:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:35:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:35:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:35:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:35:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:35:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[00:35:19] [Server thread/INFO]: Max TNT Explosions: 100
-[00:35:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:35:19] [Server thread/INFO]: View Distance: 10
-[00:35:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:35:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:35:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:35:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:35:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:35:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:35:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[00:35:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:35:20] [Server thread/INFO]: Mob Spawn Range: 8
-[00:35:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:35:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:35:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:35:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:35:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[00:35:20] [Server thread/INFO]: Max TNT Explosions: 100
-[00:35:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:35:20] [Server thread/INFO]: View Distance: 10
-[00:35:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:35:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:35:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:35:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:35:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:35:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:35:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:35:20] [Server thread/INFO]: Mob Spawn Range: 8
-[00:35:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:35:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:35:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:35:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:35:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:35:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[00:35:20] [Server thread/INFO]: Max TNT Explosions: 100
-[00:35:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:35:20] [Server thread/INFO]: View Distance: 10
-[00:35:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:35:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:35:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:35:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:35:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:35:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:35:20] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[00:35:20] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[00:35:20] [Server thread/INFO]: Time elapsed: 245 ms
-[00:35:20] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[00:35:20] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[00:35:20] [Server thread/INFO]: Time elapsed: 64 ms
-[00:35:20] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[00:35:20] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[00:35:20] [Server thread/INFO]: Time elapsed: 80 ms
-[00:35:20] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
-[00:35:20] [Server thread/INFO]: ===================================
-[00:35:20] [Server thread/INFO]: ===================================
-[00:35:20] [Server thread/INFO]: Check out my other Plugins!
-[00:35:20] [Server thread/INFO]: I also sell a BedWars Plugin!
-[00:35:20] [Server thread/INFO]: ===================================
-[00:35:20] [Server thread/INFO]: ===================================
-[00:35:20] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] Checkpoint start
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] checkpointClose start
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] checkpointClose synched
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] checkpointClose script done
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] checkpointClose end
-[00:35:21] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] Checkpoint end - txts: 1
-[00:35:21] [Server thread/INFO]: 
+[01:51:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:51:58] [Server thread/INFO]: Loading properties
+[01:51:58] [Server thread/INFO]: This server is running Paper version git-Paper-211 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:51:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:51:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:51:58] [Server thread/INFO]: Debug logging is disabled
+[01:51:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:58] [Server thread/INFO]: Generating keypair
+[01:51:58] [Server thread/INFO]: Starting Minecraft server on *:25556
+[01:51:58] [Server thread/INFO]: Using epoll channel type
+[01:51:59] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:52:02] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[01:52:02] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[01:52:02] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
+[01:52:02] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[01:52:02] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[01:52:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[01:52:04] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5be3f33f]
+[01:52:04] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[01:52:04] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
+[01:52:04] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
+[01:52:04] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[01:52:04] [Server thread/INFO]: [SurvivalDuels] Loading SurvivalDuels v1.0.0
+[01:52:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[01:52:04] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[01:52:04] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[01:52:04] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[01:52:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:52:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[01:52:04] [Server thread/INFO]:         __    
+[01:52:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[01:52:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:52:04] [Server thread/INFO]: 
+[01:52:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:52:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[01:52:04] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[01:52:04] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[01:52:04] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[01:52:05] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:52:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:52:05] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1202ms)
+[01:52:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[01:52:05] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:52:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[01:52:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:52:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:52:06] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[01:52:06] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[01:52:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:52:06] [Server thread/INFO]: Preparing level "world"
+[01:52:06] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:52:06] [Server thread/INFO]: Loaded 6 recipes
+[01:52:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:52:07] [Server thread/INFO]: Mob Spawn Range: 8
+[01:52:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:52:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:52:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:52:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:52:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:52:07] [Server thread/INFO]: Max TNT Explosions: 100
+[01:52:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:52:07] [Server thread/INFO]: View Distance: 10
+[01:52:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:52:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:52:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:52:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:52:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:52:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:52:07] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:52:07] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:52:07] [Server thread/INFO]: Mob Spawn Range: 8
+[01:52:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:52:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:52:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:52:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:52:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:52:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:52:07] [Server thread/INFO]: Max TNT Explosions: 100
+[01:52:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:52:07] [Server thread/INFO]: View Distance: 10
+[01:52:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:52:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:52:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:52:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:52:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:52:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:52:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:52:08] [Server thread/INFO]: Mob Spawn Range: 8
+[01:52:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:52:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:52:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:52:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:52:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:52:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:52:08] [Server thread/INFO]: Max TNT Explosions: 100
+[01:52:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:52:08] [Server thread/INFO]: View Distance: 10
+[01:52:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:52:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:52:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:52:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:52:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:52:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:52:08] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[01:52:08] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[01:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:08] [Server thread/INFO]: Time elapsed: 163 ms
+[01:52:08] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[01:52:08] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[01:52:08] [Server thread/INFO]: Time elapsed: 80 ms
+[01:52:08] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[01:52:08] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[01:52:08] [Server thread/INFO]: Time elapsed: 43 ms
+[01:52:08] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[01:52:08] [Server thread/INFO]: ===================================
+[01:52:08] [Server thread/INFO]: ===================================
+[01:52:08] [Server thread/INFO]: Check out my other Plugins!
+[01:52:08] [Server thread/INFO]: I also sell a BedWars Plugin!
+[01:52:08] [Server thread/INFO]: ===================================
+[01:52:08] [Server thread/INFO]: ===================================
+[01:52:08] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[01:52:08] [Server thread/INFO]: 
  
 []=====[Enabling AdvancedBan]=====[]
 | Information:
 |   Name: AdvancedBan
 |   Developer: Leoko
 |   Version: 2.1.8
-|   Storage: HSQLDB (local)
+|   Storage: MySQL (external)
 | Support:
 |   Github: https://github.com/DevLeoko/AdvancedBan/issues
 |   Discord: https://discord.gg/ycDG6rS
@@ -194,135 +181,1405 @@
 |   You have the newest version
 []================================[]
  
-[00:35:21] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
-[00:35:21] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
-[00:35:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
-[00:35:22] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
-[00:35:22] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
-[00:35:22] [Server thread/INFO]: [iPortal] IPortal has been enabled!
-[00:35:22] [Server thread/INFO]: [SurvivalDuels] Enabling SurvivalDuels v1.0.0
-[00:35:22] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[00:35:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[00:35:22] [Server thread/INFO]: [WorldGuard] Loading region data...
-[00:35:22] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
-[00:35:22] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[00:35:22] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[00:35:22] [Server thread/INFO]: --------------------
-[00:35:22] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
-[00:35:22] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
-[00:35:22] [Server thread/INFO]: --------------------
-[00:35:22] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
-[00:35:22] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[00:35:22] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
-[00:35:23] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[00:35:23] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[00:35:23] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[00:35:23] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[00:35:23] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[00:35:23] [Server thread/INFO]: 
-[00:35:23] [Server thread/INFO]:            ██▌
-[00:35:23] [Server thread/INFO]:      ██▌   ██▌
-[00:35:23] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
-[00:35:23] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
-[00:35:23] [Server thread/INFO]: 
-[00:35:23] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[00:35:24] [Server thread/INFO]: [Plan] You're using the latest version.
-[00:35:24] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[00:35:24] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[00:35:24] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[00:35:24] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
-[00:35:24] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
-[00:35:24] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[00:35:24] [Server thread/INFO]: [Plan] Player Analytics Enabled. (908 ms)
-[00:35:24] [Server thread/INFO]: Done (5.900s)! For help, type "help"
-[00:35:24] [Server thread/INFO]: Timings Reset
-[00:35:24] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[00:35:25] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[00:35:25] [Server thread/INFO]: Math0424[/98.32.158.72:40791] logged in with entity id 352 at ([world]436.3634910061802, 64.56904711312373, 549.9297615357852)
-[00:35:28] [User Authenticator #1/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[00:35:28] [Server thread/INFO]: Hallflower[/10.0.1.4:60981] logged in with entity id 353 at ([world]436.74087066544706, 65.62530253314092, 537.8550970746724)
-[00:36:24] [Server thread/INFO]: Math0424 issued server command: /stop
-[00:36:24] [Server thread/INFO]: [Math0424: Stopping the server]
-[00:36:24] [Server thread/INFO]: Stopping server
-[00:36:24] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
-[00:36:24] [Server thread/INFO]: [Plan] Saving unfinished sessions..
-[00:36:24] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
-[00:36:24] [Server thread/INFO]: [Plan] Processing complete.
-[00:36:24] [Server thread/INFO]: [Plan] Player Analytics Disabled.
-[00:36:24] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
-[00:36:24] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
-[00:36:24] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
-[00:36:24] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[00:36:25] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
-[00:36:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[00:36:25] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[00:36:25] [Server thread/INFO]: [SurvivalDuels] Disabling SurvivalDuels v1.0.0
-[00:36:25] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
-[00:36:25] [Server thread/INFO]: [iPortal] IPortal has been disabled!
-[00:36:25] [Server thread/INFO]: [BetterGiants] Disabling BetterGiants v1.3
-[00:36:25] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.8
-[00:36:25] [Server thread/INFO]: [hsqldb.db.HSQLDB71C9950F10.ENGINE] Database closed
-[00:36:25] [Server thread/INFO]: 
+[01:52:08] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
+[01:52:08] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
+[01:52:08] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
+[01:52:09] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
+[01:52:09] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[01:52:09] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[01:52:09] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[01:52:09] [Server thread/INFO]: [SurvivalDuels] Enabling SurvivalDuels v1.0.0
+[01:52:09] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[01:52:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[01:52:09] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:52:09] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[01:52:09] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[01:52:09] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[01:52:09] [Server thread/INFO]: --------------------
+[01:52:09] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[01:52:09] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[01:52:09] [Server thread/INFO]: --------------------
+[01:52:09] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[01:52:09] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[01:52:09] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[01:52:10] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[01:52:10] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[01:52:10] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[01:52:10] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[01:52:10] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[01:52:10] [Server thread/INFO]: 
+[01:52:10] [Server thread/INFO]:            ██▌
+[01:52:10] [Server thread/INFO]:      ██▌   ██▌
+[01:52:10] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[01:52:10] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[01:52:10] [Server thread/INFO]: 
+[01:52:10] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[01:52:11] [Server thread/INFO]: [Plan] You're using the latest version.
+[01:52:11] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[01:52:11] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[01:52:11] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[01:52:11] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[01:52:11] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
+[01:52:11] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[01:52:11] [Server thread/INFO]: [Plan] Player Analytics Enabled. (731 ms)
+[01:52:11] [Server thread/INFO]: Done (5.567s)! For help, type "help"
+[01:52:11] [Server thread/INFO]: Timings Reset
+[01:52:11] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[01:52:11] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
+[01:52:12] [Server thread/INFO]: Math0424[/98.32.158.72:57591] logged in with entity id 385 at ([world]428.555632215999, 70.5, 549.1135117276647)
+[01:52:56] [User Authenticator #1/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
+[01:52:56] [Server thread/INFO]: Hallflower[/10.0.1.4:32835] logged in with entity id 426 at ([world]-9.32550329358073, 70.31298670237118, 521.3128115588855)
+[01:53:00] [Server thread/INFO]: Hallflower issued server command: /kill Hallflower
+[01:53:00] [Server thread/INFO]: Hallflower fell out of the world
+[01:53:00] [Server thread/INFO]: [Hallflower: Killed Hallflower]
+[01:54:34] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[01:54:34] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[01:54:45] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus reload
+[01:54:48] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus
+[01:54:49] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus help
+[01:54:52] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus
+[01:54:58] [Async Chat Thread - #0/INFO]: <Math0424> ./firstjoinplus debug
+[01:55:05] [Server thread/INFO]: Hallflower issued server command: /firstjoinplus debug
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] Error encountered while attempting to give a new player the first join kit. Unknown item name: wooden_sword
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] Find and double check item names using this page:
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] Error encountered while attempting to give a new player the first join kit. Unknown item name: golden_shovel
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] Find and double check item names using this page:
+[01:55:05] [Server thread/ERROR]: [FirstJoinPlus] https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[01:55:05] [Server thread/INFO]: * Hallflower hello future friends, im a gay! run away
+[01:55:46] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[01:55:46] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[01:56:43] [Server thread/INFO]: Hallflower issued server command: /weather clear
+[01:56:43] [Server thread/INFO]: [Hallflower: Set the weather to clear]
+[01:56:47] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus reload
+[01:56:50] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus debug
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] Error encountered while attempting to give a new player the first join kit. Unknown item name: WOODEN_SWORD
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] Find and double check item names using this page:
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] Error encountered while attempting to give a new player the first join kit. Unknown item name: GOLDEN_SHOVEL
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] Find and double check item names using this page:
+[01:56:50] [Server thread/ERROR]: [FirstJoinPlus] https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[01:56:50] [Server thread/INFO]: * Math0424 hello future friends
+[01:57:31] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus reload
+[01:57:32] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus debug
+[01:57:32] [Server thread/INFO]: * Math0424 hello future friends
+[01:57:36] [Server thread/INFO]: Hallflower issued server command: /firstjoinplus debug
+[01:57:37] [Server thread/INFO]: * Hallflower hello future friends
+[01:57:56] [Server thread/INFO]: Hallflower fell from a high place
+[01:58:01] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus reload
+[01:58:02] [Server thread/INFO]: Math0424 issued server command: /firstjoinplus debug
+[01:58:02] [Server thread/INFO]: * Math0424 hello future friends
+[01:58:04] [Server thread/INFO]: Hallflower issued server command: /firstjoinplus debug
+[01:58:04] [Server thread/INFO]: * Hallflower hello future friends
+[01:58:55] [Server thread/INFO]: Hallflower was blown up by Creeper
+[01:59:08] [Server thread/INFO]: Math0424 issued server command: /gamerule mobGriefing
+[01:59:18] [Server thread/INFO]: Math0424 issued server command: /clear
+[01:59:18] [Server thread/INFO]: [Math0424: Removed 6 items from player Math0424]
+[01:59:20] [Server thread/INFO]: Hallflower issued server command: /summon minecraft:creeper
+[01:59:20] [Server thread/INFO]: [Hallflower: Summoned new Creeper]
+[01:59:21] [Server thread/INFO]: Math0424 issued server command: /summon minecraft:creeper
+[01:59:21] [Server thread/INFO]: [Math0424: Summoned new Creeper]
+[01:59:22] [Server thread/INFO]: Math0424 was blown up by Creeper
+[01:59:30] [Server thread/INFO]: Hallflower issued server command: /firstjoinplus debug
+[01:59:30] [Server thread/INFO]: * Hallflower hello future friends
+[02:00:20] [Server thread/INFO]: Hallflower issued server command: /firstjoinplus debug
+[02:00:20] [Server thread/INFO]: * Hallflower hello future friends
+[02:00:30] [Server thread/INFO]: Hallflower issued server command: /summon minecraft:creeper
+[02:00:30] [Server thread/INFO]: [Hallflower: Summoned new Creeper]
+[02:00:30] [Server thread/INFO]: Math0424 issued server command: /tp Hallflower
+[02:00:30] [Server thread/INFO]: [Math0424: Teleported Math0424 to Hallflower]
+[02:00:31] [Server thread/INFO]: Hallflower was blown up by Creeper
+[02:00:42] [Server thread/INFO]: Math0424 issued server command: /clear
+[02:00:42] [Server thread/INFO]: [Math0424: Removed 9 items from player Math0424]
+[02:00:45] [Server thread/INFO]: Math0424 issued server command: /gamemode spectator
+[02:00:45] [Server thread/INFO]: [Math0424: Set own game mode to Spectator Mode]
+[02:00:47] [Server thread/INFO]: Hallflower issued server command: /summon minecraft:creeper
+[02:00:47] [Server thread/INFO]: [Hallflower: Summoned new Creeper]
+[02:00:53] [Server thread/INFO]: Hallflower issued server command: /tp Hallflower Math0424
+[02:00:53] [Server thread/INFO]: [Hallflower: Teleported Hallflower to Math0424]
+[02:00:53] [Server thread/WARN]: Hallflower moved too quickly! 128.25130059684528,-16.670115960029506,84.5633946516914
+[02:00:55] [Server thread/INFO]: Hallflower issued server command: /summon minecraft:creeper
+[02:00:55] [Server thread/INFO]: [Hallflower: Summoned new Creeper]
+[02:01:01] [Server thread/INFO]: Hallflower issued server command: /tp Hallflower Math0424
+[02:01:01] [Server thread/INFO]: [Hallflower: Teleported Hallflower to Math0424]
+[02:01:01] [Server thread/WARN]: Hallflower moved too quickly! 114.25390598157429,24.760447225054435,8.809049596668274
+[02:01:05] [Server thread/INFO]: Hallflower issued server command: /tp Hallflower Math0424
+[02:01:05] [Server thread/INFO]: [Hallflower: Teleported Hallflower to Math0424]
+[02:01:07] [Server thread/INFO]: Math0424 issued server command: /gamemode survival
+[02:01:07] [Server thread/INFO]: [Math0424: Set own game mode to Survival Mode]
+[02:01:07] [Server thread/INFO]: Hallflower issued server command: /tp Hallflower Math0424
+[02:01:07] [Server thread/INFO]: [Hallflower: Teleported Hallflower to Math0424]
+[02:01:17] [Server thread/INFO]: Math0424 was blown up by Creeper
+[02:01:53] [Server thread/INFO]: Hallflower issued server command: /weather clear
+[02:01:53] [Server thread/INFO]: [Hallflower: Set the weather to clear]
+[02:01:56] [Server thread/INFO]: Math0424 issued server command: /weather clear 1000000
+[02:01:56] [Server thread/INFO]: [Math0424: Set the weather to clear]
+[02:02:06] [Server thread/INFO]: Math0424 issued server command: /difficulty peaceful
+[02:02:06] [Server thread/INFO]: [Math0424: The difficulty has been set to Peaceful]
+[02:02:07] [Server thread/INFO]: Math0424 issued server command: /difficulty hard
+[02:02:07] [Server thread/INFO]: [Math0424: The difficulty has been set to Hard]
+[02:02:24] [Server thread/INFO]: Hallflower issued server command: /weather clear
+[02:02:24] [Server thread/INFO]: [Hallflower: Set the weather to clear]
+[02:02:58] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:02:58] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:02:58] [Server thread/INFO]: Math0424 issued server command: /give @a minecraft:wooden_sword
+[02:02:58] [Server thread/INFO]: [Math0424: Gave 1 [Wooden Sword] to 2]
+[02:03:04] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:03:04] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:03:51] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:03:51] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:03:54] [Server thread/INFO]: Math0424 issued server command: /kill Hallflower
+[02:03:54] [Server thread/INFO]: Hallflower fell out of the world
+[02:03:54] [Server thread/INFO]: [Math0424: Killed Hallflower]
+[02:04:08] [Server thread/INFO]: Math0424 issued server command: /effect give @a minecraft:saturation 100 100 true
+[02:04:08] [Server thread/INFO]: [Math0424: Applied effect Saturation to 2 targets]
+[02:04:09] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:04:09] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:04:19] [Server thread/INFO]: Math0424 issued server command: /effect clear @a
+[02:04:19] [Server thread/INFO]: [Math0424: Removed every effect from 2 targets]
+[02:04:25] [Server thread/INFO]: Math0424 issued server command: /effect clear @a
+[02:04:25] [Server thread/INFO]: [Math0424: Removed every effect from 2 targets]
+[02:04:28] [Server thread/INFO]: Math0424 issued server command: /effect clear @a
+[02:04:28] [Server thread/INFO]: [Math0424: Removed every effect from 2 targets]
+[02:04:52] [Server thread/INFO]: Math0424 issued server command: /effect clear @a
+[02:04:52] [Server thread/INFO]: [Math0424: Removed every effect from 2 targets]
+[02:04:56] [Server thread/INFO]: Math0424 issued server command: /clear @a
+[02:04:56] [Server thread/INFO]: [Math0424: Removed 65 items from 2 players]
+[02:05:06] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:05:06] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:05:10] [Server thread/INFO]: Math0424 issued server command: /give @a minecraft:diamond_sword
+[02:05:10] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Sword] to 2]
+[02:05:15] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:05:15] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:05:17] [Server thread/INFO]: Math0424 issued server command: /summongiant
+[02:05:17] [Server thread/INFO]: Math0424 was slain by SmartGiant
+[02:05:23] [Server thread/INFO]: Hallflower was slain by SmartGiant
+[02:05:26] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:05:26] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:05:26] [Server thread/INFO]: Math0424 issued server command: /give @a minecraft:diamond_sword
+[02:05:26] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Sword] to 2]
+[02:05:32] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:05:32] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:07:04] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:07:04] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:07:17] [Server thread/INFO]: Math0424 issued server command: /effect give Math0424 minecraft:strength 10000 100 true
+[02:07:17] [Server thread/INFO]: [Math0424: Applied effect Strength to Math0424]
+[02:07:20] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:07:20] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:08:17] [Server thread/INFO]: Math0424 issued server command: /weather clear 999999
+[02:08:17] [Server thread/INFO]: [Math0424: Set the weather to clear]
+[02:09:39] [Server thread/INFO]: Math0424 issued server command: /give @a diamond_helmet{Enchantments:[{id:protection,lvl:50}]} 1
+[02:09:39] [Server thread/INFO]: Math0424 has made the advancement [Cover Me With Diamonds]
+[02:09:39] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Helmet] to 2]
+[02:10:04] [Server thread/INFO]: Math0424 issued server command: /give @a diamond_helmet{Enchantments:[{id:protection,lvl:500}]} 1
+[02:10:04] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Helmet] to 2]
+[02:10:32] [Server thread/INFO]: Math0424 issued server command: /give @a diamond_helmet{Enchantments:[{id:protection,lvl:5000000}]} 1
+[02:10:32] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Helmet] to 2]
+[02:10:38] [Server thread/INFO]: Math0424 issued server command: /give @a diamond_helmet{Enchantments:[{id:protection,lvl:5000000}]} 1
+[02:10:38] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Helmet] to 2]
+[02:10:52] [Server thread/INFO]: Math0424 issued server command: /give @a diamond_leggings{Enchantments:[{id:protection,lvl:5000000}]} 1
+[02:10:52] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Leggings] to 2]
+[02:10:58] [Server thread/INFO]: Math0424 issued server command: /give @a minecraft:diamond_chestplate{Enchantments:[{id:protection,lvl:5000000}]} 1
+[02:10:58] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Chestplate] to 2]
+[02:11:06] [Server thread/INFO]: Math0424 issued server command: /give @a minecraft:diamond_boots{Enchantments:[{id:protection,lvl:5000000}]} 1
+[02:11:06] [Server thread/INFO]: [Math0424: Gave 1 [Diamond Boots] to 2]
+[02:11:38] [Server thread/INFO]: Math0424 issued server command: /summongiant
+[02:11:48] [Server thread/INFO]: Math0424 issued server command: /summongiant
+[02:11:52] [Server thread/INFO]: Math0424 issued server command: /summongiant
+[02:11:53] [Server thread/INFO]: Math0424 has made the advancement [Diamonds!]
+[02:12:30] [Server thread/INFO]: Hallflower has made the advancement [Not Today, Thank You]
+[02:12:32] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:absorption 1000 255 true
+[02:12:32] [Server thread/INFO]: [Math0424: Applied effect Absorption to Hallflower]
+[02:13:00] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:resistance 10000 100 true
+[02:13:00] [Server thread/INFO]: [Math0424: Applied effect Resistance to Hallflower]
+[02:13:06] [Server thread/INFO]: Math0424 issued server command: /time set day
+[02:13:07] [Server thread/INFO]: [Math0424: Set the time to 1000]
+[02:13:22] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:resistance 10000 255 true
+[02:13:22] [Server thread/INFO]: [Math0424: Applied effect Resistance to Hallflower]
+[02:13:55] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:health_boost 10000 255 true
+[02:13:55] [Server thread/INFO]: [Math0424: Applied effect Health Boost to Hallflower]
+[02:13:58] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:absorption 1000 255 true
+[02:13:58] [Server thread/INFO]: [Math0424: Applied effect Absorption to Hallflower]
+[02:14:01] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:resistance 10000 255 true
+[02:14:01] [Server thread/INFO]: [Math0424: Applied effect Resistance to Hallflower]
+[02:14:13] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:regeneration 10000 255 true
+[02:14:13] [Server thread/INFO]: [Math0424: Applied effect Regeneration to Hallflower]
+[02:14:25] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:saturation 10000 255 true
+[02:14:25] [Server thread/INFO]: [Math0424: Applied effect Saturation to Hallflower]
+[02:14:52] [Server thread/INFO]: Math0424 issued server command: /effect give Hallflower minecraft:regeneration 10000 255 true
+[02:14:52] [Server thread/INFO]: [Math0424: Applied effect Regeneration to Hallflower]
+[02:19:19] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:19:19] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:19:29] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:19:29] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:20:37] [Server thread/INFO]: Hallflower issued server command: /kill Hallflower
+[02:20:37] [Server thread/INFO]: Hallflower fell out of the world
+[02:20:37] [Server thread/INFO]: [Hallflower: Killed Hallflower]
+[02:21:02] [Server thread/INFO]: Hallflower has made the advancement [Best Friends Forever]
+[02:21:10] [Server thread/INFO]: Hallflower issued server command: /gamemode creative
+[02:21:10] [Server thread/INFO]: [Hallflower: Set own game mode to Creative Mode]
+[02:21:58] [Server thread/INFO]: Hallflower issued server command: /gamemode survival
+[02:21:58] [Server thread/INFO]: [Hallflower: Set own game mode to Survival Mode]
+[02:23:06] [Server thread/WARN]: 51b1cc48-ebe2-44fa-a6d7-a3b80b2a90df (vehicle of Hallflower) moved wrongly!
+[02:23:09] [Server thread/WARN]: 51b1cc48-ebe2-44fa-a6d7-a3b80b2a90df (vehicle of Hallflower) moved wrongly!
+[02:24:29] [Server thread/INFO]: Math0424 issued server command: /reload
+[02:24:29] [Server thread/INFO]: Math0424: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[02:24:32] [Server thread/INFO]: Math0424 issued server command: /reload confirm
+[02:24:32] [Server thread/INFO]: Math0424: Please note that this command is not supported and may cause issues when using some plugins.
+[02:24:32] [Server thread/INFO]: Math0424: If you encounter any issues please use the /stop command to restart your server.
+[02:24:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:24:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:24:32] [Server thread/INFO]: Debug logging is disabled
+[02:24:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:24:32] [Server thread/INFO]: Mob Spawn Range: 8
+[02:24:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:24:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:24:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:24:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:24:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:24:32] [Server thread/INFO]: Max TNT Explosions: 100
+[02:24:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:24:32] [Server thread/INFO]: View Distance: 10
+[02:24:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:24:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:24:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:24:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:24:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:24:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:24:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:24:32] [Server thread/INFO]: Mob Spawn Range: 8
+[02:24:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:24:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:24:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:24:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:24:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:24:32] [Server thread/INFO]: Max TNT Explosions: 100
+[02:24:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:24:32] [Server thread/INFO]: View Distance: 10
+[02:24:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:24:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:24:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:24:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:24:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:24:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:24:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:24:32] [Server thread/INFO]: Mob Spawn Range: 8
+[02:24:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:24:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:24:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:24:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:24:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:24:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:24:32] [Server thread/INFO]: Max TNT Explosions: 100
+[02:24:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:24:32] [Server thread/INFO]: View Distance: 10
+[02:24:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:24:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:24:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:24:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:24:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:24:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:24:32] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
+[02:24:32] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
+[02:24:32] [Server thread/INFO]: [Plan] Processing complete.
+[02:24:32] [Server thread/INFO]: [Plan] Player Analytics Disabled.
+[02:24:32] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[02:24:32] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[02:24:32] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[02:24:32] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[02:24:33] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[02:24:33] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:24:33] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[02:24:33] [Server thread/INFO]: [SurvivalDuels] Disabling SurvivalDuels v1.0.0
+[02:24:33] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
+[02:24:33] [Server thread/INFO]: [iPortal] IPortal has been disabled!
+[02:24:33] [Server thread/INFO]: [FirstJoinPlus] Disabling FirstJoinPlus v2.4.1
+[02:24:33] [Server thread/INFO]: [BetterGiants] Disabling BetterGiants v1.3
+[02:24:33] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.8
+[02:24:33] [Server thread/INFO]: 
  
 []=====[Disabling AdvancedBan]=====[]
 | Information:
 |   Name: AdvancedBan
 |   Developer: Leoko
 |   Version: 2.1.8
-|   Storage: HSQLDB (local)
+|   Storage: MySQL (external)
 | Support:
 |   Github: https://github.com/DevLeoko/AdvancedBan/issues
 |   Discord: https://discord.gg/ycDG6rS
 | Twitter: @LeokoGar
 []================================[]
  
-[00:36:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[00:36:25] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:36:25] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
-[00:36:25] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[00:36:25] [Server thread/INFO]: [LuckPerms] Closing messaging service...
-[00:36:25] [Server thread/INFO]: [LuckPerms] Closing storage...
-[00:36:25] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
-[00:36:25] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
-[00:36:25] [Server thread/INFO]: [LuckPerms] Goodbye!
-[00:36:25] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
-[00:36:25] [Server thread/INFO]: Saving players
-[00:36:25] [Server thread/INFO]: Math0424 lost connection: Server closed
-[00:36:25] [Server thread/INFO]: Math0424 left the game
-[00:36:25] [Server thread/INFO]: Hallflower lost connection: Server closed
-[00:36:25] [Server thread/INFO]: Hallflower left the game
-[00:36:26] [Server thread/INFO]: Saving worlds
-[00:36:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:27] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:28] [Server thread/INFO]: Flushing Chunk IO
-[00:36:28] [Server thread/INFO]: Closing Thread Pool
-[00:36:28] [Server thread/INFO]: Closing Server
+[02:24:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[02:24:33] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:24:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[02:24:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:24:33] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[02:24:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:24:33] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[02:24:33] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[02:24:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:24:33] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
+[02:24:33] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:24:33] [Server thread/INFO]: Loaded 6 recipes
+[02:24:33] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:24:33] [Server thread/INFO]: Loaded 6 recipes
+[02:24:33] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
+[02:24:33] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[02:24:33] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[02:24:34] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[02:24:34] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[02:24:34] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2c671ce4]
+[02:24:34] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
+[02:24:34] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[02:24:34] [Server thread/INFO]: [SurvivalDuels] Loading SurvivalDuels v1.0.0
+[02:24:34] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[02:24:34] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[02:24:34] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
+[02:24:34] [Server thread/INFO]: [NoHitDelay] Loading NoHitDelay v1.0.0
+[02:24:34] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:24:34] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[02:24:34] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[02:24:34] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[02:24:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:24:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[02:24:34] [Server thread/INFO]:         __    
+[02:24:34] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[02:24:34] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:24:34] [Server thread/INFO]: 
+[02:24:34] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:24:34] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[02:24:34] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[02:24:34] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[02:24:34] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:24:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:24:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:24:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 723ms)
+[02:24:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[02:24:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:24:35] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[02:24:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[02:24:35] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:24:35] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
+[02:24:35] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[02:24:35] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[02:24:35] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[02:24:35] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[02:24:35] [Server thread/INFO]: [SurvivalDuels] Enabling SurvivalDuels v1.0.0
+[02:24:35] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[02:24:35] [Server thread/INFO]: ===================================
+[02:24:35] [Server thread/INFO]: ===================================
+[02:24:35] [Server thread/INFO]: Check out my other Plugins!
+[02:24:35] [Server thread/INFO]: I also sell a BedWars Plugin!
+[02:24:35] [Server thread/INFO]: ===================================
+[02:24:35] [Server thread/INFO]: ===================================
+[02:24:35] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[02:24:36] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[02:24:36] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
+[02:24:36] [Server thread/INFO]: [NoHitDelay] Enabling NoHitDelay v1.0.0
+[02:24:36] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:24:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:24:36] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:24:36] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[02:24:36] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[02:24:36] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[02:24:36] [Server thread/INFO]: --------------------
+[02:24:36] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[02:24:36] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[02:24:36] [Server thread/INFO]: --------------------
+[02:24:36] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[02:24:36] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[02:24:36] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[02:24:37] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[02:24:37] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[02:24:37] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[02:24:37] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[02:24:37] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[02:24:38] [Server thread/INFO]: 
+[02:24:38] [Server thread/INFO]:            ██▌
+[02:24:38] [Server thread/INFO]:      ██▌   ██▌
+[02:24:38] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[02:24:38] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[02:24:38] [Server thread/INFO]: 
+[02:24:38] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[02:24:38] [Server thread/INFO]: [Plan] You're using the latest version.
+[02:24:38] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[02:24:38] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[02:24:38] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[02:24:38] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[02:24:38] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
+[02:24:38] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[02:24:38] [Server thread/INFO]: [Plan] Player Analytics Enabled. (705 ms)
+[02:24:38] [Server thread/INFO]: Math0424: Reload complete.
+[02:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
+[02:24:38] [Server thread/INFO]: Timings Reset
+[02:24:38] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
+[02:24:38] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
+[02:24:38] [Server thread/WARN]: Math0424 moved too quickly! -14.539250498178433,0.0,4.578656494827328
+[02:24:42] [Server thread/INFO]: Math0424 issued server command: /time set day
+[02:24:42] [Server thread/INFO]: [Math0424: Set the time to 1000]
+[02:24:45] [Server thread/INFO]: Math0424 issued server command: /tp Hallflower
+[02:24:45] [Server thread/INFO]: [Math0424: Teleported Math0424 to Hallflower]
+[02:24:47] [Server thread/INFO]: Math0424 issued server command: /plugins
+[02:25:15] [Server thread/INFO]: Math0424 issued server command: /effect clear Math0424
+[02:25:15] [Server thread/INFO]: [Math0424: Removed every effect from Math0424]
+[02:25:27] [Server thread/INFO]: Math0424 issued server command: /plugins
+[02:26:06] [Server thread/INFO]: Math0424 issued server command: /reload confirm
+[02:26:06] [Server thread/INFO]: Math0424: Please note that this command is not supported and may cause issues when using some plugins.
+[02:26:06] [Server thread/INFO]: Math0424: If you encounter any issues please use the /stop command to restart your server.
+[02:26:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:26:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:26:06] [Server thread/INFO]: Debug logging is disabled
+[02:26:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:26:06] [Server thread/INFO]: Mob Spawn Range: 8
+[02:26:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:26:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:26:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:26:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:26:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:26:06] [Server thread/INFO]: Max TNT Explosions: 100
+[02:26:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:26:06] [Server thread/INFO]: View Distance: 10
+[02:26:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:26:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:26:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:26:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:26:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:26:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:26:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:26:06] [Server thread/INFO]: Mob Spawn Range: 8
+[02:26:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:26:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:26:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:26:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:26:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:26:06] [Server thread/INFO]: Max TNT Explosions: 100
+[02:26:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:26:06] [Server thread/INFO]: View Distance: 10
+[02:26:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:26:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:26:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:26:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:26:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:26:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:26:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:26:06] [Server thread/INFO]: Mob Spawn Range: 8
+[02:26:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:26:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:26:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:26:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:26:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:26:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:26:06] [Server thread/INFO]: Max TNT Explosions: 100
+[02:26:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:26:06] [Server thread/INFO]: View Distance: 10
+[02:26:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:26:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:26:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:26:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:26:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:26:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:26:06] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
+[02:26:06] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
+[02:26:06] [Server thread/INFO]: [Plan] Processing complete.
+[02:26:06] [Server thread/INFO]: [Plan] Player Analytics Disabled.
+[02:26:06] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[02:26:06] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[02:26:06] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[02:26:06] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[02:26:08] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[02:26:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:26:08] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[02:26:08] [Server thread/INFO]: [NoHitDelay] Disabling NoHitDelay v1.0.0
+[02:26:08] [Server thread/INFO]: [BetterGiants] Disabling BetterGiants v1.3
+[02:26:08] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.8
+[02:26:08] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[02:26:08] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
+[02:26:08] [Server thread/INFO]: [SurvivalDuels] Disabling SurvivalDuels v1.0.0
+[02:26:08] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
+[02:26:08] [Server thread/INFO]: [iPortal] IPortal has been disabled!
+[02:26:08] [Server thread/INFO]: [FirstJoinPlus] Disabling FirstJoinPlus v2.4.1
+[02:26:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[02:26:08] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:26:08] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[02:26:08] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:26:08] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[02:26:08] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:26:08] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[02:26:08] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[02:26:08] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:26:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:26:08] [Server thread/INFO]: Loaded 6 recipes
+[02:26:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:26:09] [Server thread/INFO]: Loaded 6 recipes
+[02:26:09] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
+[02:26:09] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[02:26:09] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[02:26:09] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[02:26:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[02:26:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@173e337d]
+[02:26:09] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
+[02:26:09] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[02:26:09] [Server thread/INFO]: [SurvivalDuels] Loading SurvivalDuels v1.0.0
+[02:26:09] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[02:26:09] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[02:26:09] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
+[02:26:09] [Server thread/INFO]: [NoHitDelay] Loading NoHitDelay v1.0.0
+[02:26:09] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:26:09] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[02:26:09] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[02:26:09] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[02:26:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:26:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[02:26:09] [Server thread/INFO]:         __    
+[02:26:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[02:26:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:26:09] [Server thread/INFO]: 
+[02:26:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:26:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[02:26:09] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[02:26:09] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[02:26:10] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:26:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:26:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:26:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 720ms)
+[02:26:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[02:26:10] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:26:10] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[02:26:10] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[02:26:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:26:11] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
+[02:26:11] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[02:26:11] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[02:26:11] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[02:26:11] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[02:26:11] [Server thread/INFO]: [SurvivalDuels] Enabling SurvivalDuels v1.0.0
+[02:26:11] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[02:26:11] [Server thread/INFO]: ===================================
+[02:26:11] [Server thread/INFO]: ===================================
+[02:26:11] [Server thread/INFO]: Check out my other Plugins!
+[02:26:11] [Server thread/INFO]: I also sell a BedWars Plugin!
+[02:26:11] [Server thread/INFO]: ===================================
+[02:26:11] [Server thread/INFO]: ===================================
+[02:26:11] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[02:26:11] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[02:26:11] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
+[02:26:11] [Server thread/INFO]: [NoHitDelay] Enabling NoHitDelay v1.0.0
+[02:26:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:26:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:26:11] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:26:11] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[02:26:11] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[02:26:11] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[02:26:11] [Server thread/INFO]: --------------------
+[02:26:11] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[02:26:11] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[02:26:11] [Server thread/INFO]: --------------------
+[02:26:11] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[02:26:11] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[02:26:11] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[02:26:13] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[02:26:13] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[02:26:13] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[02:26:13] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[02:26:13] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[02:26:13] [Server thread/INFO]: 
+[02:26:13] [Server thread/INFO]:            ██▌
+[02:26:13] [Server thread/INFO]:      ██▌   ██▌
+[02:26:13] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[02:26:13] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[02:26:13] [Server thread/INFO]: 
+[02:26:13] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[02:26:13] [Server thread/INFO]: [Plan] You're using the latest version.
+[02:26:13] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[02:26:13] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[02:26:13] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[02:26:13] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[02:26:13] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
+[02:26:13] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[02:26:13] [Server thread/INFO]: [Plan] Player Analytics Enabled. (703 ms)
+[02:26:14] [Server thread/INFO]: Math0424: Reload complete.
+[02:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7145ms or 142 ticks behind
+[02:26:14] [Server thread/INFO]: Timings Reset
+[02:26:14] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
+[02:26:14] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
+[02:26:49] [Server thread/INFO]: Math0424 issued server command: /plugins
+[02:26:58] [Server thread/INFO]: Math0424 issued server command: /tp Hallflower Math0424
+[02:26:58] [Server thread/INFO]: [Math0424: Teleported Hallflower to Math0424]
+[02:27:48] [Server thread/INFO]: Math0424 issued server command: /reload confirm
+[02:27:48] [Server thread/INFO]: Math0424: Please note that this command is not supported and may cause issues when using some plugins.
+[02:27:48] [Server thread/INFO]: Math0424: If you encounter any issues please use the /stop command to restart your server.
+[02:27:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:27:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:27:48] [Server thread/INFO]: Debug logging is disabled
+[02:27:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:27:48] [Server thread/INFO]: Mob Spawn Range: 8
+[02:27:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:27:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:27:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:27:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:27:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:27:48] [Server thread/INFO]: Max TNT Explosions: 100
+[02:27:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:27:48] [Server thread/INFO]: View Distance: 10
+[02:27:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:27:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:27:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:27:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:27:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:27:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:27:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:27:48] [Server thread/INFO]: Mob Spawn Range: 8
+[02:27:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:27:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:27:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:27:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:27:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:27:48] [Server thread/INFO]: Max TNT Explosions: 100
+[02:27:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:27:48] [Server thread/INFO]: View Distance: 10
+[02:27:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:27:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:27:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:27:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:27:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:27:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:27:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:27:48] [Server thread/INFO]: Mob Spawn Range: 8
+[02:27:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:27:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:27:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:27:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:27:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:27:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:27:48] [Server thread/INFO]: Max TNT Explosions: 100
+[02:27:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:27:48] [Server thread/INFO]: View Distance: 10
+[02:27:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:27:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:27:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:27:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:27:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:27:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:27:48] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
+[02:27:48] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
+[02:27:48] [Server thread/INFO]: [Plan] Processing complete.
+[02:27:48] [Server thread/INFO]: [Plan] Player Analytics Disabled.
+[02:27:48] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[02:27:48] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[02:27:48] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[02:27:48] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[02:27:50] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[02:27:50] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:27:50] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[02:27:50] [Server thread/INFO]: [NoHitDelay] Disabling NoHitDelay v1.0.0
+[02:27:50] [Server thread/INFO]: [BetterGiants] Disabling BetterGiants v1.3
+[02:27:50] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.8
+[02:27:50] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[02:27:50] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
+[02:27:50] [Server thread/INFO]: [SurvivalDuels] Disabling SurvivalDuels v1.0.0
+[02:27:50] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
+[02:27:50] [Server thread/INFO]: [iPortal] IPortal has been disabled!
+[02:27:50] [Server thread/INFO]: [FirstJoinPlus] Disabling FirstJoinPlus v2.4.1
+[02:27:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[02:27:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:27:50] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[02:27:50] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:27:50] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[02:27:50] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:27:50] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[02:27:50] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[02:27:50] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:27:50] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:27:50] [Server thread/INFO]: Loaded 6 recipes
+[02:27:50] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:27:50] [Server thread/INFO]: Loaded 6 recipes
+[02:27:50] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[02:27:50] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[02:27:50] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
+[02:27:50] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[02:27:50] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[02:27:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[02:27:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7af10116]
+[02:27:51] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[02:27:51] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
+[02:27:51] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
+[02:27:51] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[02:27:51] [Server thread/INFO]: [NoHitDelay] Loading NoHitDelay v1.0.0
+[02:27:51] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:27:51] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[02:27:51] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[02:27:51] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[02:27:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:27:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[02:27:51] [Server thread/INFO]:         __    
+[02:27:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[02:27:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:27:51] [Server thread/INFO]: 
+[02:27:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:27:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[02:27:51] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[02:27:51] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[02:27:51] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:27:51] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:27:51] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:27:51] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 652ms)
+[02:27:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[02:27:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:27:51] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[02:27:52] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[02:27:52] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:27:52] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[02:27:52] [Server thread/INFO]: ===================================
+[02:27:52] [Server thread/INFO]: ===================================
+[02:27:52] [Server thread/INFO]: Check out my other Plugins!
+[02:27:52] [Server thread/INFO]: I also sell a BedWars Plugin!
+[02:27:52] [Server thread/INFO]: ===================================
+[02:27:52] [Server thread/INFO]: ===================================
+[02:27:52] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[02:27:52] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[02:27:52] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
+[02:27:52] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
+[02:27:52] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[02:27:52] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[02:27:52] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[02:27:52] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[02:27:52] [Server thread/INFO]: [NoHitDelay] Enabling NoHitDelay v1.0.0
+[02:27:52] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:27:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:27:52] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:27:52] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[02:27:53] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[02:27:53] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[02:27:53] [Server thread/INFO]: --------------------
+[02:27:53] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[02:27:53] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[02:27:53] [Server thread/INFO]: --------------------
+[02:27:53] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[02:27:53] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[02:27:53] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[02:27:54] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[02:27:54] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[02:27:54] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[02:27:54] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[02:27:54] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[02:27:54] [Server thread/INFO]: 
+[02:27:54] [Server thread/INFO]:            ██▌
+[02:27:54] [Server thread/INFO]:      ██▌   ██▌
+[02:27:54] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[02:27:54] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[02:27:54] [Server thread/INFO]: 
+[02:27:54] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[02:27:54] [Server thread/INFO]: [Plan] You're using the latest version.
+[02:27:54] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[02:27:54] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[02:27:54] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[02:27:54] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[02:27:55] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
+[02:27:55] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[02:27:55] [Server thread/INFO]: [Plan] Player Analytics Enabled. (622 ms)
+[02:27:55] [Server thread/INFO]: Math0424: Reload complete.
+[02:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
+[02:27:55] [Server thread/INFO]: Timings Reset
+[02:27:55] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
+[02:27:55] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
+[02:29:18] [Server thread/WARN]: Hallflower moved too quickly! 19.197381756089328,1.3495586464155593,-7.600208301399107
+[02:29:30] [Server thread/INFO]: Math0424 lost connection: Disconnected
+[02:29:30] [Server thread/INFO]: Math0424 left the game.
+[02:29:39] [Server thread/INFO]: Hallflower issued server command: /reload
+[02:29:39] [Server thread/INFO]: Hallflower: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[02:29:41] [User Authenticator #2/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
+[02:29:41] [Server thread/INFO]: Math0424 joined the game.
+[02:29:41] [Server thread/INFO]: Math0424[/98.32.158.72:33363] logged in with entity id 5429 at ([world]496.8982320307334, 72.0, 625.9363047673298)
+[02:29:44] [Server thread/INFO]: Hallflower issued server command: /reload confirm
+[02:29:44] [Server thread/INFO]: Hallflower: Please note that this command is not supported and may cause issues when using some plugins.
+[02:29:44] [Server thread/INFO]: Hallflower: If you encounter any issues please use the /stop command to restart your server.
+[02:29:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:29:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:29:44] [Server thread/INFO]: Debug logging is disabled
+[02:29:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:29:44] [Server thread/INFO]: Mob Spawn Range: 8
+[02:29:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:29:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:29:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:29:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:29:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:29:44] [Server thread/INFO]: Max TNT Explosions: 100
+[02:29:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:29:44] [Server thread/INFO]: View Distance: 10
+[02:29:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:29:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:29:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:29:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:29:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:29:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:29:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:29:44] [Server thread/INFO]: Mob Spawn Range: 8
+[02:29:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:29:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:29:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:29:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:29:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:29:44] [Server thread/INFO]: Max TNT Explosions: 100
+[02:29:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:29:44] [Server thread/INFO]: View Distance: 10
+[02:29:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:29:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:29:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:29:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:29:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:29:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:29:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:29:44] [Server thread/INFO]: Mob Spawn Range: 8
+[02:29:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:29:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:29:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:29:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:29:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:29:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:29:44] [Server thread/INFO]: Max TNT Explosions: 100
+[02:29:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:29:44] [Server thread/INFO]: View Distance: 10
+[02:29:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:29:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:29:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:29:45] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:29:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:29:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:29:45] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
+[02:29:45] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
+[02:29:45] [Server thread/INFO]: [Plan] Processing complete.
+[02:29:45] [Server thread/INFO]: [Plan] Player Analytics Disabled.
+[02:29:45] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[02:29:45] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[02:29:45] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[02:29:45] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[02:29:45] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[02:29:45] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:29:45] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[02:29:45] [Server thread/INFO]: [NoHitDelay] Disabling NoHitDelay v1.0.0
+[02:29:45] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
+[02:29:45] [Server thread/INFO]: [iPortal] IPortal has been disabled!
+[02:29:45] [Server thread/INFO]: [FirstJoinPlus] Disabling FirstJoinPlus v2.4.1
+[02:29:45] [Server thread/INFO]: [BetterGiants] Disabling BetterGiants v1.3
+[02:29:45] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.8
+[02:29:45] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[02:29:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[02:29:45] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:29:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[02:29:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:29:45] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[02:29:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:29:45] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[02:29:45] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[02:29:45] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:29:45] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
+[02:29:45] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:29:46] [Server thread/INFO]: Loaded 6 recipes
+[02:29:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:29:46] [Server thread/INFO]: Loaded 6 recipes
+[02:29:46] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[02:29:46] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[02:29:46] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
+[02:29:46] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[02:29:46] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[02:29:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[02:29:46] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@34f35187]
+[02:29:46] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[02:29:46] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
+[02:29:46] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
+[02:29:46] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[02:29:46] [Server thread/INFO]: [SurvivalDuels] Loading SurvivalDuels v1.0.0
+[02:29:46] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:29:46] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[02:29:46] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[02:29:46] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[02:29:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:29:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[02:29:46] [Server thread/INFO]:         __    
+[02:29:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[02:29:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:29:46] [Server thread/INFO]: 
+[02:29:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:29:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[02:29:47] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[02:29:47] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[02:29:47] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:29:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:29:47] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:29:47] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 676ms)
+[02:29:47] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[02:29:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:29:47] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[02:29:47] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[02:29:48] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:29:48] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[02:29:48] [Server thread/INFO]: ===================================
+[02:29:48] [Server thread/INFO]: ===================================
+[02:29:48] [Server thread/INFO]: Check out my other Plugins!
+[02:29:48] [Server thread/INFO]: I also sell a BedWars Plugin!
+[02:29:48] [Server thread/INFO]: ===================================
+[02:29:48] [Server thread/INFO]: ===================================
+[02:29:48] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[02:29:48] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[02:29:48] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
+[02:29:48] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
+[02:29:48] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[02:29:48] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[02:29:48] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[02:29:48] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[02:29:48] [Server thread/INFO]: [SurvivalDuels] Enabling SurvivalDuels v1.0.0
+[02:29:48] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:29:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:29:48] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:29:48] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[02:29:48] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[02:29:48] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[02:29:48] [Server thread/INFO]: --------------------
+[02:29:48] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[02:29:48] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[02:29:48] [Server thread/INFO]: --------------------
+[02:29:48] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[02:29:48] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[02:29:48] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[02:29:50] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[02:29:50] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[02:29:50] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[02:29:50] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[02:29:50] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[02:29:50] [Server thread/INFO]: 
+[02:29:50] [Server thread/INFO]:            ██▌
+[02:29:50] [Server thread/INFO]:      ██▌   ██▌
+[02:29:50] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[02:29:50] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[02:29:50] [Server thread/INFO]: 
+[02:29:50] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[02:29:50] [Server thread/INFO]: [Plan] You're using the latest version.
+[02:29:50] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[02:29:50] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[02:29:50] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[02:29:50] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[02:29:50] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
+[02:29:50] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[02:29:50] [Server thread/INFO]: [Plan] Player Analytics Enabled. (621 ms)
+[02:29:51] [Server thread/INFO]: Hallflower: Reload complete.
+[02:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6181ms or 123 ticks behind
+[02:29:51] [Server thread/INFO]: Timings Reset
+[02:29:51] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=550}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=549}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=66, z=548}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=548}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=549}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=65, z=550}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=550}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=549}
+[02:29:51] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=448, y=64, z=548}
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -16.27822860936385,-0.973994915504818,-11.71061763737066
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -16.498740013986378,-1.093224416716609,-11.673942351115329
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -16.692113541574656,-1.2845644334044124,-11.667817099357421
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -16.856514550800398,-1.5451593905032723,-11.687899556701609
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -16.99507786740577,-1.8722667936674213,-11.73135404969662
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -17.110599129068248,-2.263252751275928,-11.79565172468574
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -17.205571485540418,-2.7155876737668194,-11.878537349912904
+[02:29:51] [Server thread/WARN]: Horse (vehicle of Hallflower) moved too quickly! -17.281593847838337,-3.22684214327748,-11.977794471323932
+[02:29:55] [Server thread/INFO]: Math0424 issued server command: /plguins
+[02:29:57] [Server thread/INFO]: Math0424 issued server command: /plugins
+[02:29:57] [Server thread/INFO]: Hallflower issued server command: /tp Math0424 Hallflower
+[02:29:57] [Server thread/INFO]: [Hallflower: Teleported Math0424 to Hallflower]
+[02:31:07] [Server thread/INFO]: Hallflower issued server command: /kill Math0424
+[02:31:07] [Server thread/INFO]: Math0424 fell out of the world
+[02:31:07] [Server thread/INFO]: [Hallflower: Killed Math0424]
+[02:31:22] [Server thread/INFO]: Math0424 lost connection: Disconnected
+[02:31:22] [Server thread/INFO]: Math0424 left the game.
+[02:31:26] [Server thread/INFO]: Hallflower lost connection: Disconnected
+[02:31:26] [Server thread/INFO]: Hallflower left the game.

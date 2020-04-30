@@ -33,7 +33,7 @@ Database:
     MySQL:
         Host: localhost
         Port: 3306
-        User: luckperms
+        User: minecraft
         Password: E!mhurst60126
         Database: minecraft
         # Launch options to append after mysql driver address

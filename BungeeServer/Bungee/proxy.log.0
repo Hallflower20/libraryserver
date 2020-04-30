@@ -16809,3 +16809,858 @@ Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException:
 00:36:36 [INFO] [LuckPerms] Goodbye!
 00:36:36 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
 00:36:36 [INFO] Closing IO threads
+00:53:41 [INFO] Using mbed TLS based native cipher.
+00:53:41 [INFO] Using zlib based native compressor.
+00:53:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+00:53:41 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:53:41 [INFO] Epoll is working, utilising it!
+00:53:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:53:41 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+00:53:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+00:53:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:53:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:42 [INFO] §b       §3 __    
+00:53:42 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+00:53:42 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+00:53:42 [INFO] 
+00:53:42 [INFO] [LuckPerms] Loading configuration...
+00:53:42 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+00:53:42 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+00:53:42 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+00:53:42 [INFO] [LuckPerms] Loading messaging service... [SQL]
+00:53:42 [INFO] [LuckPerms] Loading internal permission managers...
+00:53:42 [INFO] [LuckPerms] Performing initial data load...
+00:53:43 [INFO] [LuckPerms] Successfully enabled. (took 916ms)
+00:53:43 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+00:53:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:43 [INFO] §f
+00:53:43 [INFO] §f§2           ██▌
+00:53:43 [INFO] §f§2     ██▌   ██▌
+00:53:43 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+00:53:43 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+00:53:43 [INFO] §f
+00:53:43 [INFO] [Plan] Locale: 'English' by Rsl1122
+00:53:43 [INFO] [Plan] You're using the latest version.
+00:53:43 [INFO] [Plan] MySQL-database connection established.
+00:53:43 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+00:53:43 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+00:53:43 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+00:53:43 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+00:53:44 [INFO] [Plan] Registered extension: LuckPerms
+00:53:44 [INFO] [Plan] Player Analytics Enabled.
+00:53:44 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+00:53:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+00:53:44 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+00:53:44 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+00:53:44 [INFO] Listening on /0.0.0.0:25565
+00:53:45 [INFO] [/73.208.230.151:62803] <-> InitialHandler has pinged
+00:53:45 [INFO] [/73.208.230.151:62808] <-> InitialHandler has pinged
+00:54:03 [INFO] [/73.208.230.151:62809] <-> InitialHandler has connected
+00:54:04 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:04 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §fOutdated server! I'm still on 1.8.8
+00:54:04 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:04 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:54:07 [INFO] [/73.208.230.151:62815] <-> InitialHandler has pinged
+00:54:07 [INFO] [/73.208.230.151:62816] <-> InitialHandler has pinged
+00:54:08 [INFO] [DavidTheStarman,/73.208.230.151:62819] <-> InitialHandler has connected
+00:54:08 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:08 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §fOutdated server! I'm still on 1.8.8
+00:54:08 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:08 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:54:12 [INFO] [DavidTheStarman,/73.208.230.151:62820] <-> InitialHandler has connected
+00:54:12 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:14 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:15 [INFO] [DavidTheStarman,/73.208.230.151:62821] <-> InitialHandler has connected
+00:54:15 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:17 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:54:20 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §7§l[§b§lL§3§lP§7§l] §cA database error occurred whilst loading permissions data. Please try again later. If you are a server admin, please check the console for any errors.
+00:54:20 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:20 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:54:26 [INFO] [/73.208.230.151:62823] <-> InitialHandler has pinged
+00:54:26 [INFO] [/73.208.230.151:62828] <-> InitialHandler has pinged
+00:54:27 [INFO] [/73.208.230.151:62829] <-> InitialHandler has connected
+00:54:27 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:32 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §7§l[§b§lL§3§lP§7§l] §cA database error occurred whilst loading permissions data. Please try again later. If you are a server admin, please check the console for any errors.
+00:54:32 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:32 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:54:43 [INFO] [/73.208.230.151:62835] <-> InitialHandler has pinged
+00:54:43 [INFO] [/73.208.230.151:62837] <-> InitialHandler has pinged
+00:54:44 [INFO] [/73.208.230.151:62838] <-> InitialHandler has connected
+00:54:44 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:54:49 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §7§l[§b§lL§3§lP§7§l] §cA database error occurred whilst loading permissions data. Please try again later. If you are a server admin, please check the console for any errors.
+00:54:49 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:54:49 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:55:21 [INFO] [/73.208.230.151:62851] <-> InitialHandler has pinged
+00:55:21 [INFO] [/73.208.230.151:62856] <-> InitialHandler has pinged
+00:55:22 [INFO] [/73.208.230.151:62859] <-> InitialHandler has connected
+00:55:23 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:55:28 [INFO] [DavidTheStarman] disconnected with: §cKicked whilst connecting to hub: §7§l[§b§lL§3§lP§7§l] §cA database error occurred whilst loading permissions data. Please try again later. If you are a server admin, please check the console for any errors.
+00:55:28 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:55:28 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has disconnected
+00:55:49 [SEVERE] Exception in thread "main" 
+00:55:49 [SEVERE] java.io.IOException: Input/output error
+00:55:49 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:55:49 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:55:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:55:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:55:49 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:55:49 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:55:49 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:55:49 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+00:55:49 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+00:55:49 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+00:55:49 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+00:55:49 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:55:49 [INFO] Closing listener [id: 0xc2e4f092, L:/0:0:0:0:0:0:0:0%0:25565]
+00:55:49 [INFO] Closing pending connections
+00:55:49 [INFO] Disconnecting 0 connections
+00:55:50 [INFO] Disabling plugins
+00:55:50 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+00:55:50 [INFO] [Plan] Processing complete.
+00:55:50 [INFO] [Plan] Webserver has been disabled.
+00:55:50 [INFO] [Plan] Player Analytics Disabled.
+00:55:50 [INFO] [LuckPerms] Starting shutdown process...
+00:55:50 [INFO] [LuckPerms] Closing messaging service...
+00:55:50 [INFO] [LuckPerms] Closing storage...
+00:55:50 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+00:55:50 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+00:55:50 [INFO] [LuckPerms] Goodbye!
+00:55:50 [INFO] Closing IO threads
+01:12:14 [INFO] Using mbed TLS based native cipher.
+01:12:14 [INFO] Using zlib based native compressor.
+01:12:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:12:14 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:12:14 [INFO] Epoll is working, utilising it!
+01:12:14 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:12:14 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:14 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:12:14 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:14 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+01:12:14 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:14 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:14 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:12:14 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:14 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:15 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:12:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:15 [INFO] §b       §3 __    
+01:12:15 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:12:15 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:12:15 [INFO] 
+01:12:15 [INFO] [LuckPerms] Loading configuration...
+01:12:15 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:12:15 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:12:15 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:12:15 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:12:15 [INFO] [LuckPerms] Loading internal permission managers...
+01:12:15 [INFO] [LuckPerms] Performing initial data load...
+01:12:16 [INFO] [LuckPerms] Successfully enabled. (took 916ms)
+01:12:16 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:12:16 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:20 [INFO] §8[§cAdvancedBan§8] §7 
+ MySQL-Error
+ Could not connect to MySQL-Server!
+ Disabling plugin!
+ Check your §7MySQL.yml
+§7 Skype: Leoko33
+ Issue tracker: §7https://github.com/DevLeoko/AdvancedBan/issues§7 
+ 
+
+01:12:20 [INFO] Seems that a problem has occurred while creating the latest.log file in the startup.
+01:12:21 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+01:12:21 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+01:12:21 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:21 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:21 [INFO] §f
+01:12:21 [INFO] §f§2           ██▌
+01:12:21 [INFO] §f§2     ██▌   ██▌
+01:12:21 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:12:21 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:12:21 [INFO] §f
+01:12:21 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:12:22 [INFO] [Plan] You're using the latest version.
+01:12:22 [INFO] [Plan] MySQL-database connection established.
+01:12:22 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:12:22 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:12:22 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:12:22 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:12:22 [INFO] [Plan] Registered extension: AdvancedBan
+01:12:22 [INFO] [Plan] Registered extension: LuckPerms
+01:12:23 [INFO] [Plan] Player Analytics Enabled.
+01:12:23 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:12:23 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:23 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:12:23 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:12:23 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:12:23 [INFO] Listening on /0.0.0.0:25565
+01:13:04 [SEVERE] Exception in thread "main" 
+01:13:04 [SEVERE] java.io.IOException: Input/output error
+01:13:04 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+01:13:04 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+01:13:04 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+01:13:04 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+01:13:04 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+01:13:04 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+01:13:04 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+01:13:04 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+01:13:04 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+01:13:04 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+01:13:04 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+01:13:04 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+01:13:04 [INFO] Closing listener [id: 0x899a0903, L:/0:0:0:0:0:0:0:0%0:25565]
+01:13:04 [INFO] Closing pending connections
+01:13:04 [INFO] Disconnecting 0 connections
+01:13:04 [INFO] Disabling plugins
+01:13:04 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+01:13:04 [INFO] [Plan] Processing complete.
+01:13:04 [INFO] [Plan] Webserver has been disabled.
+01:13:04 [INFO] [Plan] Player Analytics Disabled.
+01:13:05 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+01:13:05 [INFO] [LuckPerms] Starting shutdown process...
+01:13:05 [INFO] [LuckPerms] Closing messaging service...
+01:13:05 [INFO] [LuckPerms] Closing storage...
+01:13:05 [SEVERE] [Thread-41] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+01:13:05 [SEVERE] [Thread-41] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+01:13:05 [INFO] [LuckPerms] Goodbye!
+01:13:05 [INFO] Closing IO threads
+01:13:44 [INFO] Using mbed TLS based native cipher.
+01:13:44 [INFO] Using zlib based native compressor.
+01:13:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:13:44 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:13:44 [INFO] Epoll is working, utilising it!
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:13:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:13:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+01:13:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:13:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:13:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:44 [INFO] §b       §3 __    
+01:13:44 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:13:44 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:13:44 [INFO] 
+01:13:44 [INFO] [LuckPerms] Loading configuration...
+01:13:44 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:13:44 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:13:44 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:13:45 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:13:45 [INFO] [LuckPerms] Loading internal permission managers...
+01:13:45 [INFO] [LuckPerms] Performing initial data load...
+01:13:45 [INFO] [LuckPerms] Successfully enabled. (took 902ms)
+01:13:45 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:13:45 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+01:13:46 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+01:13:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:46 [INFO] §f
+01:13:46 [INFO] §f§2           ██▌
+01:13:46 [INFO] §f§2     ██▌   ██▌
+01:13:46 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:13:46 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:13:46 [INFO] §f
+01:13:46 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:13:46 [INFO] [Plan] You're using the latest version.
+01:13:47 [INFO] [Plan] MySQL-database connection established.
+01:13:47 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:13:47 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:13:47 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:13:47 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:13:47 [INFO] [Plan] Registered extension: AdvancedBan
+01:13:47 [INFO] [Plan] Registered extension: LuckPerms
+01:13:47 [INFO] [Plan] Player Analytics Enabled.
+01:13:47 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:13:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:13:47 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:13:47 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:13:47 [INFO] Listening on /0.0.0.0:25565
+01:13:55 [INFO] Closing listener [id: 0x91cdeabe, L:/0:0:0:0:0:0:0:0%0:25565]
+01:13:55 [INFO] Closing pending connections
+01:13:55 [INFO] Disconnecting 0 connections
+01:13:56 [INFO] Disabling plugins
+01:13:56 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+01:13:56 [INFO] [Plan] Processing complete.
+01:13:56 [INFO] [Plan] Webserver has been disabled.
+01:13:56 [INFO] [Plan] Player Analytics Disabled.
+01:13:56 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+01:13:56 [INFO] [LuckPerms] Starting shutdown process...
+01:13:56 [INFO] [LuckPerms] Closing messaging service...
+01:13:56 [INFO] [LuckPerms] Closing storage...
+01:13:56 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+01:13:56 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+01:13:56 [INFO] [LuckPerms] Goodbye!
+01:13:56 [INFO] Closing IO threads
+01:20:49 [INFO] Using mbed TLS based native cipher.
+01:20:49 [INFO] Using zlib based native compressor.
+01:20:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:20:49 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:20:49 [INFO] Epoll is working, utilising it!
+01:20:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:20:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:20:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+01:20:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:20:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:20:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:49 [INFO] §b       §3 __    
+01:20:49 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:20:49 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:20:49 [INFO] 
+01:20:49 [INFO] [LuckPerms] Loading configuration...
+01:20:49 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:20:49 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:20:49 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:20:50 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:20:50 [INFO] [LuckPerms] Loading internal permission managers...
+01:20:50 [INFO] [LuckPerms] Performing initial data load...
+01:20:50 [INFO] [LuckPerms] Successfully enabled. (took 942ms)
+01:20:50 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:20:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:50 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+01:20:50 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+01:20:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:51 [INFO] §f
+01:20:51 [INFO] §f§2           ██▌
+01:20:51 [INFO] §f§2     ██▌   ██▌
+01:20:51 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:20:51 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:20:51 [INFO] §f
+01:20:51 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:20:51 [INFO] [Plan] You're using the latest version.
+01:20:51 [INFO] [Plan] MySQL-database connection established.
+01:20:51 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:20:51 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:20:51 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:20:51 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:20:51 [INFO] [Plan] Registered extension: AdvancedBan
+01:20:51 [INFO] [Plan] Registered extension: LuckPerms
+01:20:51 [INFO] [Plan] Player Analytics Enabled.
+01:20:51 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:20:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:20:51 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:20:51 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:20:51 [INFO] Listening on /0.0.0.0:25565
+01:21:00 [INFO] [/10.0.1.4:53577] <-> InitialHandler has connected
+01:21:01 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:21:10 [INFO] [/98.32.158.72:60937] <-> InitialHandler has pinged
+01:21:11 [INFO] [Math0424,/98.32.158.72:60944] <-> InitialHandler has connected
+01:21:12 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:21:51 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+01:25:56 [INFO] [LuckPerms] [Messaging] Received update ping with id: 53262dc6-2e5a-4f89-a777-4725a5d7bf0a
+01:26:02 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:26:02 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:26:05 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:26:05 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:26:05 [INFO] [/98.32.158.72:60971] <-> InitialHandler has pinged
+01:26:06 [INFO] [Math0424,/98.32.158.72:60978] <-> InitialHandler has connected
+01:26:06 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:26:20 [INFO] [Hallflower,/10.0.1.4:53702] <-> InitialHandler has connected
+01:26:20 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:26:56 [INFO] [/10.0.1.4:53722] <-> InitialHandler has pinged
+01:29:49 [INFO] Closing listener [id: 0x2aaeb666, L:/0:0:0:0:0:0:0:0%0:25565]
+01:29:49 [INFO] Listening on /0.0.0.0:25565
+01:30:01 [INFO] Closing listener [id: 0xbb06719e, L:/0:0:0:0:0:0:0:0%0:25565]
+01:30:01 [INFO] Closing pending connections
+01:30:01 [INFO] Disconnecting 2 connections
+01:30:01 [INFO] [Hallflower] disconnected with: §f[Proxy] Proxy restarting.
+01:30:01 [INFO] [Math0424] disconnected with: §f[Proxy] Proxy restarting.
+01:30:01 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:30:01 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:30:01 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:30:01 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:30:01 [INFO] Disabling plugins
+01:30:01 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+01:30:01 [INFO] [Plan] Processing complete.
+01:30:01 [INFO] [Plan] Webserver has been disabled.
+01:30:01 [INFO] [Plan] Player Analytics Disabled.
+01:30:01 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+01:30:01 [INFO] [LuckPerms] Starting shutdown process...
+01:30:01 [INFO] [LuckPerms] Closing messaging service...
+01:30:01 [INFO] [LuckPerms] Closing storage...
+01:30:01 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+01:30:01 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+01:30:01 [INFO] [LuckPerms] Goodbye!
+01:30:01 [INFO] Closing IO threads
+01:30:16 [INFO] Using mbed TLS based native cipher.
+01:30:16 [INFO] Using zlib based native compressor.
+01:30:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:30:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:30:16 [INFO] Epoll is working, utilising it!
+01:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:30:17 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:30:17 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+01:30:17 [INFO] Loaded plugin BungeeHub version 0.3 by iFedeFC
+01:30:17 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:30:17 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:30:17 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:17 [INFO] §b       §3 __    
+01:30:17 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:30:17 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:30:17 [INFO] 
+01:30:17 [INFO] [LuckPerms] Loading configuration...
+01:30:17 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:30:17 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:30:17 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:30:17 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:30:18 [INFO] [LuckPerms] Loading internal permission managers...
+01:30:18 [INFO] [LuckPerms] Performing initial data load...
+01:30:18 [INFO] [LuckPerms] Successfully enabled. (took 894ms)
+01:30:18 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:30:18 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:18 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+01:30:18 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+01:30:18 [INFO] [BungeeHub] §e----------------------------
+01:30:18 [INFO] [BungeeHub]      §b§lBungeeCord Hub
+01:30:18 [INFO] [BungeeHub] 
+01:30:18 [INFO] [BungeeHub] §aYou are using the latest version
+01:30:18 [INFO] [BungeeHub] 
+01:30:18 [INFO] [BungeeHub] §e----------------------------
+01:30:18 [INFO] Enabled plugin BungeeHub version 0.3 by iFedeFC
+01:30:18 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:18 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:18 [INFO] §f
+01:30:18 [INFO] §f§2           ██▌
+01:30:18 [INFO] §f§2     ██▌   ██▌
+01:30:18 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:30:18 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:30:18 [INFO] §f
+01:30:19 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:30:19 [INFO] [Plan] You're using the latest version.
+01:30:19 [INFO] [Plan] MySQL-database connection established.
+01:30:19 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:30:19 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:30:19 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:30:19 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:30:19 [INFO] [Plan] Registered extension: AdvancedBan
+01:30:19 [INFO] [Plan] Registered extension: LuckPerms
+01:30:19 [INFO] [Plan] Player Analytics Enabled.
+01:30:19 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:30:19 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:19 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:30:19 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:30:19 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:30:19 [INFO] Listening on /0.0.0.0:25565
+01:30:39 [INFO] [/98.32.158.72:61009] <-> InitialHandler has connected
+01:30:40 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:30:44 [INFO] Closing listener [id: 0xc49bc47d, L:/0:0:0:0:0:0:0:0%0:25565]
+01:30:44 [INFO] Listening on /0.0.0.0:25565
+01:30:47 [WARNING] Error dispatching event ChatEvent(super=TargetedEvent(sender=Math0424, receiver=net.md_5.bungee.ServerConnection@1fd12116), cancelled=false, message=/hub) to listener me.ifedefc.bungeelobby.CommandEvent@36b6964d
+java.lang.NullPointerException: info
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:787)
+	at net.md_5.bungee.UserConnection.connect(UserConnection.java:252)
+	at net.md_5.bungee.UserConnection.connect(UserConnection.java:209)
+	at net.md_5.bungee.UserConnection.connect(UserConnection.java:191)
+	at me.ifedefc.bungeelobby.CommandEvent.onChat(CommandEvent.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.md_5.bungee.event.EventHandlerMethod.invoke(EventHandlerMethod.java:19)
+	at net.md_5.bungee.event.EventBus.post(EventBus.java:46)
+	at net.md_5.bungee.api.plugin.PluginManager.callEvent(PluginManager.java:399)
+	at net.md_5.bungee.connection.UpstreamBridge.handle(UpstreamBridge.java:145)
+	at net.md_5.bungee.protocol.packet.Chat.handle(Chat.java:50)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:792)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:475)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:378)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Thread.java:748)
+01:31:01 [INFO] Closing listener [id: 0xd55f8876, L:/0:0:0:0:0:0:0:0%0:25565]
+01:31:01 [INFO] Closing pending connections
+01:31:01 [INFO] Disconnecting 1 connections
+01:31:01 [INFO] [Math0424] disconnected with: §f[Proxy] Proxy restarting.
+01:31:01 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:31:01 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:31:02 [INFO] Disabling plugins
+01:31:02 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+01:31:02 [INFO] [Plan] Processing complete.
+01:31:02 [INFO] [Plan] Webserver has been disabled.
+01:31:02 [INFO] [Plan] Player Analytics Disabled.
+01:31:02 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+01:31:02 [INFO] [LuckPerms] Starting shutdown process...
+01:31:02 [INFO] [LuckPerms] Closing messaging service...
+01:31:02 [INFO] [LuckPerms] Closing storage...
+01:31:02 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+01:31:02 [SEVERE] [Shutdown Thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+01:31:02 [INFO] [LuckPerms] Goodbye!
+01:31:02 [INFO] Closing IO threads
+01:32:19 [INFO] Using mbed TLS based native cipher.
+01:32:19 [INFO] Using zlib based native compressor.
+01:32:19 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+01:32:19 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:32:19 [INFO] Epoll is working, utilising it!
+01:32:19 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:32:19 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+01:32:19 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+01:32:19 [INFO] Loaded plugin BungeeHub version 0.3 by iFedeFC
+01:32:19 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+01:32:19 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:19 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:32:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:20 [INFO] §b       §3 __    
+01:32:20 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+01:32:20 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+01:32:20 [INFO] 
+01:32:20 [INFO] [LuckPerms] Loading configuration...
+01:32:20 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+01:32:20 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+01:32:20 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+01:32:20 [INFO] [LuckPerms] Loading messaging service... [SQL]
+01:32:20 [INFO] [LuckPerms] Loading internal permission managers...
+01:32:20 [INFO] [LuckPerms] Performing initial data load...
+01:32:20 [INFO] [LuckPerms] Successfully enabled. (took 941ms)
+01:32:20 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+01:32:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:21 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+01:32:21 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+01:32:21 [INFO] [BungeeHub] §e----------------------------
+01:32:21 [INFO] [BungeeHub]      §b§lBungeeCord Hub
+01:32:21 [INFO] [BungeeHub] 
+01:32:21 [INFO] [BungeeHub] §aYou are using the latest version
+01:32:21 [INFO] [BungeeHub] 
+01:32:21 [INFO] [BungeeHub] §e----------------------------
+01:32:21 [INFO] Enabled plugin BungeeHub version 0.3 by iFedeFC
+01:32:21 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:21 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:21 [INFO] §f
+01:32:21 [INFO] §f§2           ██▌
+01:32:21 [INFO] §f§2     ██▌   ██▌
+01:32:21 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+01:32:21 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+01:32:21 [INFO] §f
+01:32:21 [INFO] [Plan] Locale: 'English' by Rsl1122
+01:32:21 [INFO] [Plan] You're using the latest version.
+01:32:21 [INFO] [Plan] MySQL-database connection established.
+01:32:21 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+01:32:21 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+01:32:21 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+01:32:21 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+01:32:22 [INFO] [Plan] Registered extension: AdvancedBan
+01:32:22 [INFO] [Plan] Registered extension: LuckPerms
+01:32:22 [INFO] [Plan] Player Analytics Enabled.
+01:32:22 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+01:32:22 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:22 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+01:32:22 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+01:32:22 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+01:32:22 [INFO] Listening on /0.0.0.0:25565
+01:32:28 [INFO] [/98.32.158.72:61027] <-> InitialHandler has connected
+01:32:29 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:34:14 [INFO] [Hallflower,/10.0.1.4:53917] <-> InitialHandler has connected
+01:34:14 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:34:15 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+01:34:15 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:34:18 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:34:18 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+01:34:24 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+01:34:24 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:34:25 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:34:25 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+01:34:28 [INFO] [Hallflower] <-> ServerConnector [bedwars] has connected
+01:34:28 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:34:32 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:34:32 [INFO] [Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:35:21 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:35:21 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:36:53 [INFO] [/10.0.1.4:54282] <-> InitialHandler has pinged
+01:37:18 [INFO] [/10.0.1.4:54295] <-> InitialHandler has pinged
+01:40:19 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+01:40:19 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:40:58 [INFO] [Math0424] disconnected with: §fServer closed
+01:40:58 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:40:58 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+01:41:01 [INFO] [/98.32.158.72:61116] <-> InitialHandler has connected
+01:41:02 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:41:20 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+01:41:30 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:41:47 [INFO] [Hallflower,/10.0.1.4:54417] <-> InitialHandler has connected
+01:41:47 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:42:00 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+01:42:00 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:42:38 [INFO] [Math0424] disconnected with: §fServer closed
+01:42:38 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:42:38 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+01:42:38 [INFO] [Hallflower] disconnected with: §fServer closed
+01:42:38 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:42:38 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+01:42:47 [INFO] [/10.0.1.4:54444] <-> InitialHandler has pinged
+01:44:55 [INFO] [Math0424,/98.32.158.72:61179] <-> InitialHandler has connected
+01:44:56 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:45:05 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+01:45:06 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:45:21 [INFO] [Hallflower,/10.0.1.4:54497] <-> InitialHandler has connected
+01:45:21 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:45:36 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+01:45:36 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+01:50:14 [INFO] [Math0424] disconnected with: §fServer closed
+01:50:14 [INFO] [Math0424] -> UpstreamBridge has disconnected
+01:50:14 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+01:50:14 [INFO] [Hallflower] disconnected with: §fServer closed
+01:50:14 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+01:50:14 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+01:51:21 [INFO] [Math0424,/98.32.158.72:61238] <-> InitialHandler has connected
+01:51:22 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+01:52:08 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+01:52:12 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+01:52:40 [INFO] [Hallflower,/10.0.1.4:54645] <-> InitialHandler has connected
+01:52:41 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+01:52:56 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+01:52:56 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:29:30 [INFO] [Math0424] -> UpstreamBridge has disconnected
+02:29:30 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+02:29:30 [INFO] [/98.32.158.72:61606] <-> InitialHandler has pinged
+02:29:34 [INFO] [/98.32.158.72:61619] <-> InitialHandler has pinged
+02:29:34 [INFO] [Math0424,/98.32.158.72:61621] <-> InitialHandler has connected
+02:29:34 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:29:41 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+02:29:41 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:31:21 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:31:22 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+02:31:26 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+02:31:26 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+02:31:32 [INFO] [Math0424] <-> ServerConnector [pvp] has connected
+02:31:32 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:31:46 [INFO] [Hallflower] <-> ServerConnector [pvp] has connected
+02:31:46 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:31:47 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+02:31:47 [INFO] [Hallflower] <-> DownstreamBridge <-> [pvp] has disconnected
+02:31:57 [INFO] [Hallflower] <-> ServerConnector [pvp] has connected
+02:31:57 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:33:25 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+02:33:25 [INFO] [Hallflower] <-> DownstreamBridge <-> [pvp] has disconnected
+02:33:27 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+02:33:28 [INFO] [Math0424] <-> DownstreamBridge <-> [pvp] has disconnected
+02:33:29 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+02:33:29 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+02:33:31 [INFO] [Math0424] -> UpstreamBridge has disconnected
+02:33:31 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+02:33:31 [INFO] [/98.32.158.72:61653] <-> InitialHandler has pinged
+12:33:02 [INFO] [/67.184.0.111:56322] <-> InitialHandler has pinged
+12:39:38 [INFO] [/172.12.249.171:63029] <-> InitialHandler has pinged
+13:05:30 [INFO] [/172.12.249.171:63074] <-> InitialHandler has pinged
+13:48:43 [INFO] [/67.184.0.111:56681] <-> InitialHandler has pinged
+13:49:13 [WARNING] [/67.184.0.111:56681] <-> InitialHandler - read timed out
+15:58:30 [INFO] [/73.208.230.151:50253] <-> InitialHandler has pinged
+15:58:30 [INFO] [/73.208.230.151:50257] <-> InitialHandler has pinged
+16:00:28 [INFO] [/73.208.230.151:50271] <-> InitialHandler has pinged
+16:00:28 [INFO] [/73.208.230.151:50272] <-> InitialHandler has pinged

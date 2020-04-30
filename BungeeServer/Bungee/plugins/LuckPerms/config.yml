@@ -99,7 +99,7 @@ data:
   database: minecraft
 
   # Credentials for the database.
-  username: luckperms
+  username: minecraft
   password: 'E!mhurst60126'
 
   # These settings apply to the MySQL connection pool.

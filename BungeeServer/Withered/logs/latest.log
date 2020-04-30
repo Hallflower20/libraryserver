@@ -1,263 +1,437 @@
-[16:07:30] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[16:07:30] [Server thread/INFO]: Loading properties
-[16:07:30] [Server thread/INFO]: This server is running Paper version git-Paper-211 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[16:07:31] [Server thread/INFO]: Debug logging is disabled
-[16:07:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:07:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:07:31] [Server thread/INFO]: Default game type: SURVIVAL
-[16:07:31] [Server thread/INFO]: Generating keypair
-[16:07:31] [Server thread/INFO]: Starting Minecraft server on *:25563
-[16:07:31] [Server thread/INFO]: Using epoll channel type
-[16:07:31] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[16:07:35] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
-[16:07:35] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
-[16:07:35] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[16:07:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[16:07:36] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@30096500]
-[16:07:36] [Server thread/INFO]: [WitheredAPI] Loading WitheredAPI v1.1.1
-[16:07:36] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
-[16:07:36] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[16:07:36] [Server thread/INFO]: [Withered] Loading Withered v1.8.2
-[16:07:36] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[16:07:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:07:36] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[16:07:36] [Server thread/INFO]:         __    
-[16:07:36] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
-[16:07:36] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[16:07:36] [Server thread/INFO]: 
-[16:07:36] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[16:07:36] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[16:07:36] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
-[16:07:36] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
-[16:07:36] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:36 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:07:37 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:07:37] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[16:07:37] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[16:07:37] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1097ms)
-[16:07:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[16:07:37] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:07:37] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[16:07:38] [Server thread/INFO]: [WitheredAPI] Enabling WitheredAPI v1.1.1
-[16:07:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:07:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:07:38] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[16:07:38] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[16:07:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:07:38] [Server thread/INFO]: Preparing level "world"
-[16:07:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[16:07:38] [Thread-14/INFO]: [WitheredAPI] You are running on the latest version
-[16:07:38] [Server thread/INFO]: Loaded 6 recipes
-[16:07:39] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:07:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:07:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[16:07:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:07:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:07:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[16:07:39] [Server thread/INFO]: Max TNT Explosions: 100
-[16:07:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:07:39] [Server thread/INFO]: Mob Spawn Range: 8
-[16:07:39] [Server thread/INFO]: View Distance: 10
-[16:07:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:07:39] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:07:39] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:07:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:07:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:07:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:07:39] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[16:07:39] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:07:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:07:39] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:07:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[16:07:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:07:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:07:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[16:07:39] [Server thread/INFO]: Max TNT Explosions: 100
-[16:07:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:07:39] [Server thread/INFO]: Mob Spawn Range: 8
-[16:07:39] [Server thread/INFO]: View Distance: 10
-[16:07:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:07:39] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:07:39] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:07:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:07:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:07:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:07:39] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[16:07:39] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[16:07:39] [Server thread/INFO]: Preparing spawn area: 0%
-[16:07:39] [Server thread/INFO]: Time elapsed: 159 ms
-[16:07:39] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[16:07:39] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[16:07:39] [Server thread/INFO]: Time elapsed: 92 ms
-[16:07:39] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
-[16:07:39] [Server thread/INFO]: ===================================
-[16:07:39] [Server thread/INFO]: ===================================
-[16:07:39] [Server thread/INFO]: Check out my other Plugins!
-[16:07:39] [Server thread/INFO]: I also sell a BedWars Plugin!
-[16:07:39] [Server thread/INFO]: ===================================
-[16:07:39] [Server thread/INFO]: ===================================
-[16:07:39] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
-[16:07:39] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
-[16:07:39] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
-[16:07:39] [Server thread/INFO]: [iPortal] IPortal has been enabled!
-[16:07:39] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[16:07:40] [Server thread/INFO]: 
-[16:07:40] [Server thread/INFO]:            ██▌
-[16:07:40] [Server thread/INFO]:      ██▌   ██▌
-[16:07:40] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
-[16:07:40] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
-[16:07:40] [Server thread/INFO]: 
-[16:07:40] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[16:07:40] [Server thread/INFO]: [Plan] You're using the latest version.
-[16:07:40] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[16:07:40] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[16:07:40] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[16:07:40] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[16:07:40] [Server thread/INFO]: [Plan] Player Analytics Enabled. (866 ms)
-[16:07:40] [Server thread/INFO]: [Withered] Enabling Withered v1.8.2
-[16:07:40] [Server thread/INFO]: [Withered] Server version ID = '.v1_15_R1'
-[16:07:40] [Server thread/INFO]: ======================================================
-[16:07:40] [Server thread/INFO]: =     _       ___ __  __                       __    =
-[16:07:40] [Server thread/INFO]: =    | |     / (_) /_/ /_  ___  ________  ____/ /    =
-[16:07:40] [Server thread/INFO]: =    | | /| / / / __/ __ \/ _ \/ ___/ _ \/ __  /     =
-[16:07:40] [Server thread/INFO]: =    | |/ |/ / / /_/ / / /  __/ /  /  __/ /_/ /      =
-[16:07:40] [Server thread/INFO]: =    |__/|__/_/\__/_/ /_/\___/_/   \___/\__,_/       =
-[16:07:40] [Server thread/INFO]: =                                                    =
-[16:07:40] [Server thread/INFO]: =  By: Math0424                                      =
-[16:07:40] [Server thread/INFO]: ======================================================
-[16:07:40] [Thread-15/INFO]: [Withered] You are running on the latest version
-[16:07:41] [Thread-23/INFO]: [Withered] Downloading and auto hashing resourcepack...
-[16:07:41] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[16:07:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[16:07:42] [Server thread/INFO]: [WorldGuard] Loading region data...
-[16:07:42] [Server thread/INFO]: Done (4.212s)! For help, type "help"
-[16:07:42] [Server thread/INFO]: Timings Reset
-[16:07:43] [Thread-23/INFO]: [Withered] Successfully acquired resourcepack with a size of 3.89 mb
-[16:07:43] [Thread-23/INFO]: [Withered] Auto hashed resourcepack and found hash of 0c7e3ac7196f82cb867c131e71e72cf3dd66ecbb
-[16:12:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:15:34] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:15:34] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add plots.claim true
-[16:15:34] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:15:34] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add plotme.use true
-[16:15:36] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 65c8b0dc-b783-4730-b4ac-51de793c19e6
-[16:16:54] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:16:54] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plotme.limit.1 true
-[16:16:56] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: 6fd45080-b96e-490f-bcab-bb4888bcc0c6
-[16:17:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:21:04] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:21:04] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add plotme.limit.20 true
-[16:21:04] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:21:04] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove plotme.limit.1 true
-[16:21:06] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 763ff37f-a587-476b-a263-c86a68fc38cb
-[16:22:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plots.set.* true
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plots.set.home true
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plotme.use.* true
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:24:22] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plotme.use.home true
-[16:24:25] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: 52750140-00fa-49ae-b552-a09c237c0287
-[16:27:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:27:55] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > (Math0424) [G] (default)
-[16:27:55] [luckperms-scheduler-worker-3/INFO]: [LP] LOG > webeditor add plots.plot.* true
-[16:27:58] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: eb853add-4b0f-4cf8-b16e-7ed26a57b1f8
-[16:32:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:36:55] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:36:55 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:00] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:00 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:03] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:03 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:14] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:14 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:17] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:17 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:21] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:21 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:21] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:21 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:30] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:30 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:34] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:34 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:36] [luckperms-hikari connection adder/WARN]: Wed Apr 29 16:37:36 CDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-[16:37:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:42:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:47:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:52:42] [Server thread/INFO]: [Withered] Saved playerData.
-[16:57:42] [Server thread/INFO]: [Withered] Saved playerData.
-[17:02:42] [Server thread/INFO]: [Withered] Saved playerData.
-[17:05:47] [Server thread/INFO]: Stopping the server
-[17:05:48] [Server thread/INFO]: Stopping server
-[17:05:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[17:05:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[17:05:48] [Server thread/INFO]: [Withered] Disabling Withered v1.8.2
-[17:05:48] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 505
-[17:05:48] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
-[17:05:48] [Server thread/INFO]: [Plan] Processing complete.
-[17:05:48] [Server thread/INFO]: [Plan] Player Analytics Disabled.
-[17:05:48] [Server thread/INFO]: [IPortal] Disabling IPortal v1.13
-[17:05:48] [Server thread/INFO]: [iPortal] IPortal has been disabled!
-[17:05:48] [Server thread/INFO]: [WitheredAPI] Disabling WitheredAPI v1.1.1
-[17:05:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[17:05:48] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:05:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
-[17:05:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[17:05:48] [Server thread/INFO]: [LuckPerms] Closing messaging service...
-[17:05:48] [Server thread/INFO]: [LuckPerms] Closing storage...
-[17:05:48] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
-[17:05:48] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
-[17:05:48] [Server thread/INFO]: [LuckPerms] Goodbye!
-[17:05:48] [Server thread/INFO]: [DisableJoinMessage] Disabling DisableJoinMessage v1.0
-[17:05:48] [Server thread/INFO]: Saving players
-[17:05:48] [Server thread/INFO]: Saving worlds
-[17:05:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:05:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:05:48] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[17:05:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:05:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:05:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:05:48] [Server thread/INFO]: Flushing Chunk IO
-[17:05:48] [Server thread/INFO]: Closing Thread Pool
-[17:05:48] [Server thread/INFO]: Closing Server
+[01:18:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:18:34] [Server thread/INFO]: Loading properties
+[01:18:35] [Server thread/INFO]: This server is running Paper version git-Paper-211 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:18:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:18:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:18:36] [Server thread/INFO]: Debug logging is disabled
+[01:18:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:18:36] [Server thread/INFO]: Generating keypair
+[01:18:37] [Server thread/INFO]: Starting Minecraft server on *:25563
+[01:18:37] [Server thread/INFO]: Using epoll channel type
+[01:18:38] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:18:46] [Server thread/WARN]: Legacy plugin DisableJoinMessage v1.0 does not specify an api-version.
+[01:18:46] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
+[01:18:47] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[01:18:47] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[01:18:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[01:18:50] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@78f46a69]
+[01:18:50] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[01:18:50] [Server thread/INFO]: [WitheredAPI] Loading WitheredAPI v1.1.1
+[01:18:50] [Server thread/INFO]: [IPortal] Loading IPortal v1.13
+[01:18:50] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[01:18:50] [Server thread/INFO]: [Withered] Loading Withered v1.8.2
+[01:18:50] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[01:18:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:18:50] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[01:18:50] [Server thread/INFO]:         __    
+[01:18:50] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[01:18:50] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:18:50] [Server thread/INFO]: 
+[01:18:50] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:18:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[01:18:51] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[01:18:51] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[01:18:51] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[01:18:51] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:18:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:18:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1915ms)
+[01:18:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[01:18:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:18:52] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[01:18:53] [Server thread/INFO]: [WitheredAPI] Enabling WitheredAPI v1.1.1
+[01:18:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:18:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:18:53] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[01:18:53] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[01:18:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:18:53] [Server thread/INFO]: Preparing level "world"
+[01:18:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:18:53] [Thread-14/INFO]: [WitheredAPI] You are running on the latest version
+[01:18:54] [Server thread/INFO]: Loaded 6 recipes
+[01:18:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:18:54] [Server thread/INFO]: Mob Spawn Range: 8
+[01:18:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:18:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:18:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:18:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:18:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:18:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:18:54] [Server thread/INFO]: Max TNT Explosions: 100
+[01:18:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:18:54] [Server thread/INFO]: View Distance: 10
+[01:18:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:18:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:18:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:18:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:18:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:18:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:18:54] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:18:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:18:55] [Server thread/INFO]: Mob Spawn Range: 8
+[01:18:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:18:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:18:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:18:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:18:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:18:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:18:55] [Server thread/INFO]: Max TNT Explosions: 100
+[01:18:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:18:55] [Server thread/INFO]: View Distance: 10
+[01:18:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:18:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:18:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:18:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:18:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:18:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:18:55] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[01:18:55] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[01:18:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:55] [Server thread/INFO]: Time elapsed: 686 ms
+[01:18:55] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[01:18:55] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[01:18:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:56] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[01:18:56] [Server thread/INFO]: Time elapsed: 679 ms
+[01:18:56] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0*
+[01:18:56] [Server thread/INFO]: ===================================
+[01:18:56] [Server thread/INFO]: ===================================
+[01:18:56] [Server thread/INFO]: Check out my other Plugins!
+[01:18:56] [Server thread/INFO]: I also sell a BedWars Plugin!
+[01:18:56] [Server thread/INFO]: ===================================
+[01:18:56] [Server thread/INFO]: ===================================
+[01:18:56] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
+[01:18:56] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[01:18:56] [Server thread/INFO]: [IPortal] Enabling IPortal v1.13
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=201, z=7}
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=201, z=6}
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=200, z=6}
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=200, z=7}
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=199, z=7}
+[01:18:57] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=742, y=199, z=6}
+[01:18:57] [Server thread/INFO]: [iPortal] hub portal successfully Loaded!
+[01:18:57] [Server thread/INFO]: [iPortal] portals.yml file successfully Loaded!
+[01:18:57] [Server thread/INFO]: [iPortal] IPortal has been enabled!
+[01:18:57] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[01:18:57] [Server thread/INFO]: 
+[01:18:57] [Server thread/INFO]:            ██▌
+[01:18:57] [Server thread/INFO]:      ██▌   ██▌
+[01:18:57] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[01:18:57] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[01:18:57] [Server thread/INFO]: 
+[01:18:57] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[01:18:57] [Server thread/INFO]: [Plan] You're using the latest version.
+[01:18:57] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[01:18:57] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[01:18:58] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[01:18:58] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[01:18:58] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[01:18:58] [Server thread/INFO]: [Plan] Player Analytics Enabled. (1042 ms)
+[01:18:58] [Server thread/INFO]: [Withered] Enabling Withered v1.8.2
+[01:18:58] [Server thread/INFO]: [Withered] Server version ID = '.v1_15_R1'
+[01:18:58] [Server thread/INFO]: ======================================================
+[01:18:58] [Server thread/INFO]: =     _       ___ __  __                       __    =
+[01:18:58] [Server thread/INFO]: =    | |     / (_) /_/ /_  ___  ________  ____/ /    =
+[01:18:58] [Server thread/INFO]: =    | | /| / / / __/ __ \/ _ \/ ___/ _ \/ __  /     =
+[01:18:58] [Server thread/INFO]: =    | |/ |/ / / /_/ / / /  __/ /  /  __/ /_/ /      =
+[01:18:58] [Server thread/INFO]: =    |__/|__/_/\__/_/ /_/\___/_/   \___/\__,_/       =
+[01:18:58] [Server thread/INFO]: =                                                    =
+[01:18:58] [Server thread/INFO]: =  By: Math0424                                      =
+[01:18:58] [Server thread/INFO]: ======================================================
+[01:18:58] [Thread-15/INFO]: [Withered] You are running on the latest version
+[01:18:58] [Thread-23/INFO]: [Withered] Downloading and auto hashing resourcepack...
+[01:18:58] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[01:19:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[01:19:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:19:00] [Server thread/INFO]: Done (7.232s)! For help, type "help"
+[01:19:00] [Server thread/INFO]: Timings Reset
+[01:19:01] [Thread-23/INFO]: [Withered] Successfully acquired resourcepack with a size of 3.89 mb
+[01:19:01] [Thread-23/INFO]: [Withered] Auto hashed resourcepack and found hash of 0c7e3ac7196f82cb867c131e71e72cf3dd66ecbb
+[01:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.reload true
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.tempban.exempt true
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[01:25:52] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.ipban.perma true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (admin)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.check.ip true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (admin)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.banlist true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (admin)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.ban.perma true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (admin)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.check true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (moderator)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.kick.use true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (moderator)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.ban.temp true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.warn.perma true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.mute.temp true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.warns.other true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.mute.perma true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.notify.ban true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.warn.temp true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.notify.mute true
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (helper)
+[01:25:53] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.notify.warn true
+[01:25:54] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (default)
+[01:25:54] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add ab.warns.own true
+[01:25:56] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 53262dc6-2e5a-4f89-a777-4725a5d7bf0a
+[01:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[01:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[02:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[03:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[04:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[05:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[06:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[07:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[08:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[09:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[10:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[11:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[12:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[13:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[14:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[15:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:44:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:49:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:54:00] [Server thread/INFO]: [Withered] Saved playerData.
+[16:59:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:04:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:09:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:14:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:19:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:24:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:29:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:34:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:39:00] [Server thread/INFO]: [Withered] Saved playerData.
+[17:44:00] [Server thread/INFO]: [Withered] Saved playerData.

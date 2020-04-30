@@ -33,7 +33,7 @@ Database:
     MySQL:
         Host: localhost
         Port: 3306
-        User: luckperms
+        User: minecraft
         Password: E!mhurst60126
         Database: minecraft
         # Launch options to append after mysql driver address
@@ -176,6 +176,7 @@ World_aliases:
     tree: tree
     winter: winter
     SkyWarsArenaWorld: SkyWarsArenaWorld
+    world_nether: world_nether
 # -----------------------------------------------------
 # These settings will make Plan write .js, .css, .json and .html files to some location on disk.
 # Relative path will render to /plugins/Plan/path
@@ -203,6 +204,8 @@ Export:
 # If a plugin is causing issues the integration can be disabled by setting Plugin_name.Enabled: false
 # -----------------------------------------------------
 Plugins:
+    AdvancedBan:
+        Enabled: true
     Buycraft:
         # http://help.buycraft.net/article/36-where-to-find-the-secret-key
         Secret: '-'
