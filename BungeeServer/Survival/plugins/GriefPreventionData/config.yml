@@ -6,9 +6,9 @@ GriefPrevention:
     world_the_end: -1
   Claims:
     Mode:
-      world: Survival
       world_nether: Disabled
       world_the_end: Disabled
+      world: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -16,11 +16,11 @@ GriefPrevention:
     LockWoodenDoors: false
     LockTrapDoors: false
     LockFenceGates: true
-    EnderPearlsRequireAccessTrust: true
+    EnderPearlsRequireAccessTrust: false
     ProtectHorses: true
     ProtectDonkeys: true
     ProtectLlamas: true
-    InitialBlocks: 100
+    InitialBlocks: 200
     Claim Blocks Accrued Per Hour:
       Default: 100
     Max Accrued Claim Blocks:
@@ -36,8 +36,8 @@ GriefPrevention:
     InvestigationTool: STICK
     ModificationTool: GOLDEN_SHOVEL
     Expiration:
-      ChestClaimDays: 7
-      UnusedClaimDays: 14
+      ChestClaimDays: 60
+      UnusedClaimDays: 60
       AllClaims:
         DaysInactive: 60
         ExceptWhenOwnerHasTotalClaimBlocks: 10000
@@ -45,7 +45,7 @@ GriefPrevention:
       AutomaticNatureRestoration:
         SurvivalWorlds: false
     AllowTrappedInAdminClaims: false
-    MaximumNumberOfClaimsPerPlayer: 0
+    MaximumNumberOfClaimsPerPlayer: 5
     CreationRequiresWorldGuardBuildPermission: true
     VillagerTradingRequiresPermission: true
     CommandsRequiringAccessTrust: /sethome
@@ -62,18 +62,18 @@ GriefPrevention:
     ChatSlashCommands: /me;/global;/local
     WhisperSlashCommands: /tell;/pm;/r;/whisper;/msg
     WarningMessage: Please reduce your noise level.  Spammers will be banned.
-    BanOffenders: true
+    BanOffenders: false
     BanMessage: Banned for spam.
     AllowedIpAddresses: 1.2.3.4; 5.6.7.8
-    DeathMessageCooldownSeconds: 120
+    DeathMessageCooldownSeconds: 50
     Logout Message Delay In Seconds: 0
   PvP:
     RulesEnabledInWorld:
       world: true
       world_nether: true
       world_the_end: true
-    ProtectFreshSpawns: true
-    PunishLogout: true
+    ProtectFreshSpawns: false
+    PunishLogout: false
     CombatTimeoutSeconds: 15
     AllowCombatItemDrop: false
     BlockedSlashCommands: /home;/vanish;/spawn;/tpa

@@ -16303,3 +16303,509 @@ Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException:
 20:36:26 [INFO] [/10.0.1.4:62046] <-> InitialHandler has pinged
 20:59:39 [INFO] [Hallflower] -> UpstreamBridge has disconnected
 20:59:39 [INFO] [Hallflower] <-> DownstreamBridge <-> [creative] has disconnected
+21:30:49 [INFO] [Math0424] disconnected with: §fKicked by an operator
+21:30:49 [INFO] [Math0424] -> UpstreamBridge has disconnected
+21:30:49 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+21:30:50 [INFO] [Math0424,/98.32.158.72:59214] <-> InitialHandler has connected
+21:30:51 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+21:30:55 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+21:30:56 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+21:31:33 [INFO] [/73.208.230.151:59983] <-> InitialHandler has pinged
+21:31:34 [INFO] [/73.208.230.151:59987] <-> InitialHandler has pinged
+21:31:35 [INFO] [/73.208.230.151:59995] <-> InitialHandler has pinged
+21:31:35 [INFO] [/73.208.230.151:59996] <-> InitialHandler has pinged
+21:31:47 [INFO] [DavidTheStarman,/73.208.230.151:59998] <-> InitialHandler has connected
+21:31:47 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+21:32:10 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+21:32:10 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+21:37:10 [INFO] [/73.208.230.151:60189] <-> InitialHandler has pinged
+21:37:10 [INFO] [/73.208.230.151:60193] <-> InitialHandler has pinged
+21:41:21 [INFO] [Hallflower,/10.0.1.4:53162] <-> InitialHandler has connected
+21:41:22 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+21:41:33 [INFO] [Hallflower] <-> ServerConnector [creative] has connected
+21:41:33 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+21:42:05 [INFO] [/10.0.1.4:53192] <-> InitialHandler has pinged
+21:42:34 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+21:42:34 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+21:42:34 [INFO] [/73.208.230.151:60226] <-> InitialHandler has pinged
+21:42:35 [INFO] [/73.208.230.151:60228] <-> InitialHandler has pinged
+21:42:37 [INFO] [DavidTheStarman,/73.208.230.151:60229] <-> InitialHandler has connected
+21:42:37 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+21:42:59 [INFO] [Hallflower] disconnected with: §fno beds
+21:42:59 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+21:42:59 [INFO] [Hallflower] <-> DownstreamBridge <-> [creative] has disconnected
+21:43:06 [INFO] [Hallflower,/10.0.1.4:53219] <-> InitialHandler has connected
+21:43:07 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+21:43:14 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+21:43:14 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+21:43:36 [INFO] [cutepink2505] disconnected with: §fkicking a mod
+21:43:36 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+21:43:36 [INFO] [cutepink2505] <-> DownstreamBridge <-> [creative] has disconnected
+21:43:41 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+21:43:41 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+21:43:43 [INFO] [cutepink2505,/10.0.1.86:51886] <-> InitialHandler has connected
+21:43:50 [INFO] [cutepink2505,/10.0.1.86:51891] <-> InitialHandler has connected
+21:44:20 [WARNING] [cutepink2505,/10.0.1.86:51891] <-> InitialHandler - read timed out
+21:44:30 [INFO] [cutepink2505,/10.0.1.86:51998] <-> InitialHandler has connected
+21:44:31 [INFO] [/10.0.1.86:51999] <-> InitialHandler has pinged
+21:44:31 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+21:44:45 [INFO] [cutepink2505] <-> ServerConnector [creative] has connected
+21:44:46 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+21:50:50 [INFO] [28weky,/71.57.73.125:63755] <-> InitialHandler has connected
+21:50:50 [INFO] [28weky] <-> ServerConnector [hub] has connected
+21:51:03 [INFO] [28weky] <-> ServerConnector [creative] has connected
+21:51:04 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+21:51:38 [INFO] [28weky] -> UpstreamBridge has disconnected
+21:51:38 [INFO] [28weky] <-> DownstreamBridge <-> [creative] has disconnected
+21:51:41 [INFO] [28weky,/71.57.73.125:63784] <-> InitialHandler has connected
+21:51:41 [INFO] [28weky] <-> ServerConnector [hub] has connected
+21:52:23 [INFO] [28weky] <-> ServerConnector [survival] has connected
+21:52:23 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+21:52:27 [INFO] [/98.32.159.91:10031] <-> InitialHandler has pinged
+21:52:28 [INFO] [stephie8,/98.32.159.91:44686] <-> InitialHandler has connected
+21:52:29 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+21:52:46 [INFO] [28weky] -> UpstreamBridge has disconnected
+21:52:46 [INFO] [28weky] <-> DownstreamBridge <-> [survival] has disconnected
+21:52:49 [INFO] [28weky,/71.57.73.125:63840] <-> InitialHandler has connected
+21:52:50 [INFO] [28weky] <-> ServerConnector [hub] has connected
+21:52:56 [INFO] [stephie8] <-> ServerConnector [spleef] has connected
+21:52:56 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+21:52:58 [INFO] [28weky] <-> ServerConnector [spleef] has connected
+21:52:58 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+21:53:47 [INFO] [/99.166.146.216:58160] <-> InitialHandler has pinged
+21:53:47 [INFO] [TheSlenderLoris,/99.166.146.216:58162] <-> InitialHandler has connected
+21:53:49 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+21:54:07 [INFO] [LuckPerms] [Messaging] Received update ping with id: b0040ac2-c7c1-4e11-a80a-fdea7ab281fe
+21:54:10 [INFO] [TheSlenderLoris] <-> ServerConnector [spleef] has connected
+21:54:10 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+21:54:16 [INFO] [Math0424] disconnected with: §fpermission update
+21:54:16 [INFO] [Math0424] -> UpstreamBridge has disconnected
+21:54:16 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+21:54:16 [INFO] [DavidTheStarman] disconnected with: §fpermission update
+21:54:16 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+21:54:16 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+21:54:16 [INFO] [cutepink2505] disconnected with: §fpermission update
+21:54:16 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+21:54:16 [INFO] [cutepink2505] <-> DownstreamBridge <-> [creative] has disconnected
+21:54:18 [INFO] [Math0424,/98.32.158.72:59408] <-> InitialHandler has connected
+21:54:19 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+21:54:22 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+21:54:22 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+21:54:23 [INFO] [cutepink2505,/10.0.1.86:52029] <-> InitialHandler has connected
+21:54:24 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+21:54:37 [INFO] [LuckPerms] [Messaging] Received update ping with id: 0561eeab-fc84-46d4-b769-3c2629fc3422
+21:54:37 [INFO] [cutepink2505] <-> ServerConnector [creative] has connected
+21:54:37 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+21:59:40 [INFO] [LuckPerms] [Messaging] Received user update ping for 'cutepink2505' with id: 067b8574-9af3-47e0-8e84-bf67f81b61a8
+21:59:46 [INFO] [LuckPerms] [Messaging] Received user update ping for 'cutepink2505' with id: 8e8ccff9-b9e9-4ae2-bbb2-2ea8258a856e
+21:59:48 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+21:59:48 [INFO] [stephie8] <-> DownstreamBridge <-> [spleef] has disconnected
+21:59:48 [INFO] [28weky] <-> ServerConnector [hub] has connected
+21:59:48 [INFO] [28weky] <-> DownstreamBridge <-> [spleef] has disconnected
+21:59:49 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+21:59:49 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [spleef] has disconnected
+21:59:54 [INFO] [LuckPerms] [Messaging] Received user update ping for 'cutepink2505' with id: f15bfe05-b0a3-41f9-b541-a6d953ba1943
+21:59:57 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+21:59:57 [INFO] [cutepink2505] <-> DownstreamBridge <-> [creative] has disconnected
+22:00:00 [INFO] [28weky] <-> ServerConnector [elytra] has connected
+22:00:00 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:00:01 [INFO] [stephie8] <-> ServerConnector [elytra] has connected
+22:00:01 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+22:00:02 [INFO] [TheSlenderLoris] <-> ServerConnector [elytra] has connected
+22:00:02 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:00:02 [INFO] [/10.0.1.86:52050] <-> InitialHandler has pinged
+22:00:02 [INFO] [cutepink2505,/10.0.1.86:52051] <-> InitialHandler has connected
+22:00:03 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+22:00:11 [INFO] [cutepink2505] <-> ServerConnector [creative] has connected
+22:00:11 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+22:01:44 [INFO] [/73.208.230.151:60544] <-> InitialHandler has pinged
+22:01:44 [INFO] [/73.208.230.151:60546] <-> InitialHandler has pinged
+22:01:45 [INFO] [DavidTheStarman,/73.208.230.151:60547] <-> InitialHandler has connected
+22:01:46 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:01:57 [INFO] [DavidTheStarman] <-> ServerConnector [elytra] has connected
+22:01:57 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:03:35 [INFO] [stephie8] -> UpstreamBridge has disconnected
+22:03:35 [INFO] [stephie8] <-> DownstreamBridge <-> [elytra] has disconnected
+22:03:36 [INFO] [/98.32.159.91:32288] <-> InitialHandler has pinged
+22:03:37 [INFO] [stephie8,/98.32.159.91:64004] <-> InitialHandler has connected
+22:03:38 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+22:03:44 [INFO] [stephie8] <-> ServerConnector [elytra] has connected
+22:03:44 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+22:05:05 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:05:05 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [elytra] has disconnected
+22:05:17 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+22:05:17 [INFO] [stephie8] <-> DownstreamBridge <-> [elytra] has disconnected
+22:05:19 [INFO] [28weky] <-> ServerConnector [hub] has connected
+22:05:19 [INFO] [28weky] <-> DownstreamBridge <-> [elytra] has disconnected
+22:05:20 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:05:20 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [elytra] has disconnected
+22:05:45 [INFO] [stephie8] <-> ServerConnector [pvp] has connected
+22:05:45 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+22:05:47 [INFO] [28weky] <-> ServerConnector [pvp] has connected
+22:05:47 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:05:47 [INFO] [DavidTheStarman] <-> ServerConnector [pvp] has connected
+22:05:47 [INFO] [TheSlenderLoris] <-> ServerConnector [pvp] has connected
+22:05:48 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:05:48 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:05:49 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:05:49 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [pvp] has disconnected
+22:05:50 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:05:50 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [pvp] has disconnected
+22:05:54 [INFO] [DavidTheStarman] <-> ServerConnector [pvp] has connected
+22:05:54 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:06:01 [INFO] [TheSlenderLoris] <-> ServerConnector [pvp] has connected
+22:06:01 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:06:05 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:06:06 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [pvp] has disconnected
+22:06:11 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+22:06:11 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:06:15 [INFO] [28weky] <-> ServerConnector [hub] has connected
+22:06:15 [INFO] [28weky] <-> DownstreamBridge <-> [pvp] has disconnected
+22:06:15 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+22:06:15 [INFO] [stephie8] <-> DownstreamBridge <-> [pvp] has disconnected
+22:06:18 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:06:19 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [pvp] has disconnected
+22:06:23 [INFO] [stephie8] <-> ServerConnector [skywars] has connected
+22:06:23 [INFO] [28weky] <-> ServerConnector [skywars] has connected
+22:06:23 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+22:06:23 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:06:26 [INFO] [TheSlenderLoris] <-> ServerConnector [skywars] has connected
+22:06:26 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:07:25 [INFO] [28weky] <-> ServerConnector [hub] has connected
+22:07:25 [INFO] [28weky] <-> DownstreamBridge <-> [skywars] has disconnected
+22:07:32 [INFO] [28weky] <-> ServerConnector [skywars] has connected
+22:07:32 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:07:57 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:07:57 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [skywars] has disconnected
+22:08:06 [INFO] [Hallflower,/10.0.1.4:54021] <-> InitialHandler has connected
+22:08:06 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+22:08:09 [INFO] [TheSlenderLoris] <-> ServerConnector [skywars] has connected
+22:08:09 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:08:14 [INFO] [28weky] <-> ServerConnector [hub] has connected
+22:08:14 [INFO] [28weky] <-> DownstreamBridge <-> [skywars] has disconnected
+22:08:19 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+22:08:19 [INFO] [stephie8] <-> DownstreamBridge <-> [skywars] has disconnected
+22:08:20 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:08:20 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [skywars] has disconnected
+22:08:23 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+22:08:23 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:08:23 [INFO] [/10.0.1.4:54038] <-> InitialHandler has pinged
+22:08:25 [INFO] [stephie8] <-> ServerConnector [bedwars] has connected
+22:08:25 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+22:08:26 [INFO] [Hallflower] <-> ServerConnector [bedwars] has connected
+22:08:26 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+22:08:27 [INFO] [TheSlenderLoris] <-> ServerConnector [bedwars] has connected
+22:08:27 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:10:53 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+22:10:53 [INFO] [Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:11:17 [INFO] [/10.0.1.4:54175] <-> InitialHandler has pinged
+22:11:19 [INFO] [Hallflower,/10.0.1.4:54178] <-> InitialHandler has connected
+22:11:20 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+22:11:30 [INFO] [Hallflower] <-> ServerConnector [bedwars] has connected
+22:11:30 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+22:15:28 [INFO] §cCommand not found
+22:25:59 [INFO] [/71.57.73.97:51315] <-> InitialHandler has pinged
+22:26:01 [INFO] [poecilonym,/71.57.73.97:51316] <-> InitialHandler has connected
+22:26:01 [INFO] [poecilonym] <-> ServerConnector [hub] has connected
+22:26:33 [INFO] [poecilonym] <-> ServerConnector [creative] has connected
+22:26:34 [INFO] [poecilonym] <-> DownstreamBridge <-> [hub] has disconnected
+22:27:58 [INFO] [poecilonym] -> UpstreamBridge has disconnected
+22:27:58 [INFO] [poecilonym] <-> DownstreamBridge <-> [creative] has disconnected
+22:27:58 [INFO] [/71.57.73.97:51323] <-> InitialHandler has pinged
+22:28:00 [INFO] [poecilonym,/71.57.73.97:51325] <-> InitialHandler has connected
+22:28:01 [INFO] [poecilonym] <-> ServerConnector [hub] has connected
+22:28:21 [INFO] [poecilonym] <-> ServerConnector [bedwars] has connected
+22:28:22 [INFO] [poecilonym] <-> DownstreamBridge <-> [hub] has disconnected
+22:42:53 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+22:42:53 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+22:42:53 [INFO] [/73.208.230.151:61062] <-> InitialHandler has pinged
+22:42:53 [INFO] [/73.208.230.151:61064] <-> InitialHandler has pinged
+22:42:55 [INFO] [/73.208.230.151:61066] <-> InitialHandler has connected
+22:42:55 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:43:05 [INFO] [DavidTheStarman] <-> ServerConnector [bedwars] has connected
+22:43:06 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:43:55 [INFO] [28weky] -> UpstreamBridge has disconnected
+22:43:55 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:43:57 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:43:57 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:44:24 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+22:44:24 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:56:07 [INFO] [/24.14.255.148:60156] <-> InitialHandler has pinged
+22:56:08 [INFO] [ShallowBrin,/24.14.255.148:60158] <-> InitialHandler has connected
+22:56:08 [INFO] [ShallowBrin] <-> ServerConnector [hub] has connected
+22:56:18 [INFO] [ShallowBrin] <-> ServerConnector [bedwars] has connected
+22:56:18 [INFO] [ShallowBrin] <-> DownstreamBridge <-> [hub] has disconnected
+23:03:23 [INFO] [TheSlenderLoris] -> UpstreamBridge has disconnected
+23:03:23 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:03:33 [INFO] [stephie8] -> UpstreamBridge has disconnected
+23:03:33 [INFO] [stephie8] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:04:23 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:04:23 [INFO] [Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:04:29 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+23:04:29 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:09:36 [INFO] [Hallflower,/10.0.1.4:55579] <-> InitialHandler has connected
+23:09:37 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:09:46 [INFO] [Hallflower] <-> ServerConnector [creative] has connected
+23:09:46 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:10:21 [INFO] [/10.0.1.4:55625] <-> InitialHandler has pinged
+23:12:58 [INFO] [poecilonym] -> UpstreamBridge has disconnected
+23:12:58 [INFO] [poecilonym] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:12:58 [INFO] [/71.57.73.97:51439] <-> InitialHandler has pinged
+23:15:15 [INFO] [/71.57.73.97:51535] <-> InitialHandler has pinged
+23:15:15 [INFO] [poecilonym,/71.57.73.97:51537] <-> InitialHandler has connected
+23:15:48 [WARNING] [ShallowBrin] -> UpstreamBridge - NativeIoException: readAddress(..) failed: Connection reset by peer
+23:15:48 [INFO] [ShallowBrin] disconnected with: §fNativeIoException : readAddress(..) failed: Connection reset by peer
+23:15:48 [INFO] [ShallowBrin] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:15:48 [INFO] [ShallowBrin] -> UpstreamBridge has disconnected
+23:15:52 [INFO] [poecilonym,/71.57.73.97:51541] <-> InitialHandler has connected
+23:15:53 [INFO] [poecilonym] <-> ServerConnector [hub] has connected
+23:16:04 [INFO] [/24.14.255.148:60997] <-> InitialHandler has pinged
+23:16:29 [INFO] [poecilonym] -> UpstreamBridge has disconnected
+23:16:29 [INFO] [poecilonym] <-> DownstreamBridge <-> [hub] has disconnected
+23:16:29 [INFO] [/71.57.73.97:51544] <-> InitialHandler has pinged
+23:24:08 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+23:24:08 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+23:24:08 [INFO] [/73.208.230.151:61552] <-> InitialHandler has pinged
+23:24:08 [INFO] [/73.208.230.151:61553] <-> InitialHandler has pinged
+23:24:11 [INFO] [DavidTheStarman,/73.208.230.151:61554] <-> InitialHandler has connected
+23:24:11 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+23:24:17 [INFO] [DavidTheStarman] <-> ServerConnector [survival] has connected
+23:24:17 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+23:24:27 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+23:24:27 [INFO] [cutepink2505] <-> DownstreamBridge <-> [creative] has disconnected
+23:24:32 [INFO] [/10.0.1.86:52383] <-> InitialHandler has pinged
+23:24:33 [INFO] [cutepink2505,/10.0.1.86:52384] <-> InitialHandler has connected
+23:24:33 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+23:24:40 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:24:40 [INFO] [Hallflower] <-> DownstreamBridge <-> [creative] has disconnected
+23:24:47 [INFO] [cutepink2505] <-> ServerConnector [survival] has connected
+23:24:47 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+23:24:58 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+23:24:58 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:25:43 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:25:43 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+23:26:21 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+23:26:21 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:26:55 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+23:26:55 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [survival] has disconnected
+23:26:55 [INFO] [/73.208.230.151:61577] <-> InitialHandler has pinged
+23:26:55 [INFO] [/73.208.230.151:61579] <-> InitialHandler has pinged
+23:27:27 [INFO] [/73.208.230.151:61585] <-> InitialHandler has pinged
+23:27:27 [INFO] [/73.208.230.151:61586] <-> InitialHandler has pinged
+23:27:27 [INFO] [DavidTheStarman,/73.208.230.151:61588] <-> InitialHandler has connected
+23:27:28 [INFO] [Math0424] -> UpstreamBridge has disconnected
+23:27:28 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+23:27:28 [INFO] [/98.32.158.72:59897] <-> InitialHandler has pinged
+23:27:28 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+23:27:40 [INFO] [cutepink2505] disconnected with: §fServer closed
+23:27:40 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+23:27:40 [INFO] [cutepink2505] <-> DownstreamBridge <-> [survival] has disconnected
+23:27:40 [INFO] [Hallflower] disconnected with: §fServer closed
+23:27:40 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+23:27:40 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+23:28:09 [INFO] [cutepink2505,/10.0.1.86:52389] <-> InitialHandler has connected
+23:28:10 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+23:28:41 [INFO] [/98.32.158.72:59938] <-> InitialHandler has pinged
+23:28:42 [INFO] [Math0424,/98.32.158.72:59946] <-> InitialHandler has connected
+23:28:43 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+23:28:48 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+23:28:48 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+23:33:59 [INFO] [/24.14.255.148:61697] <-> InitialHandler has pinged
+23:34:11 [INFO] [/24.14.255.148:61709] <-> InitialHandler has pinged
+23:34:57 [INFO] [/24.14.255.148:61880] <-> InitialHandler has pinged
+23:37:14 [INFO] [/76.16.163.92:56361] <-> InitialHandler has pinged
+23:37:25 [INFO] [Ghastslayer,/76.16.163.92:56362] <-> InitialHandler has connected
+23:37:26 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+23:39:54 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+23:39:54 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+23:40:51 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+23:40:51 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+23:40:51 [INFO] [/73.208.230.151:62056] <-> InitialHandler has pinged
+23:40:51 [INFO] [/73.208.230.151:62061] <-> InitialHandler has pinged
+23:40:55 [INFO] [/73.208.230.151:62070] <-> InitialHandler has pinged
+23:40:55 [INFO] [/73.208.230.151:62073] <-> InitialHandler has pinged
+23:40:58 [INFO] [DavidTheStarman,/73.208.230.151:62075] <-> InitialHandler has connected
+23:40:58 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+23:41:17 [INFO] [Math0424] disconnected with: §fServer yeeted
+23:41:17 [INFO] [Math0424] -> UpstreamBridge has disconnected
+23:41:17 [INFO] [Math0424] <-> DownstreamBridge <-> [creative] has disconnected
+23:41:20 [INFO] [/98.32.158.72:59985] <-> InitialHandler has pinged
+23:41:20 [INFO] [Math0424,/98.32.158.72:59992] <-> InitialHandler has connected
+23:41:21 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+23:42:37 [INFO] [DavidTheStarman] <-> ServerConnector [survival] has connected
+23:42:37 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+23:42:42 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+23:42:42 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+23:42:47 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+23:42:47 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+23:42:48 [INFO] [cutepink2505] <-> ServerConnector [survival] has connected
+23:42:48 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+23:43:16 [INFO] [Ghastslayer] -> UpstreamBridge has disconnected
+23:43:16 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+23:43:30 [INFO] [Hallflower,/10.0.1.4:50955] <-> InitialHandler has connected
+23:43:31 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:43:49 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+23:43:49 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+23:43:58 [INFO] [Ghastslayer,/76.16.163.92:56494] <-> InitialHandler has connected
+23:43:58 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+23:44:05 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+23:44:05 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+23:44:15 [INFO] [/10.0.1.4:50979] <-> InitialHandler has pinged
+23:44:47 [WARNING] [/76.16.163.92:56503] <-> InitialHandler - read timed out
+23:52:39 [INFO] [/24.14.255.148:62517] <-> InitialHandler has pinged
+23:52:42 [INFO] [/71.57.73.97:51777] <-> InitialHandler has pinged
+23:56:28 [INFO] [/73.211.183.236:56794] <-> InitialHandler has pinged
+23:56:30 [INFO] [/73.211.183.236:56809] <-> InitialHandler has pinged
+23:58:36 [INFO] [/172.58.139.216:59001] <-> InitialHandler has connected
+23:58:37 [INFO] [Ghastslayer] disconnected with: §cYou are already connected to this proxy!
+23:58:37 [INFO] [Ghastslayer] -> UpstreamBridge has disconnected
+23:58:37 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [survival] has disconnected
+23:58:37 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+23:58:42 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+23:58:42 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+00:01:44 [INFO] [Ghastslayer] disconnected with: §fBanned for spam.
+00:01:44 [INFO] [Ghastslayer] -> UpstreamBridge has disconnected
+00:01:44 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [survival] has disconnected
+00:01:47 [INFO] [Ghastslayer,/172.58.139.216:46753] <-> InitialHandler has connected
+00:01:48 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+00:01:53 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:01:53 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+00:02:06 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:02:06 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+00:02:08 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:02:08 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+00:02:08 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:02:08 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+00:02:10 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:02:10 [INFO] [Ghastslayer] <-> ServerConnector [survival] has disconnected
+00:02:25 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:02:25 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+00:19:53 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+00:21:28 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:21:28 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+00:21:29 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+00:21:29 [INFO] [cutepink2505] <-> DownstreamBridge <-> [survival] has disconnected
+00:21:46 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+00:21:46 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:21:46 [INFO] [cutepink2505] <-> ServerConnector [survival] has connected
+00:21:46 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+00:27:44 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:27:45 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [survival] has disconnected
+00:27:52 [INFO] [DavidTheStarman] <-> ServerConnector [survival] has connected
+00:27:52 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:31:03 [INFO] [cutepink2505] disconnected with: §fInvalid move player packet received
+00:31:03 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+00:31:03 [INFO] [cutepink2505] <-> DownstreamBridge <-> [survival] has disconnected
+00:31:10 [INFO] [cutepink2505,/10.0.1.86:52694] <-> InitialHandler has connected
+00:31:10 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+00:31:13 [INFO] [cutepink2505] -> UpstreamBridge has disconnected
+00:31:13 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+00:31:33 [WARNING] [Ghastslayer] <-> DownstreamBridge <-> [survival] - read timed out
+00:31:33 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [survival] has disconnected
+00:31:33 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+00:31:33 [WARNING] [Hallflower] <-> DownstreamBridge <-> [survival] - read timed out
+00:31:33 [WARNING] [DavidTheStarman] <-> DownstreamBridge <-> [survival] - read timed out
+00:31:33 [WARNING] [Math0424] <-> DownstreamBridge <-> [survival] - read timed out
+00:31:33 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [survival] has disconnected
+00:31:33 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+00:31:33 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+00:31:33 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:31:33 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:31:33 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:31:51 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+00:32:03 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+00:32:12 [INFO] [Math0424] <-> ServerConnector [survival] has disconnected
+00:32:12 [INFO] [Hallflower] <-> ServerConnector [survival] has disconnected
+00:33:24 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:33:24 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:33:24 [INFO] [/73.208.230.151:62452] <-> InitialHandler has pinged
+00:33:24 [INFO] [/73.208.230.151:62454] <-> InitialHandler has pinged
+00:33:26 [INFO] [DavidTheStarman,/73.208.230.151:62455] <-> InitialHandler has connected
+00:33:26 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:33:33 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+00:33:34 [INFO] [DavidTheStarman] disconnected with: §fdisconnect.spam
+00:33:34 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:33:34 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:33:34 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:33:36 [INFO] [/73.208.230.151:62460] <-> InitialHandler has pinged
+00:33:36 [INFO] [/73.208.230.151:62464] <-> InitialHandler has pinged
+00:33:37 [INFO] [/73.208.230.151:62470] <-> InitialHandler has pinged
+00:33:37 [INFO] [/73.208.230.151:62471] <-> InitialHandler has pinged
+00:33:38 [INFO] [/73.208.230.151:62473] <-> InitialHandler has connected
+00:33:38 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:33:39 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+00:33:39 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:33:53 [INFO] [Ghastslayer] <-> ServerConnector [survival] has connected
+00:33:53 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+00:34:15 [INFO] [DavidTheStarman] <-> ServerConnector [survival] has connected
+00:34:15 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:34:31 [INFO] [Hallflower] disconnected with: §fServer is restarting
+00:34:31 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:34:31 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+00:34:31 [INFO] [Math0424] disconnected with: §fServer is restarting
+00:34:31 [INFO] [Math0424] -> UpstreamBridge has disconnected
+00:34:31 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+00:34:31 [INFO] [Ghastslayer] disconnected with: §fServer is restarting
+00:34:31 [INFO] [Ghastslayer] -> UpstreamBridge has disconnected
+00:34:31 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [survival] has disconnected
+00:34:31 [INFO] [DavidTheStarman] disconnected with: §fServer is restarting
+00:34:31 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:34:31 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [survival] has disconnected
+00:34:33 [INFO] [/73.208.230.151:62485] <-> InitialHandler has pinged
+00:34:33 [INFO] [/73.208.230.151:62486] <-> InitialHandler has pinged
+00:34:34 [INFO] [Math0424,/98.32.158.72:60445] <-> InitialHandler has connected
+00:34:34 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+00:34:35 [INFO] [/73.208.230.151:62490] <-> InitialHandler has pinged
+00:34:35 [INFO] [/73.208.230.151:62494] <-> InitialHandler has pinged
+00:34:37 [INFO] [DavidTheStarman,/73.208.230.151:62495] <-> InitialHandler has connected
+00:34:38 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+00:34:46 [INFO] [Hallflower,/10.0.1.4:52197] <-> InitialHandler has connected
+00:34:46 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+00:35:11 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+00:35:25 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+00:35:28 [INFO] [Hallflower] <-> ServerConnector [survival] has connected
+00:35:28 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+00:35:35 [INFO] [Ghastslayer,/172.58.139.216:51472] <-> InitialHandler has connected
+00:35:36 [INFO] [Ghastslayer] <-> ServerConnector [hub] has connected
+00:35:53 [INFO] [Plan] Config file for server 'Plan' updated in /Plan/serverConfiguration
+00:36:25 [INFO] [Math0424] disconnected with: §fServer closed
+00:36:25 [INFO] [Math0424] -> UpstreamBridge has disconnected
+00:36:25 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+00:36:25 [INFO] [Hallflower] disconnected with: §fServer closed
+00:36:25 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+00:36:25 [INFO] [Hallflower] <-> DownstreamBridge <-> [survival] has disconnected
+00:36:36 [SEVERE] Exception in thread "main" 
+00:36:36 [SEVERE] java.io.IOException: Input/output error
+00:36:36 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:36:36 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:36:36 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:36:36 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:36:36 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:36:36 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+00:36:36 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+00:36:36 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+00:36:36 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+00:36:36 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+00:36:36 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+00:36:36 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:36:36 [INFO] Closing listener [id: 0x43060c8c, L:/0:0:0:0:0:0:0:0%0:25565]
+00:36:36 [INFO] Closing pending connections
+00:36:36 [INFO] Disconnecting 2 connections
+00:36:36 [INFO] [DavidTheStarman] disconnected with: §f[Proxy] Proxy restarting.
+00:36:36 [INFO] [Ghastslayer] disconnected with: §f[Proxy] Proxy restarting.
+00:36:36 [INFO] [Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+00:36:36 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+00:36:36 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+00:36:36 [INFO] [Ghastslayer] -> UpstreamBridge has disconnected
+00:36:36 [INFO] Disabling plugins
+00:36:36 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+00:36:36 [INFO] [Plan] Processing complete.
+00:36:36 [INFO] [Plan] Webserver has been disabled.
+00:36:36 [INFO] [Plan] Player Analytics Disabled.
+00:36:36 [INFO] [LuckPerms] Starting shutdown process...
+00:36:36 [INFO] [LuckPerms] Closing messaging service...
+00:36:36 [INFO] [LuckPerms] Closing storage...
+00:36:36 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+00:36:36 [INFO] [LuckPerms] Goodbye!
+00:36:36 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+00:36:36 [INFO] Closing IO threads

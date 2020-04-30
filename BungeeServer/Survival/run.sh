@@ -1,2 +1,2 @@
 #!/bin/sh
-java -Xms8000M -Xmx8000M -jar server.jar
+java -Xms16000M -Xmx16000M -jar server.jar

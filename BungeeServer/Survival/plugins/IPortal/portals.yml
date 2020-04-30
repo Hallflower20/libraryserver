@@ -1,1 +1,11 @@
-portals: {}
+portals:
+  hub:
+    world: world
+    x: 448.0
+    y: 64.0
+    z: 548.0
+    x2: 448.0
+    y2: 66.0
+    z2: 550.0
+    type: BUNGEE
+    tpto: hub

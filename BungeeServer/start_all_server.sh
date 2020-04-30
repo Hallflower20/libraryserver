@@ -40,3 +40,4 @@ cd ..
 cd ..
 echo "All servers booted"
 echo "Would you like a piece of cake?"
+echo "Xander iz dumb"

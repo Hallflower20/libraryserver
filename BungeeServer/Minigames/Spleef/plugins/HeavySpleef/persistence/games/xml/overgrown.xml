@@ -11,8 +11,8 @@
       <yaw>-2.0758362</yaw>
       <pitch>-0.91122127</pitch>
     </flag>
-    <flag name="countdown">10</flag>
     <flag name="shears"/>
+    <flag name="countdown">10</flag>
   </flags>
   <floors>
     <floor name="floor_1"/>
