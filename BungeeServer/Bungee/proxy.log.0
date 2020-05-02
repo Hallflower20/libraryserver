@@ -17664,3 +17664,541 @@ java.lang.NullPointerException: info
 15:58:30 [INFO] [/73.208.230.151:50257] <-> InitialHandler has pinged
 16:00:28 [INFO] [/73.208.230.151:50271] <-> InitialHandler has pinged
 16:00:28 [INFO] [/73.208.230.151:50272] <-> InitialHandler has pinged
+17:47:52 [SEVERE] Exception in thread "main" 
+17:47:52 [SEVERE] java.io.IOException: Input/output error
+17:47:52 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+17:47:52 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+17:47:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+17:47:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+17:47:52 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+17:47:52 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+17:47:52 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+17:47:52 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+17:47:52 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+17:47:52 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+17:47:52 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+17:47:52 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+17:47:52 [INFO] Closing listener [id: 0x5c828b0c, L:/0:0:0:0:0:0:0:0%0:25565]
+17:47:52 [INFO] Closing pending connections
+17:47:52 [INFO] Disconnecting 0 connections
+17:47:52 [INFO] Disabling plugins
+17:47:52 [INFO] [Plan] Processing critical unprocessed tasks. (0)
+17:47:52 [INFO] [Plan] Processing complete.
+17:47:53 [INFO] [Plan] Webserver has been disabled.
+17:47:53 [INFO] [Plan] Player Analytics Disabled.
+17:47:53 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+17:47:53 [INFO] [LuckPerms] Starting shutdown process...
+17:47:53 [INFO] [LuckPerms] Closing messaging service...
+17:47:53 [INFO] [LuckPerms] Closing storage...
+17:47:53 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown initiated...
+17:47:53 [SEVERE] [Thread-40] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Shutdown completed.
+17:47:53 [INFO] [LuckPerms] Goodbye!
+17:47:53 [INFO] Closing IO threads
+17:58:57 [INFO] Using mbed TLS based native cipher.
+17:58:57 [INFO] Using zlib based native compressor.
+17:58:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:f1c32f8:1489
+17:58:57 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:58:57 [INFO] Epoll is working, utilising it!
+17:58:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:58:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:58:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:58:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:58:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:58:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:59:00 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:01 [INFO] Loaded plugin LuckPerms version 5.0.139 by Luck
+17:59:01 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:01 [INFO] Loaded plugin AdvancedBan version 2.1.8 by Leoko
+17:59:01 [INFO] Loaded plugin BungeeHub version 0.3 by iFedeFC
+17:59:01 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:01 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:01 [INFO] Loaded plugin Plan version 5.1 build 505 by Rsl1122
+17:59:01 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:01 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:02 [INFO] Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+17:59:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:04 [INFO] §b       §3 __    
+17:59:04 [INFO] §b  |    §3|__)   §2LuckPerms §bv5.0.139
+17:59:04 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+17:59:04 [INFO] 
+17:59:04 [INFO] [LuckPerms] Loading configuration...
+17:59:06 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+17:59:06 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+17:59:06 [SEVERE] [main] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+17:59:07 [INFO] [LuckPerms] Loading messaging service... [SQL]
+17:59:07 [INFO] [LuckPerms] Loading internal permission managers...
+17:59:07 [INFO] [LuckPerms] Performing initial data load...
+17:59:08 [INFO] [LuckPerms] Successfully enabled. (took 3518ms)
+17:59:08 [INFO] Enabled plugin LuckPerms version 5.0.139 by Luck
+17:59:08 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:09 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.1.8
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+17:59:09 [INFO] Enabled plugin AdvancedBan version 2.1.8 by Leoko
+17:59:09 [INFO] [BungeeHub] §e----------------------------
+17:59:09 [INFO] [BungeeHub]      §b§lBungeeCord Hub
+17:59:09 [INFO] [BungeeHub] 
+17:59:09 [INFO] [BungeeHub] §aYou are using the latest version
+17:59:09 [INFO] [BungeeHub] 
+17:59:09 [INFO] [BungeeHub] §e----------------------------
+17:59:09 [INFO] Enabled plugin BungeeHub version 0.3 by iFedeFC
+17:59:09 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:09 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:13 [INFO] §f
+17:59:13 [INFO] §f§2           ██▌
+17:59:13 [INFO] §f§2     ██▌   ██▌
+17:59:13 [INFO] §f§2  ██▌██▌██▌██▌  §2Player Analytics
+17:59:13 [INFO] §f§2  ██▌██▌██▌██▌  §fv5.1 build 505
+17:59:13 [INFO] §f
+17:59:14 [INFO] [Plan] Locale: 'English' by Rsl1122
+17:59:14 [INFO] [Plan] You're using the latest version.
+17:59:14 [INFO] [Plan] MySQL-database connection established.
+17:59:14 [INFO] [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+17:59:14 [INFO] [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+17:59:14 [INFO] §f§eWebServer: User Authorization Disabled! (Not secure over HTTP)
+17:59:15 [INFO] [Plan] Webserver running on PORT 8804 (http://73.208.230.243:8804)
+17:59:16 [INFO] [Plan] Registered extension: AdvancedBan
+17:59:16 [INFO] [Plan] Registered extension: LuckPerms
+17:59:16 [INFO] [Plan] Player Analytics Enabled.
+17:59:16 [INFO] Enabled plugin Plan version 5.1 build 505 by Rsl1122
+17:59:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:f1c32f8:1489 by SpigotMC
+17:59:17 [INFO] [BungeeTabListPlus] Starting UpdateChecker Task
+17:59:17 [INFO] Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+17:59:17 [INFO] Listening on /0.0.0.0:25565
+17:59:29 [INFO] [/10.0.1.4:58258] <-> InitialHandler has pinged
+17:59:32 [INFO] [/10.0.1.4:58260] <-> InitialHandler has connected
+17:59:38 [WARNING] Event PostLoginEvent(player=Hallflower) took 636ms to process!
+17:59:38 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+17:59:50 [WARNING] [LuckPerms] An exception was thrown by me.lucko.luckperms.bungee.context.BackendServerCalculator whilst calculating the context of subject Hallflower
+17:59:50 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+17:59:50 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+17:59:50 [SEVERE] java.lang.NullPointerException
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.context.BackendServerCalculator.getServer(BackendServerCalculator.java:49)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.context.BackendServerCalculator.calculate(BackendServerCalculator.java:61)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.context.BackendServerCalculator.calculate(BackendServerCalculator.java:46)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.common.context.ContextManager.calculate(ContextManager.java:117)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.LocalLoadingCache.lambda$newMappingFunction$2(LocalLoadingCache.java:141)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.BoundedLocalCache.lambda$doComputeIfAbsent$14(BoundedLocalCache.java:2405)
+17:59:50 [SEVERE] 	at java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:1877)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.BoundedLocalCache.doComputeIfAbsent(BoundedLocalCache.java:2378)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.BoundedLocalCache.computeIfAbsent(BoundedLocalCache.java:2361)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.LocalCache.computeIfAbsent(LocalCache.java:108)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.lib.caffeine.cache.LocalLoadingCache.get(LocalLoadingCache.java:54)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.context.BungeeContextManager.getQueryOptions(BungeeContextManager.java:67)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.context.BungeeContextManager.getQueryOptions(BungeeContextManager.java:41)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.LPBungeePlugin.lambda$getQueryOptionsForUser$0(LPBungeePlugin.java:193)
+17:59:50 [SEVERE] 	at java.util.Optional.map(Optional.java:215)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.bungee.LPBungeePlugin.getQueryOptionsForUser(LPBungeePlugin.java:193)
+17:59:50 [SEVERE] 	at me.lucko.luckperms.common.api.implementation.ApiUser.getPrimaryGroup(ApiUser.java:75)
+17:59:50 [SEVERE] 	at com.djrapitops.extension.LuckPermsExtension.primaryGroup(LuckPermsExtension.java:77)
+17:59:50 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+17:59:50 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+17:59:50 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+17:59:50 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:498)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.implementation.providers.Parameters$PlayerParameters.usingOn(Parameters.java:95)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.implementation.providers.MethodWrapper.callMethod(MethodWrapper.java:46)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.implementation.providers.gathering.ProviderValueGatherer$Gatherer.gather(ProviderValueGatherer.java:193)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.implementation.providers.gathering.ProviderValueGatherer$Gatherer.gather(ProviderValueGatherer.java:183)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.implementation.providers.gathering.ProviderValueGatherer.updateValues(ProviderValueGatherer.java:152)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.ExtensionSvc.updatePlayerValues(ExtensionSvc.java:159)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.extension.ExtensionSvc.updatePlayerValues(ExtensionSvc.java:148)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.gathering.listeners.bungee.PlayerOnlineListener.lambda$beforeLogout$3(PlayerOnlineListener.java:137)
+17:59:50 [SEVERE] 	at com.djrapitops.plan.processing.Processing.lambda$submitNonCritical$1(Processing.java:78)
+17:59:50 [SEVERE] 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+17:59:50 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+17:59:50 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+17:59:50 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+18:07:27 [INFO] [/73.208.230.151:51648] <-> InitialHandler has pinged
+18:07:27 [INFO] [/73.208.230.151:51651] <-> InitialHandler has pinged
+18:07:29 [INFO] [/73.208.230.151:51653] <-> InitialHandler has pinged
+18:07:29 [INFO] [/73.208.230.151:51657] <-> InitialHandler has pinged
+18:07:30 [INFO] [/73.208.230.151:51660] <-> InitialHandler has pinged
+18:07:30 [INFO] [/73.208.230.151:51664] <-> InitialHandler has pinged
+18:35:36 [INFO] [/73.208.230.151:51873] <-> InitialHandler has pinged
+18:35:36 [INFO] [/73.208.230.151:51877] <-> InitialHandler has pinged
+19:01:54 [INFO] [DavidTheStarman,/73.208.230.151:51950] <-> InitialHandler has connected
+19:01:55 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+19:01:59 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+19:01:59 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+19:01:59 [INFO] [/73.208.230.151:51953] <-> InitialHandler has pinged
+19:02:00 [INFO] [/73.208.230.151:51957] <-> InitialHandler has pinged
+20:07:26 [INFO] [/73.208.230.151:52407] <-> InitialHandler has pinged
+20:07:27 [INFO] [/73.208.230.151:52406] <-> InitialHandler has pinged
+20:07:28 [INFO] [/73.208.230.151:52411] <-> InitialHandler has pinged
+20:07:28 [INFO] [/73.208.230.151:52415] <-> InitialHandler has pinged
+20:44:51 [INFO] [/73.208.230.151:52612] <-> InitialHandler has pinged
+20:44:51 [INFO] [/73.208.230.151:52616] <-> InitialHandler has pinged
+20:54:27 [INFO] [/70.134.200.117:65367] <-> InitialHandler has pinged
+21:12:44 [INFO] [/70.134.200.117:50528] <-> InitialHandler has pinged
+21:16:32 [INFO] [28weky,/71.57.73.125:49631] <-> InitialHandler has connected
+21:16:34 [INFO] [28weky] <-> ServerConnector [hub] has connected
+21:16:36 [INFO] [/70.134.200.117:50971] <-> InitialHandler has pinged
+21:16:55 [INFO] [AJV_,/70.134.200.117:50993] <-> InitialHandler has connected
+21:16:56 [INFO] [AJV_] <-> ServerConnector [hub] has connected
+21:17:03 [INFO] [/24.14.234.82:52088] <-> InitialHandler has pinged
+21:17:03 [INFO] [ArgonBeluga,/24.14.234.82:52093] <-> InitialHandler has connected
+21:17:04 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+21:17:07 [INFO] [/99.166.146.216:56228] <-> InitialHandler has pinged
+21:17:07 [INFO] [TheSlenderLoris,/99.166.146.216:56229] <-> InitialHandler has connected
+21:17:09 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+21:17:20 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+21:17:20 [INFO] [AJV_] <-> ServerConnector [bedwars] has connected
+21:17:20 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+21:17:21 [INFO] [AJV_] <-> DownstreamBridge <-> [hub] has disconnected
+21:17:21 [INFO] [TheSlenderLoris] <-> ServerConnector [bedwars] has connected
+21:17:21 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+21:17:23 [INFO] [/98.32.159.91:17630] <-> InitialHandler has pinged
+21:17:24 [INFO] [stephie8,/98.32.159.91:40478] <-> InitialHandler has connected
+21:17:25 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+21:17:25 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+21:17:25 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+21:17:35 [INFO] [stephie8] <-> ServerConnector [bedwars] has connected
+21:17:35 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+21:19:21 [INFO] [/99.64.104.148:63449] <-> InitialHandler has pinged
+21:19:21 [INFO] [aydenvis,/99.64.104.148:63452] <-> InitialHandler has connected
+21:19:24 [INFO] [aydenvis] <-> ServerConnector [hub] has connected
+21:19:47 [INFO] [aydenvis] <-> ServerConnector [bedwars] has connected
+21:19:47 [INFO] [aydenvis] <-> DownstreamBridge <-> [hub] has disconnected
+21:19:51 [INFO] [AJV_] <-> ServerConnector [hub] has connected
+21:19:51 [INFO] [AJV_] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:20:02 [INFO] [AJV_] <-> ServerConnector [bedwars] has connected
+21:20:02 [INFO] [AJV_] <-> DownstreamBridge <-> [hub] has disconnected
+22:13:03 [WARNING] [TheSlenderLoris] -> UpstreamBridge - read timed out
+22:13:03 [INFO] [TheSlenderLoris] disconnected with: §fReadTimeoutException : null
+22:13:03 [INFO] [TheSlenderLoris] -> UpstreamBridge has disconnected
+22:13:03 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:13:10 [INFO] [TheSlenderLoris,/99.166.146.216:57850] <-> InitialHandler has connected
+22:13:10 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+22:13:32 [INFO] [TheSlenderLoris] <-> ServerConnector [bedwars] has connected
+22:13:32 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+22:18:39 [INFO] [/73.208.230.151:53351] <-> InitialHandler has pinged
+22:18:39 [INFO] [/73.208.230.151:53355] <-> InitialHandler has pinged
+22:18:39 [INFO] [/73.208.230.151:53361] <-> InitialHandler has pinged
+22:18:40 [INFO] [/73.208.230.151:53359] <-> InitialHandler has pinged
+22:18:41 [INFO] [DavidTheStarman,/73.208.230.151:53363] <-> InitialHandler has connected
+22:18:43 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:18:51 [INFO] [DavidTheStarman] <-> ServerConnector [bedwars] has connected
+22:18:51 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:19:38 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:19:38 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:19:55 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+22:19:55 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:19:56 [INFO] [/73.208.230.151:53383] <-> InitialHandler has pinged
+22:19:56 [INFO] [/73.208.230.151:53384] <-> InitialHandler has pinged
+22:22:24 [INFO] [/73.208.230.151:53454] <-> InitialHandler has pinged
+22:22:24 [INFO] [/73.208.230.151:53456] <-> InitialHandler has pinged
+22:22:26 [INFO] [/73.208.230.151:53459] <-> InitialHandler has pinged
+22:22:26 [INFO] [/73.208.230.151:53462] <-> InitialHandler has pinged
+22:22:27 [INFO] [DavidTheStarman,/73.208.230.151:53464] <-> InitialHandler has connected
+22:22:28 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+22:22:31 [INFO] [DavidTheStarman] <-> ServerConnector [survival] has connected
+22:22:32 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+22:22:55 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+22:22:55 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [survival] has disconnected
+22:22:55 [INFO] [/73.208.230.151:53470] <-> InitialHandler has pinged
+22:22:55 [INFO] [/73.208.230.151:53474] <-> InitialHandler has pinged
+22:26:12 [INFO] [28weky] -> UpstreamBridge has disconnected
+22:26:12 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:26:16 [INFO] [28weky,/71.57.73.125:51061] <-> InitialHandler has connected
+22:26:16 [INFO] [28weky] <-> ServerConnector [hub] has connected
+22:26:22 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+22:26:22 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+22:41:55 [INFO] [/73.208.230.151:53681] <-> InitialHandler has pinged
+22:41:55 [INFO] [/73.208.230.151:53680] <-> InitialHandler has pinged
+22:42:00 [INFO] [ArgonBeluga] disconnected with: §fFlying is not enabled on this server
+22:42:00 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+22:42:00 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:42:06 [INFO] [/24.14.234.82:52619] <-> InitialHandler has pinged
+22:42:06 [INFO] [ArgonBeluga,/24.14.234.82:52622] <-> InitialHandler has connected
+22:42:10 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+22:42:18 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+22:42:18 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+23:02:33 [INFO] [stephie8] -> UpstreamBridge has disconnected
+23:02:33 [INFO] [stephie8] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:03:56 [INFO] [/98.32.159.91:21637] <-> InitialHandler has pinged
+23:03:57 [INFO] [stephie8,/98.32.159.91:18038] <-> InitialHandler has connected
+23:03:58 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+23:04:08 [INFO] [stephie8] <-> ServerConnector [bedwars] has connected
+23:04:08 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+23:19:50 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+23:19:50 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:19:52 [INFO] [/24.14.234.82:52840] <-> InitialHandler has pinged
+23:19:53 [INFO] [ArgonBeluga,/24.14.234.82:52843] <-> InitialHandler has connected
+23:19:54 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+23:20:01 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+23:20:02 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+23:30:56 [INFO] [28weky] -> UpstreamBridge has disconnected
+23:30:56 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:31:02 [INFO] [/71.57.73.125:61690] <-> InitialHandler has connected
+23:31:02 [INFO] [28weky] <-> ServerConnector [hub] has connected
+23:31:12 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+23:31:12 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+23:36:33 [INFO] [28weky] disconnected with: §fdisconnect.spam
+23:36:33 [INFO] [28weky] -> UpstreamBridge has disconnected
+23:36:33 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:36:37 [INFO] [/71.57.73.125:61885] <-> InitialHandler has connected
+23:36:38 [INFO] [28weky] <-> ServerConnector [hub] has connected
+23:36:49 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+23:36:49 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+23:38:44 [INFO] [aydenvis] <-> ServerConnector [hub] has connected
+23:38:44 [INFO] [aydenvis] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:38:50 [INFO] [aydenvis] <-> ServerConnector [bedwars] has connected
+23:38:50 [INFO] [aydenvis] <-> DownstreamBridge <-> [hub] has disconnected
+23:39:41 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+23:39:41 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:39:43 [INFO] [/24.14.234.82:52955] <-> InitialHandler has pinged
+23:39:45 [INFO] [ArgonBeluga,/24.14.234.82:52958] <-> InitialHandler has connected
+23:39:46 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+23:39:52 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+23:39:52 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+23:39:52 [INFO] [TheSlenderLoris] -> UpstreamBridge has disconnected
+23:39:52 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:39:54 [INFO] [/99.166.146.216:60354] <-> InitialHandler has pinged
+23:39:55 [INFO] [/99.166.146.216:60358] <-> InitialHandler has connected
+23:39:55 [INFO] [TheSlenderLoris] <-> ServerConnector [hub] has connected
+23:40:05 [INFO] [TheSlenderLoris] <-> ServerConnector [bedwars] has connected
+23:40:05 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [hub] has disconnected
+23:55:44 [INFO] [28weky] -> UpstreamBridge has disconnected
+23:55:44 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:55:49 [INFO] [AJV_] -> UpstreamBridge has disconnected
+23:55:49 [INFO] [AJV_] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:55:49 [INFO] [/70.134.200.117:61265] <-> InitialHandler has pinged
+23:55:51 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+23:55:51 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:55:54 [WARNING] [/24.14.234.82:53053] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+23:55:55 [INFO] [aydenvis] -> UpstreamBridge has disconnected
+23:55:55 [INFO] [aydenvis] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:55:55 [INFO] [/99.64.104.148:65238] <-> InitialHandler has pinged
+23:56:05 [INFO] [TheSlenderLoris] -> UpstreamBridge has disconnected
+23:56:05 [INFO] [TheSlenderLoris] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:56:06 [INFO] [/99.166.146.216:60807] <-> InitialHandler has pinged
+23:56:07 [INFO] [stephie8] -> UpstreamBridge has disconnected
+23:56:07 [INFO] [stephie8] <-> DownstreamBridge <-> [bedwars] has disconnected
+02:03:04 [INFO] [/24.14.255.148:57309] <-> InitialHandler has pinged
+02:05:51 [INFO] [/24.14.255.148:57384] <-> InitialHandler has pinged
+02:14:49 [INFO] [/24.14.255.148:57813] <-> InitialHandler has pinged
+10:56:05 [INFO] [/67.184.0.111:58485] <-> InitialHandler has pinged
+15:14:26 [INFO] [/127.0.0.1:60732] <-> InitialHandler has pinged
+15:14:37 [INFO] [/127.0.0.1:60752] <-> InitialHandler has connected
+15:14:37 [INFO] §8[§cAdvancedBan§8] §7An unexpected error has occurred executing an Statement in the database
+Please check the plugins/AdvancedBan/logs/§7latest.log§7 file and report thiserror in: §7https://github.com/DevLeoko/AdvancedBan/issues§7
+15:14:37 [SEVERE] Task BungeeTask(sched=net.md_5.bungee.scheduler.BungeeScheduler@4e07b95f, id=322, owner=me.leoko.advancedban.bungee.BungeeMain@2b46a8c1, task=me.leoko.advancedban.bungee.listener.ConnectionListenerBungee$$Lambda$539/540039826@1b3ac1be, delay=0, period=0, running=true) encountered an exception
+java.lang.NullPointerException
+	at me.leoko.advancedban.manager.PunishmentManager.load(PunishmentManager.java:62)
+	at me.leoko.advancedban.Universal.callConnection(Universal.java:268)
+	at me.leoko.advancedban.bungee.listener.ConnectionListenerBungee.lambda$onConnection$0(ConnectionListenerBungee.java:25)
+	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+15:31:31 [INFO] [/98.32.159.91:33764] <-> InitialHandler has pinged
+15:31:33 [INFO] [/98.32.159.91:11141] <-> InitialHandler has pinged
+15:45:39 [INFO] [/99.64.104.148:55113] <-> InitialHandler has pinged
+16:11:47 [INFO] [/73.208.230.151:57989] <-> InitialHandler has pinged
+16:11:47 [INFO] [/73.208.230.151:57993] <-> InitialHandler has pinged
+16:12:05 [INFO] [/98.32.159.91:38501] <-> InitialHandler has pinged
+16:12:37 [INFO] [/73.208.230.151:58168] <-> InitialHandler has pinged
+16:12:37 [INFO] [/73.208.230.151:58170] <-> InitialHandler has pinged
+16:12:50 [INFO] [/98.32.159.91:16077] <-> InitialHandler has pinged
+16:48:39 [INFO] [/98.32.158.72:50917] <-> InitialHandler has pinged
+16:49:14 [INFO] [Math0424,/98.32.158.72:50930] <-> InitialHandler has connected
+16:49:16 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+16:49:32 [INFO] [Math0424] -> UpstreamBridge has disconnected
+16:49:32 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+16:49:32 [INFO] [/98.32.158.72:50939] <-> InitialHandler has pinged
+16:49:34 [INFO] [/98.32.158.72:50952] <-> InitialHandler has pinged
+16:49:54 [INFO] [/98.32.158.72:50966] <-> InitialHandler has pinged
+16:49:56 [INFO] [/98.32.158.72:50973] <-> InitialHandler has pinged
+16:51:31 [INFO] [/98.32.158.72:50989] <-> InitialHandler has pinged
+16:53:38 [INFO] [/98.32.158.72:51067] <-> InitialHandler has pinged
+16:54:33 [INFO] [/73.208.230.151:58314] <-> InitialHandler has pinged
+16:54:33 [INFO] [/73.208.230.151:58318] <-> InitialHandler has pinged
+17:03:23 [INFO] [/76.16.163.92:60812] <-> InitialHandler has pinged
+17:29:05 [INFO] [/98.32.158.72:50130] <-> InitialHandler has pinged
+17:42:35 [INFO] [/73.211.183.236:64375] <-> InitialHandler has pinged
+17:42:36 [INFO] [/73.211.183.236:64385] <-> InitialHandler has pinged
+17:58:40 [INFO] [/73.211.183.236:49337] <-> InitialHandler has pinged
+17:58:40 [INFO] [/73.211.183.236:49348] <-> InitialHandler has pinged
+18:16:05 [INFO] [/98.32.159.91:55662] <-> InitialHandler has pinged
+18:16:07 [INFO] [stephie8,/98.32.159.91:46826] <-> InitialHandler has connected
+18:16:09 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+18:16:10 [INFO] [28weky,/71.57.73.125:57163] <-> InitialHandler has connected
+18:16:10 [INFO] [28weky] <-> ServerConnector [hub] has connected
+18:16:14 [INFO] [/99.64.104.148:56976] <-> InitialHandler has pinged
+18:16:16 [INFO] [/73.211.183.236:51126] <-> InitialHandler has pinged
+18:16:18 [INFO] [/73.211.183.236:51133] <-> InitialHandler has connected
+18:16:19 [INFO] [_HeroXD_] <-> ServerConnector [hub] has connected
+18:16:36 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+18:16:36 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+18:16:38 [INFO] [_HeroXD_] <-> ServerConnector [bedwars] has connected
+18:16:38 [INFO] [_HeroXD_] <-> DownstreamBridge <-> [hub] has disconnected
+18:16:39 [INFO] [stephie8] <-> ServerConnector [bedwars] has connected
+18:16:39 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+18:16:40 [INFO] [/24.14.234.82:54287] <-> InitialHandler has pinged
+18:16:41 [INFO] [ArgonBeluga,/24.14.234.82:54289] <-> InitialHandler has connected
+18:16:41 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+18:16:42 [INFO] [q4u5,/71.194.214.223:51071] <-> InitialHandler has connected
+18:16:43 [INFO] [q4u5] <-> ServerConnector [hub] has connected
+18:16:48 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+18:16:48 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+18:16:57 [INFO] [q4u5] <-> ServerConnector [bedwars] has connected
+18:16:57 [INFO] [q4u5] <-> DownstreamBridge <-> [hub] has disconnected
+18:19:33 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+18:19:33 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:20:52 [INFO] [q4u5] -> UpstreamBridge has disconnected
+18:20:52 [INFO] [q4u5] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:24:18 [INFO] [28weky] -> UpstreamBridge has disconnected
+18:24:18 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:24:47 [INFO] [_HeroXD_] -> UpstreamBridge has disconnected
+18:24:47 [INFO] [_HeroXD_] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:24:48 [INFO] [/73.211.183.236:52201] <-> InitialHandler has pinged
+18:24:56 [INFO] [stephie8] -> UpstreamBridge has disconnected
+18:24:56 [INFO] [stephie8] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:24:58 [INFO] [/98.32.159.91:31059] <-> InitialHandler has pinged
+18:27:18 [INFO] [/98.32.159.91:14115] <-> InitialHandler has pinged
+18:36:50 [INFO] [/70.134.200.117:50245] <-> InitialHandler has pinged
+18:44:19 [INFO] [/98.32.159.91:23027] <-> InitialHandler has pinged
+19:02:38 [INFO] [/10.0.1.4:49954] <-> InitialHandler has pinged
+19:03:20 [INFO] [/98.32.158.72:51519] <-> InitialHandler has pinged
+19:03:25 [INFO] [/98.32.158.72:51533] <-> InitialHandler has pinged
+19:03:31 [INFO] [/98.32.158.72:50296] <-> InitialHandler has pinged
+19:12:39 [INFO] [/73.211.183.236:59131] <-> InitialHandler has pinged
+19:12:40 [INFO] [/98.32.159.91:61278] <-> InitialHandler has pinged
+19:13:34 [INFO] [/71.57.73.125:58415] <-> InitialHandler has connected
+19:13:35 [INFO] [28weky] <-> ServerConnector [hub] has connected
+19:13:38 [INFO] [/24.14.234.82:54667] <-> InitialHandler has pinged
+19:13:38 [INFO] [ArgonBeluga,/24.14.234.82:54670] <-> InitialHandler has connected
+19:13:40 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+19:13:45 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+19:13:45 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+19:13:47 [INFO] [/70.134.200.117:52951] <-> InitialHandler has pinged
+19:13:47 [INFO] [28weky] <-> ServerConnector [bedwars] has connected
+19:13:47 [INFO] [28weky] <-> DownstreamBridge <-> [hub] has disconnected
+19:13:49 [INFO] [AJV_,/70.134.200.117:52955] <-> InitialHandler has connected
+19:13:49 [INFO] [AJV_] <-> ServerConnector [hub] has connected
+19:14:13 [INFO] [AJV_] <-> ServerConnector [bedwars] has connected
+19:14:13 [INFO] [AJV_] <-> DownstreamBridge <-> [hub] has disconnected
+19:14:53 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+19:14:53 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:15:01 [INFO] [ArgonBeluga] <-> ServerConnector [bedwars] has connected
+19:15:01 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+19:18:06 [INFO] [/98.32.159.91:33755] <-> InitialHandler has pinged
+19:18:09 [INFO] [/98.32.159.91:2618] <-> InitialHandler has pinged
+19:19:03 [INFO] [stephie8,/98.32.159.91:19784] <-> InitialHandler has connected
+19:19:03 [INFO] [/98.32.159.91:26312] <-> InitialHandler has pinged
+19:19:05 [INFO] [stephie8] <-> ServerConnector [hub] has connected
+19:19:14 [INFO] [stephie8] <-> ServerConnector [bedwars] has connected
+19:19:14 [INFO] [stephie8] <-> DownstreamBridge <-> [hub] has disconnected
+19:26:07 [INFO] [28weky] -> UpstreamBridge has disconnected
+19:26:07 [INFO] [28weky] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:26:08 [INFO] [AJV_] -> UpstreamBridge has disconnected
+19:26:08 [INFO] [AJV_] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:26:08 [INFO] [ArgonBeluga] <-> ServerConnector [hub] has connected
+19:26:09 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:26:10 [INFO] [ArgonBeluga] -> UpstreamBridge has disconnected
+19:26:10 [INFO] [ArgonBeluga] <-> DownstreamBridge <-> [hub] has disconnected
+19:26:10 [INFO] [stephie8] -> UpstreamBridge has disconnected
+19:26:10 [INFO] [stephie8] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:26:12 [INFO] [/24.14.234.82:54696] <-> InitialHandler has pinged
+19:36:30 [INFO] [/76.16.163.92:61526] <-> InitialHandler has pinged
+19:39:19 [INFO] [/10.0.1.4:50977] <-> InitialHandler has pinged
+19:39:26 [INFO] [Hallflower,/10.0.1.4:50985] <-> InitialHandler has connected
+19:39:26 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+19:40:03 [INFO] [/10.0.1.4:51007] <-> InitialHandler has pinged
+19:40:15 [INFO] [Hallflower] <-> ServerConnector [withered] has connected
+19:40:15 [INFO] [Hallflower] <-> ServerConnector [withered] has disconnected
+19:43:02 [INFO] [Hallflower] -> UpstreamBridge has disconnected
+19:43:02 [INFO] [Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+20:09:07 [INFO] [/73.208.230.151:58910] <-> InitialHandler has pinged
+20:09:07 [INFO] [/73.208.230.151:58913] <-> InitialHandler has pinged
+20:09:11 [INFO] [DavidTheStarman,/73.208.230.151:58914] <-> InitialHandler has connected
+20:09:11 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+20:15:38 [INFO] [DavidTheStarman] <-> ServerConnector [creative] has connected
+20:15:39 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+20:19:35 [INFO] [DavidTheStarman] <-> ServerConnector [hub] has connected
+20:19:35 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [creative] has disconnected
+20:20:45 [INFO] [DavidTheStarman] -> UpstreamBridge has disconnected
+20:20:45 [INFO] [DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+20:20:46 [INFO] [/73.208.230.151:59050] <-> InitialHandler has pinged
+20:20:46 [INFO] [/73.208.230.151:59053] <-> InitialHandler has pinged
+20:57:12 [INFO] [/98.32.158.72:51879] <-> InitialHandler has pinged
+20:57:21 [INFO] [/98.32.158.72:51895] <-> InitialHandler has pinged
+21:20:22 [INFO] [/10.0.1.4:54212] <-> InitialHandler has pinged
+21:31:23 [INFO] [/76.16.163.92:62255] <-> InitialHandler has pinged
+21:31:54 [INFO] [/76.16.163.92:62282] <-> InitialHandler has pinged
+21:32:18 [INFO] [/76.16.163.92:62308] <-> InitialHandler has pinged
+21:32:43 [INFO] [/76.16.163.92:62336] <-> InitialHandler has pinged
+21:33:09 [INFO] [/76.16.163.92:62360] <-> InitialHandler has pinged
+21:44:29 [INFO] [/76.16.163.92:62537] <-> InitialHandler has pinged
+23:07:34 [INFO] [/98.32.158.72:52378] <-> InitialHandler has pinged
+23:07:35 [INFO] [/10.0.1.86:53741] <-> InitialHandler has pinged
+23:07:41 [INFO] [/98.32.158.72:52415] <-> InitialHandler has pinged
+23:07:41 [INFO] [/10.0.1.4:60798] <-> InitialHandler has pinged
+23:07:51 [INFO] [/98.32.158.72:50619] <-> InitialHandler has pinged
+23:07:56 [INFO] [/76.16.163.92:62909] <-> InitialHandler has pinged
+23:08:26 [INFO] [/10.0.1.4:60843] <-> InitialHandler has pinged
+23:08:27 [INFO] [/76.16.163.92:62933] <-> InitialHandler has pinged
+23:08:52 [INFO] [/10.0.1.86:53855] <-> InitialHandler has pinged
+23:38:29 [INFO] [/24.14.242.238:54729] <-> InitialHandler has pinged
+23:38:31 [INFO] [iamthecaleb,/24.14.242.238:54730] <-> InitialHandler has connected
+23:38:31 [INFO] [iamthecaleb] <-> ServerConnector [hub] has connected
+23:38:48 [INFO] [iamthecaleb] <-> ServerConnector [creative] has connected
+23:38:48 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [hub] has disconnected
+23:39:07 [INFO] [iamthecaleb] <-> ServerConnector [hub] has connected
+23:39:07 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [creative] has disconnected
+23:39:15 [INFO] [iamthecaleb] <-> ServerConnector [survival] has connected
+23:39:19 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [hub] has disconnected
+23:41:51 [INFO] [iamthecaleb] <-> ServerConnector [hub] has connected
+23:41:51 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [survival] has disconnected
+23:42:02 [INFO] [iamthecaleb] <-> ServerConnector [withered] has connected
+23:42:07 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [hub] has disconnected
+23:43:33 [INFO] [iamthecaleb] <-> ServerConnector [hub] has connected
+23:43:33 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [withered] has disconnected
+23:43:50 [INFO] [/10.0.1.86:53991] <-> InitialHandler has pinged
+23:43:54 [INFO] [cutepink2505,/10.0.1.86:53992] <-> InitialHandler has connected
+23:43:55 [INFO] [cutepink2505] <-> ServerConnector [hub] has connected
+23:43:56 [INFO] [iamthecaleb] <-> ServerConnector [creative] has connected
+23:43:56 [INFO] [iamthecaleb] <-> DownstreamBridge <-> [hub] has disconnected
+23:44:07 [INFO] [cutepink2505] <-> ServerConnector [creative] has connected
+23:44:07 [INFO] [cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+23:44:28 [INFO] [/98.32.158.72:52553] <-> InitialHandler has pinged
+23:45:05 [INFO] [/98.32.158.72:52672] <-> InitialHandler has pinged
+23:45:07 [INFO] [Math0424,/98.32.158.72:52682] <-> InitialHandler has connected
+23:45:08 [INFO] [Math0424] <-> ServerConnector [hub] has connected
+23:45:19 [INFO] [Math0424] <-> ServerConnector [survival] has connected
+23:45:27 [INFO] [Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+23:45:46 [INFO] [/10.0.1.4:61929] <-> InitialHandler has pinged
+23:45:49 [INFO] [Hallflower,/10.0.1.4:61936] <-> InitialHandler has connected
+23:45:49 [INFO] [Hallflower] <-> ServerConnector [hub] has connected
+23:46:10 [INFO] [/76.16.163.92:63069] <-> InitialHandler has pinged
+23:46:30 [INFO] [/10.0.1.4:61963] <-> InitialHandler has pinged
+23:47:16 [INFO] [Math0424] <-> ServerConnector [creative] has connected
+23:47:16 [INFO] [Math0424] <-> DownstreamBridge <-> [survival] has disconnected
+23:47:17 [INFO] [LuckPerms] [Messaging] Received update ping with id: 2b77922f-7168-4c4a-9bcf-1673ca71cccd

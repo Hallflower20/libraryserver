@@ -1,279 +1,114 @@
-[01:18:27] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[01:18:27] [Server thread/INFO]: Loading properties
-[01:18:27] [Server thread/INFO]: Default game type: ADVENTURE
-[01:18:27] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-"4c7641d" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[01:18:27] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[01:18:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:18:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:18:27] [Server thread/INFO]: Debug logging is disabled
-[01:18:27] [Server thread/INFO]: Data value allowed items: 
-[01:18:27] [Server thread/INFO]: Generating keypair
-[01:18:28] [Server thread/INFO]: Starting Minecraft server on *:25555
-[01:18:28] [Server thread/INFO]: Using epoll channel type
-[01:18:28] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[01:18:28] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
-[01:18:28] [Server thread/INFO]: [HubBasic] Loading HubBasic v1.0
-[01:18:28] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[01:18:28] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
-[01:18:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v2.2.3
-[01:18:28] [Server thread/INFO]: [ViaVersion] ViaVersion 2.2.3 is now loaded, injecting!
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 block mapping...
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 item mapping...
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading new 1.13 tags...
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 enchantment mapping...
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 sound mapping...
-[01:18:28] [Server thread/INFO]: [ViaVersion] Loading translation mapping
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 blockstate mapping...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 block mapping...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 item mapping...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 sound mapping...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.14 blockstates...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.14 heightmap data...
-[01:18:29] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 blockstate mapping...
-[01:18:31] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 block mapping...
-[01:18:31] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 item mapping...
-[01:18:31] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 sound mapping...
-[01:18:31] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[01:18:31] [Server thread/INFO]: [BungeeTabListPlus] Loading BungeeTabListPlus v3.2.0
-[01:18:31] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[01:18:31] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
-[01:18:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[01:18:31] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[01:18:31] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.72[m
-[01:18:31] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[01:18:31] [Server thread/INFO]: [m
-[01:18:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:18:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[01:18:31] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
-[01:18:31] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
-[01:18:32] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[01:18:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:18:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:18:33] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2042ms)
-[01:18:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:18:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:18:33] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[01:18:33] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[01:18:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:18:33] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[01:18:33] [Server thread/INFO]: Preparing level "world"
-[01:18:33] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8613959456153810707)
-[01:18:34] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0
-[01:18:34] [Server thread/INFO]: §c===================================
-[01:18:34] [Server thread/INFO]: §c===================================
-[01:18:34] [Server thread/INFO]: §aCheck out my other Plugins!
-[01:18:34] [Server thread/INFO]: §aI also sell a BedWars §aPlugin!
-[01:18:34] [Server thread/INFO]: §c===================================
-[01:18:34] [Server thread/INFO]: §c===================================
-[01:18:34] [Server thread/INFO]: [HubBasic] Enabling HubBasic v1.0
-[01:18:34] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8
-[01:18:34] [Server thread/INFO]: 
- 
-[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
-[0;30;1m| [0;31;1mInformation:
-[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
-[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
-[0;30;1m|   [0;31;1mVersion: [0;37;22m2.1.8
-[0;30;1m|   [0;31;1mStorage: [0;37;22mMySQL (external)
-[0;30;1m| [0;31;1mSupport:
-[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
-[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
-[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
-[0;30;1m| [0;31;1mUpdate:
-[0;30;1m|   [0;37;22mYou have the newest version
-[0;30;1m[]================================[][m
- [m
-[01:18:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[01:18:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[01:18:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[01:18:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v2.2.3
-[01:18:35] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[01:18:35] [Server thread/INFO]: [m
-[01:18:35] [Server thread/INFO]: [0;32;22m           ██▌[m
-[01:18:35] [Server thread/INFO]: [0;32;22m     ██▌   ██▌[m
-[01:18:35] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;32;22mPlayer Analytics[m
-[01:18:35] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;37;1mv5.1 build 505[m
-[01:18:35] [Server thread/INFO]: [m
-[01:18:35] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[01:18:36] [Server thread/INFO]: [Plan] You're using the latest version.
-[01:18:36] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[01:18:36] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[01:18:36] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[01:18:36] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
-[01:18:36] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[01:18:36] [Server thread/INFO]: [Plan] Registered extension: ViaVersion
-[01:18:36] [Server thread/INFO]: [Plan] Player Analytics Enabled. (1220 ms)
-[01:18:36] [Server thread/INFO]: [BungeeTabListPlus] Enabling BungeeTabListPlus v3.2.0
-[01:18:36] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[01:18:37] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[01:18:37] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[01:18:37] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[01:18:37] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[01:18:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[01:18:37] [Server thread/INFO]: [WorldGuard] Loading region data...
-[01:18:37] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
-[01:18:37] [Server thread/INFO]: [BungeePortals] Metrics initiated!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Commands registered!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Events registered!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Portal data loaded! (1ms)
-[01:18:37] [Server thread/INFO]: [BungeePortals] Save task started!
-[01:18:37] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (18ms)
-[01:18:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:18:37] [Server thread/INFO]: Done (4.219s)! For help, type "help" or "?"
-[01:18:37] [Server thread/INFO]: Timings Reset
-[01:18:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
-[01:18:37] [Server thread/INFO]: [ViaVersion] Enabling Paper/TacoSpigot/Torch patch: Fixes block placement.
-[01:21:01] [Thread-15/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:21:02] [Server thread/INFO]: Hallflower[/10.0.1.4:50953] logged in with entity id 15 at ([world]0.0, 71.0, 0.0)
-[01:21:12] [Thread-16/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:21:12] [Server thread/INFO]: Math0424[/98.32.158.72:60045] logged in with entity id 16 at ([world]0.0, 71.0, 0.0)
-[01:21:12] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:21:38] [Server thread/INFO]: Math0424 issued server command: /lp export
-[01:21:42] [Server thread/INFO]: Math0424 issued server command: /lp editor
-[01:24:04] [Server thread/WARN]: Hallflower moved wrongly!
-[01:25:52] [Server thread/INFO]: Math0424 issued server command: /lp applyedits hwOD5GzA4k
-[01:25:52] [Server thread/INFO]: Hallflower issued server command: /weather clear
-[01:25:52] [ForkJoinPool-1-worker-15/INFO]: [LuckPerms] [Messaging] Sending log with id: 7ff1c739-d5f4-4909-b13c-7d86ced1d77f
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.reload true[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
-[01:25:52] [ForkJoinPool-1-worker-1/INFO]: [LuckPerms] [Messaging] Sending log with id: 4492ecad-5fd0-4513-abbd-26b2c47e6f75
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.tempban.exempt true[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
-[01:25:52] [ForkJoinPool-1-worker-19/INFO]: [LuckPerms] [Messaging] Sending log with id: e2bbad18-683d-467e-b098-fd007d295a8a
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.ipban.perma true[m
-[01:25:52] [ForkJoinPool-1-worker-19/INFO]: [LuckPerms] [Messaging] Sending log with id: 5f475490-412d-4ade-8f92-b4cc4275df73
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.check.ip true[m
-[01:25:52] [ForkJoinPool-1-worker-1/INFO]: [LuckPerms] [Messaging] Sending log with id: a2bf4ec1-65b9-405e-847c-da120f32bdaa
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.banlist true[m
-[01:25:52] [ForkJoinPool-1-worker-15/INFO]: [LuckPerms] [Messaging] Sending log with id: 132708a4-54bc-419c-9cc1-31b6527c8bb3
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.ban.perma true[m
-[01:25:52] [ForkJoinPool-1-worker-5/INFO]: [LuckPerms] [Messaging] Sending log with id: d162d406-a414-4d55-86c5-05fd7334dc55
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
-[01:25:52] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.check true[m
-[01:25:53] [ForkJoinPool-1-worker-30/INFO]: [LuckPerms] [Messaging] Sending log with id: 5d30d18d-3b99-470b-af50-34daf1f2fab9
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mmoderator[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.kick.use true[m
-[01:25:53] [ForkJoinPool-1-worker-15/INFO]: [LuckPerms] [Messaging] Sending log with id: bfd0bd6f-a5c3-4460-a13d-a3be32ee4a83
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mmoderator[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.ban.temp true[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [ForkJoinPool-1-worker-15/INFO]: [LuckPerms] [Messaging] Sending log with id: a0395b12-6c98-4a89-a423-79462c933506
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.warn.perma true[m
-[01:25:53] [ForkJoinPool-1-worker-8/INFO]: [LuckPerms] [Messaging] Sending log with id: 50410097-51e9-42fc-963e-05017f3b7948
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.mute.temp true[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [ForkJoinPool-1-worker-5/INFO]: [LuckPerms] [Messaging] Sending log with id: c0b74792-69ea-47b3-8d2d-0961367c1233
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.warns.other true[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [ForkJoinPool-1-worker-22/INFO]: [LuckPerms] [Messaging] Sending log with id: 94e7ebb7-3435-4d52-a133-eea42daffdba
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.mute.perma true[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.notify.ban true[m
-[01:25:53] [ForkJoinPool-1-worker-23/INFO]: [LuckPerms] [Messaging] Sending log with id: 288a549c-3e8a-4609-8984-8e4538382dfd
-[01:25:53] [ForkJoinPool-1-worker-9/INFO]: [LuckPerms] [Messaging] Sending log with id: b8b0047d-ba5a-4bd6-8d4c-f43fca0b0e5d
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.notify.mute true[m
-[01:25:53] [ForkJoinPool-1-worker-27/INFO]: [LuckPerms] [Messaging] Sending log with id: e5acc9cd-ec2c-4878-89a2-f524c0c7dff3
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.warn.temp true[m
-[01:25:53] [ForkJoinPool-1-worker-13/INFO]: [LuckPerms] [Messaging] Sending log with id: 1691a055-7262-4435-993e-d3b8ab66d559
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mhelper[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.notify.warn true[m
-[01:25:53] [ForkJoinPool-1-worker-6/INFO]: [LuckPerms] [Messaging] Sending log with id: 7b8b23e4-9cc9-4c53-a1c4-5511f8ae3f2e
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
-[01:25:53] [pool-6-thread-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add ab.warns.own true[m
-[01:25:55] [ForkJoinPool-1-worker-2/INFO]: [LuckPerms] [Messaging] Sending ping with id: 53262dc6-2e5a-4f89-a777-4725a5d7bf0a
-[01:26:02] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[01:26:05] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:26:06] [Thread-19/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:26:06] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:26:06] [Server thread/INFO]: Math0424[/98.32.158.72:52687] logged in with entity id 17 at ([world]0.0, 71.0, 0.0)
-[01:26:20] [Thread-20/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:26:20] [Server thread/INFO]: Hallflower[/10.0.1.4:55525] logged in with entity id 18 at ([world]0.0, 71.0, 0.0)
-[01:27:23] [Server thread/WARN]: Math0424 moved wrongly!
-[01:30:01] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:30:01] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[01:30:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:30:40] [Thread-21/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:30:40] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:30:40] [Server thread/INFO]: Math0424[/98.32.158.72:39977] logged in with entity id 19 at ([world]0.0, 71.0, 0.0)
-[01:30:47] [Server thread/INFO]: Math0424 issued server command: /hub
-[01:31:01] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:32:29] [Thread-22/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:32:29] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:32:29] [Server thread/INFO]: Math0424[/98.32.158.72:44769] logged in with entity id 20 at ([world]0.0, 71.0, 0.0)
-[01:34:14] [Thread-23/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:34:15] [Server thread/INFO]: Hallflower[/10.0.1.4:59417] logged in with entity id 21 at ([world]0.0, 71.0, 0.0)
-[01:34:15] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:34:18] [Thread-24/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:34:18] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:34:18] [Server thread/INFO]: Math0424[/98.32.158.72:46497] logged in with entity id 22 at ([world]0.0, 71.0, 0.0)
-[01:34:24] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:34:25] [Thread-25/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:34:25] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:34:25] [Server thread/INFO]: Math0424[/98.32.158.72:54175] logged in with entity id 23 at ([world]0.0, 71.0, 0.0)
-[01:34:28] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[01:34:32] [Thread-26/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:34:32] [Server thread/INFO]: Hallflower[/10.0.1.4:57715] logged in with entity id 24 at ([world]0.0, 71.0, 0.0)
-[01:35:21] [Server thread/INFO]: Hallflower lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[01:40:19] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:41:02] [Thread-27/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:41:02] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:41:02] [Server thread/INFO]: Math0424[/98.32.158.72:49827] logged in with entity id 25 at ([world]0.0, 71.0, 0.0)
-[01:41:30] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:41:47] [Thread-28/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:41:47] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:41:47] [Server thread/INFO]: Hallflower[/10.0.1.4:51077] logged in with entity id 26 at ([world]0.0, 71.0, 0.0)
-[01:42:00] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[01:44:56] [Thread-29/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:44:56] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:44:56] [Server thread/INFO]: Math0424[/98.32.158.72:59027] logged in with entity id 27 at ([world]0.0, 71.0, 0.0)
-[01:45:06] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:45:21] [Thread-30/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:45:22] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:45:22] [Server thread/INFO]: Hallflower[/10.0.1.4:35911] logged in with entity id 28 at ([world]0.0, 71.0, 0.0)
-[01:45:26] [Server thread/INFO]: Hallflower issued server command: /weather clear
-[01:45:36] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[01:51:22] [Thread-31/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[01:51:22] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:51:22] [Server thread/INFO]: Math0424[/98.32.158.72:44957] logged in with entity id 29 at ([world]0.0, 71.0, 0.0)
-[01:52:07] [Server thread/INFO]: Math0424 issued server command: /gamerule doWeatherCycle false
-[01:52:12] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[01:52:41] [Thread-32/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[01:52:41] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[01:52:41] [Server thread/INFO]: Hallflower[/10.0.1.4:47111] logged in with entity id 30 at ([world]0.0, 71.0, 0.0)
-[01:52:47] [Server thread/INFO]: Hallflower issued server command: /weather clear
-[01:52:56] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[02:29:34] [Thread-35/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[02:29:35] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:29:35] [Server thread/INFO]: Math0424[/98.32.158.72:57103] logged in with entity id 31 at ([world]0.0, 71.0, 0.0)
-[02:29:41] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[02:31:21] [Thread-36/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[02:31:22] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:31:22] [Server thread/INFO]: Math0424[/98.32.158.72:55645] logged in with entity id 32 at ([world]0.0, 71.0, 0.0)
-[02:31:26] [Thread-37/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[02:31:26] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:31:26] [Server thread/INFO]: Hallflower[/10.0.1.4:60579] logged in with entity id 33 at ([world]0.0, 71.0, 0.0)
-[02:31:32] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[02:31:46] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[02:31:47] [Thread-38/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[02:31:47] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:31:47] [Server thread/INFO]: Hallflower[/10.0.1.4:54049] logged in with entity id 34 at ([world]0.0, 71.0, 0.0)
-[02:31:57] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[02:33:25] [Thread-39/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[02:33:25] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:33:25] [Server thread/INFO]: Hallflower[/10.0.1.4:39845] logged in with entity id 35 at ([world]0.0, 71.0, 0.0)
-[02:33:27] [Thread-40/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[02:33:28] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
-[02:33:28] [Server thread/INFO]: Math0424[/98.32.158.72:60397] logged in with entity id 36 at ([world]0.0, 71.0, 0.0)
-[02:33:29] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[02:33:31] [Server thread/INFO]: Math0424 lost connection: Disconnected
+[16:49:16] [Thread-83/INFO]: [0;30;1m[[0;31;1mAdvancedBan[0;30;1m] [0;37;22mAn unexpected error has occurred executing an Statement in the database
+Please check the plugins/AdvancedBan/logs/latest.log file and report thiserror in: https://github.com/DevLeoko/AdvancedBan/issues[m
+[16:49:16] [Thread-83/ERROR]: Could not pass event AsyncPlayerPreLoginEvent to AdvancedBan v2.1.8
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[server.jar:git-PaperSpigot-"4c7641d"]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:74) ~[server.jar:git-PaperSpigot-"4c7641d"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-PaperSpigot-"4c7641d"]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [server.jar:git-PaperSpigot-"4c7641d"]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [server.jar:git-PaperSpigot-"4c7641d"]
+	at net.minecraft.server.v1_8_R3.LoginListener$LoginHandler.fireEvents(LoginListener.java:248) [server.jar:git-PaperSpigot-"4c7641d"]
+	at net.minecraft.server.v1_8_R3.LoginListener$2.run(LoginListener.java:172) [server.jar:git-PaperSpigot-"4c7641d"]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.NullPointerException
+	at me.leoko.advancedban.manager.PunishmentManager.load(PunishmentManager.java:62) ~[?:?]
+	at me.leoko.advancedban.Universal.callConnection(Universal.java:268) ~[?:?]
+	at me.leoko.advancedban.bukkit.listener.ConnectionListener.onConnect(ConnectionListener.java:21) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor36.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_252]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_252]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[server.jar:git-PaperSpigot-"4c7641d"]
+	... 7 more
+[16:49:16] [Thread-83/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
+[16:49:16] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[16:49:16] [Server thread/INFO]: Math0424[/98.32.158.72:55223] logged in with entity id 37 at ([world]0.0, 71.0, 0.0)
+[16:49:32] [Server thread/INFO]: Math0424 lost connection: Disconnected
+[18:16:09] [Thread-88/INFO]: UUID of player stephie8 is d281893e-0be9-48fb-bfa9-ddee3f4261c1
+[18:16:09] [Server thread/INFO]: stephie8[/98.32.159.91:54841] logged in with entity id 38 at ([world]0.0, 71.0, 0.0)
+[18:16:10] [Thread-89/INFO]: UUID of player 28weky is e6767cfe-4fe7-434b-a181-d1addfa79754
+[18:16:10] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[18:16:10] [Server thread/INFO]: 28weky[/71.57.73.125:34361] logged in with entity id 39 at ([world]0.0, 71.0, 0.0)
+[18:16:19] [Thread-90/INFO]: UUID of player _HeroXD_ is 3c5fb93e-2cbf-4f42-9c07-53b2104dce77
+[18:16:19] [Server thread/INFO]: _HeroXD_[/73.211.183.236:42011] logged in with entity id 40 at ([world]0.0, 71.0, 0.0)
+[18:16:37] [Server thread/INFO]: 28weky lost connection: Disconnected
+[18:16:38] [Server thread/INFO]: _HeroXD_ lost connection: Disconnected
+[18:16:39] [Server thread/INFO]: stephie8 lost connection: Disconnected
+[18:16:42] [Thread-91/INFO]: UUID of player ArgonBeluga is ed0da955-a842-4ed5-aa87-a45001abeb55
+[18:16:42] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[18:16:42] [Server thread/INFO]: ArgonBeluga[/24.14.234.82:60301] logged in with entity id 41 at ([world]0.0, 71.0, 0.0)
+[18:16:43] [Thread-92/INFO]: UUID of player q4u5 is 8e770339-d732-46dc-84d3-752fb0de67ff
+[18:16:43] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[18:16:43] [Server thread/INFO]: q4u5[/71.194.214.223:37503] logged in with entity id 42 at ([world]0.0, 71.0, 0.0)
+[18:16:48] [Server thread/INFO]: ArgonBeluga lost connection: Disconnected
+[18:16:57] [Server thread/INFO]: q4u5 lost connection: Disconnected
+[19:13:35] [Thread-95/INFO]: UUID of player 28weky is e6767cfe-4fe7-434b-a181-d1addfa79754
+[19:13:35] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:13:35] [Server thread/INFO]: 28weky[/71.57.73.125:57523] logged in with entity id 43 at ([world]0.0, 71.0, 0.0)
+[19:13:40] [Thread-96/INFO]: UUID of player ArgonBeluga is ed0da955-a842-4ed5-aa87-a45001abeb55
+[19:13:40] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:13:40] [Server thread/INFO]: ArgonBeluga[/24.14.234.82:40431] logged in with entity id 44 at ([world]0.0, 71.0, 0.0)
+[19:13:45] [Server thread/INFO]: ArgonBeluga lost connection: Disconnected
+[19:13:47] [Server thread/INFO]: 28weky lost connection: Disconnected
+[19:13:49] [Thread-97/INFO]: UUID of player AJV_ is 5d84893e-33b9-490b-959c-38ae65397eef
+[19:13:49] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:13:49] [Server thread/INFO]: AJV_[/70.134.200.117:46627] logged in with entity id 45 at ([world]0.0, 71.0, 0.0)
+[19:14:13] [Server thread/INFO]: AJV_ lost connection: Disconnected
+[19:14:53] [Thread-98/INFO]: UUID of player ArgonBeluga is ed0da955-a842-4ed5-aa87-a45001abeb55
+[19:14:53] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:14:53] [Server thread/INFO]: ArgonBeluga[/24.14.234.82:53415] logged in with entity id 46 at ([world]0.0, 71.0, 0.0)
+[19:15:01] [Server thread/INFO]: ArgonBeluga lost connection: Disconnected
+[19:19:05] [Thread-99/INFO]: UUID of player stephie8 is d281893e-0be9-48fb-bfa9-ddee3f4261c1
+[19:19:05] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:19:05] [Server thread/INFO]: stephie8[/98.32.159.91:33415] logged in with entity id 47 at ([world]0.0, 71.0, 0.0)
+[19:19:14] [Server thread/INFO]: stephie8 lost connection: Disconnected
+[19:26:08] [Thread-100/INFO]: UUID of player ArgonBeluga is ed0da955-a842-4ed5-aa87-a45001abeb55
+[19:26:09] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[19:26:09] [Server thread/INFO]: ArgonBeluga[/24.14.234.82:37019] logged in with entity id 48 at ([world]0.0, 71.0, 0.0)
+[19:26:10] [Server thread/INFO]: ArgonBeluga lost connection: Disconnected
+[19:39:26] [Thread-102/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
+[19:39:26] [Server thread/INFO]: Hallflower[/10.0.1.4:33189] logged in with entity id 49 at ([world]0.0, 71.0, 0.0)
+[19:43:03] [Server thread/INFO]: Hallflower lost connection: Disconnected
+[20:09:11] [Thread-104/INFO]: UUID of player DavidTheStarman is a8570f8f-d7cd-4df3-b864-e7e5b5e71eb9
+[20:09:11] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[20:09:11] [Server thread/INFO]: DavidTheStarman[/73.208.230.151:41631] logged in with entity id 50 at ([world]0.0, 71.0, 0.0)
+[20:15:39] [Server thread/INFO]: DavidTheStarman lost connection: Disconnected
+[20:19:35] [Thread-105/INFO]: UUID of player DavidTheStarman is a8570f8f-d7cd-4df3-b864-e7e5b5e71eb9
+[20:19:35] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[20:19:35] [Server thread/INFO]: DavidTheStarman[/73.208.230.151:35733] logged in with entity id 51 at ([world]0.0, 71.0, 0.0)
+[20:20:46] [Server thread/INFO]: DavidTheStarman lost connection: Disconnected
+[23:38:32] [Thread-113/INFO]: UUID of player iamthecaleb is 7e42c253-a8cf-4539-9ca7-bd254194a923
+[23:38:32] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:38:32] [Server thread/INFO]: iamthecaleb[/24.14.242.238:37273] logged in with entity id 52 at ([world]0.0, 71.0, 0.0)
+[23:38:48] [Server thread/INFO]: iamthecaleb lost connection: Disconnected
+[23:39:07] [Thread-114/INFO]: UUID of player iamthecaleb is 7e42c253-a8cf-4539-9ca7-bd254194a923
+[23:39:07] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:39:07] [Server thread/INFO]: iamthecaleb[/24.14.242.238:54249] logged in with entity id 53 at ([world]0.0, 71.0, 0.0)
+[23:39:19] [Server thread/INFO]: iamthecaleb lost connection: Disconnected
+[23:41:51] [Thread-115/INFO]: UUID of player iamthecaleb is 7e42c253-a8cf-4539-9ca7-bd254194a923
+[23:41:51] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:41:51] [Server thread/INFO]: iamthecaleb[/24.14.242.238:51265] logged in with entity id 54 at ([world]0.0, 71.0, 0.0)
+[23:42:07] [Server thread/INFO]: iamthecaleb lost connection: Disconnected
+[23:43:33] [Thread-116/INFO]: UUID of player iamthecaleb is 7e42c253-a8cf-4539-9ca7-bd254194a923
+[23:43:33] [Netty Epoll Server IO #1/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:43:33] [Server thread/INFO]: iamthecaleb[/24.14.242.238:39899] logged in with entity id 55 at ([world]0.0, 71.0, 0.0)
+[23:43:55] [Thread-117/INFO]: UUID of player cutepink2505 is c2506f69-3768-4c2d-b1c1-305b1685fe5f
+[23:43:55] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:43:55] [Server thread/INFO]: cutepink2505[/10.0.1.86:44973] logged in with entity id 56 at ([world]0.0, 71.0, 0.0)
+[23:43:56] [Server thread/INFO]: iamthecaleb lost connection: Disconnected
+[23:44:08] [Server thread/INFO]: cutepink2505 lost connection: Disconnected
+[23:45:08] [Thread-118/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
+[23:45:08] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[23:45:08] [Server thread/INFO]: Math0424[/98.32.158.72:46307] logged in with entity id 57 at ([world]0.0, 71.0, 0.0)
+[23:45:27] [Server thread/INFO]: Math0424 lost connection: Disconnected
+[23:45:49] [Thread-119/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
+[23:45:50] [Server thread/INFO]: Hallflower[/10.0.1.4:48891] logged in with entity id 58 at ([world]0.0, 71.0, 0.0)
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add griefprevention.createclaims true[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add griefprevention.transferclaim true[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add griefprevention.seeclaimsize true[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[23:47:15] [luckperms-scheduler-worker-7/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add griefprevention.deleteclaims true[m
+[23:47:17] [luckperms-scheduler-worker-7/INFO]: [LuckPerms] [Messaging] Received update ping with id: 2b77922f-7168-4c4a-9bcf-1673ca71cccd
+[23:47:29] [Server thread/INFO]: Hallflower issued server command: /weather clear

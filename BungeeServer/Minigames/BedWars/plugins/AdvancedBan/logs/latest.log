@@ -1,0 +1,43 @@
+[18:16:36] An unexpected error has occurred executing an Statement in the database
+Please check the plugins/AdvancedBan/logs/latest.log file and report thiserror in: https://github.com/DevLeoko/AdvancedBan/issues
+[18:16:36] Query: 
+SELECT * FROM `Punishments` WHERE `uuid` = ? OR `uuid` = ?
+[18:16:36] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 66,029,519 milliseconds ago.  The last packet sent successfully to the server was 66,029,519 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3348)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1967)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2626)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2111)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2273)
+	at me.leoko.advancedban.manager.DatabaseManager.executeStatement(DatabaseManager.java:188)
+	at me.leoko.advancedban.manager.DatabaseManager.executeStatement(DatabaseManager.java:176)
+	at me.leoko.advancedban.manager.DatabaseManager.executeResultStatement(DatabaseManager.java:172)
+	at me.leoko.advancedban.manager.PunishmentManager.load(PunishmentManager.java:60)
+	at me.leoko.advancedban.Universal.callConnection(Universal.java:268)
+	at me.leoko.advancedban.bukkit.listener.ConnectionListener.onConnect(ConnectionListener.java:21)
+	at sun.reflect.GeneratedMethodAccessor201.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:74)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499)
+	at net.minecraft.server.v1_8_R3.LoginListener$LoginHandler.fireEvents(LoginListener.java:248)
+	at net.minecraft.server.v1_8_R3.LoginListener$2.run(LoginListener.java:172)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Broken pipe (Write failed)
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3329)
+	... 22 more
+
