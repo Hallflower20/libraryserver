@@ -1,0 +1,1 @@
+/usr/bin/screen -S elytra -X stuff "`echo \"stop\r\"`"

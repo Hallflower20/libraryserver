@@ -1,0 +1,110 @@
+data-version: 1
+'2':
+  uniqueId: 8ba56bf7-54dd-4bce-b820-8759bbe38f49
+  name: Buy from me
+  world: world
+  x: 486
+  y: 72
+  z: 742
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  owner uuid: 7e42c253-a8cf-4539-9ca7-bd254194a923
+  owner: iamthecaleb
+  chestx: 486
+  chesty: 71
+  chestz: 742
+  offers: {}
+'5':
+  uniqueId: 0230ad75-a665-4845-ab9d-baaf611fbbc1
+  name: Trade question mark
+  world: world
+  x: 486
+  y: 72
+  z: 746
+  type: trade
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  owner uuid: 7e42c253-a8cf-4539-9ca7-bd254194a923
+  owner: iamthecaleb
+  chestx: 486
+  chesty: 71
+  chestz: 746
+  offers:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BREAD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BREAD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KELP
+        amount: 6
+'6':
+  uniqueId: 6c94a130-74ed-472f-8ef0-d46dc1feaa22
+  name: Sell to me
+  world: world
+  x: 486
+  y: 72
+  z: 744
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  owner uuid: 7e42c253-a8cf-4539-9ca7-bd254194a923
+  owner: iamthecaleb
+  chestx: 486
+  chesty: 71
+  chestz: 744
+  offers: {}
+'9':
+  uniqueId: 2674566b-6322-4a36-bb82-bcb5ae02c5fd
+  name: Carl
+  world: world
+  x: 435
+  y: 64
+  z: 544
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: CARTOGRAPHER
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: VILLAGER_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_INGOT
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLDEN_SHOVEL

@@ -1,3 +1,24 @@
+#
+# WorldGuard's main configuration file
+#
+# This is the global configuration file. Anything placed into here will
+# be applied to all worlds. However, each world has its own configuration
+# file to allow you to replace most settings in here for that world only.
+#
+# About editing this file:
+# - DO NOT USE TABS. You MUST use spaces or Bukkit will complain. If
+#   you use an editor like Notepad++ (recommended for Windows users), you
+#   must configure it to "replace tabs with spaces." In Notepad++, this can
+#   be changed in Settings > Preferences > Language Menu.
+# - Don't get rid of the indents. They are indented so some entries are
+#   in categories (like "enforce-single-session" is in the "protection"
+#   category.
+# - If you want to check the format of this file before putting it
+#   into WorldGuard, paste it into http://yaml-online-parser.appspot.com/
+#   and see if it gives "ERROR:".
+# - Lines starting with # are comments and so they are ignored.
+#
+
 regions:
     uuid-migration:
         perform-on-next-start: false
@@ -11,7 +32,6 @@ regions:
         table-prefix: ''
     enable: true
     invincibility-removes-mobs: false
-    nether-portal-protection: false
     fake-player-build-override: true
     explosion-flags-block-entity-damage: true
     high-frequency-flags: false
@@ -19,11 +39,8 @@ regions:
     wand: 334
     max-claim-volume: 30000
     claim-only-inside-existing-regions: false
-    location-flags-only-inside-regions: false
     max-region-count-per-player:
         default: 7
-    use-paper-entity-origin: false
-    cancel-chat-without-recipients: true
 auto-invincible: false
 auto-invincible-group: false
 auto-no-drowning-group: false
@@ -32,7 +49,6 @@ use-player-teleports: true
 security:
     deop-everyone-on-join: false
     block-in-game-op-command: false
-    host-keys-allow-forge-clients: false
 host-keys: {}
 summary-on-start: true
 op-permissions: true
@@ -43,7 +59,6 @@ event-handling:
     block-entity-spawns-with-untraceable-cause: false
     interaction-whitelist: []
     emit-block-use-at-feet: []
-    ignore-hopper-item-move-events: false
 protection:
     item-durability: true
     remove-infinite-stacks: false
@@ -52,7 +67,6 @@ protection:
 gameplay:
     block-potions: []
     block-potions-overly-reliably: false
-    disable-conduit-effects: false
 simulation:
     sponge:
         enable: false
@@ -98,7 +112,6 @@ mobs:
     block-other-explosions: false
     block-zombie-door-destruction: false
     block-creature-spawn: []
-    block-armor-stand-destroy: false
 player-damage:
     disable-fall-damage: false
     disable-lava-damage: false
@@ -113,7 +126,6 @@ player-damage:
     disable-explosion-damage: false
     disable-mob-damage: false
     disable-death-messages: false
-    reset-fall-on-void-teleport: false
 chest-protection:
     enable: false
     disable-off-check: false
@@ -129,7 +141,6 @@ weather:
     disable-powered-creepers: false
     always-raining: false
     always-thundering: false
-    disable-villager-witchification: false
 dynamics:
     disable-mushroom-spread: false
     disable-ice-melting: false
@@ -142,7 +153,6 @@ dynamics:
     disable-vine-growth: false
     disable-soil-dehydration: false
     snow-fall-blocks: []
-    disable-crop-growth: false
 blacklist:
     use-as-whitelist: false
     logging:
@@ -158,4 +168,3 @@ blacklist:
             enable: false
             path: worldguard/logs/%Y-%m-%d.log
             open-files: 10
-use-particle-effects: true

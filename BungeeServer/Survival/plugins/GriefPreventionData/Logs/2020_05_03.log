@@ -1,0 +1,542 @@
+23:58 Math0424  :  placed a sign @ world: x445, z552
+  You cant read it
+  lol.
+11:28 DavidTheStarman: shopkeeper give DavidTheStarman 64
+11:54 DavidTheStarman: test
+12:25 DavidTheStarman: hey, iamthecaleb, can you help me test something?
+12:26 iamthecaleb    : What do you want david
+12:26 DavidTheStarman: I'm setting up a plugin that lets players create shops, I need someone to test it
+12:27 iamthecaleb    : Ok
+12:27 iamthecaleb    : Signs?
+12:27 DavidTheStarman: this plugin works will villagers and signs
+12:27 iamthecaleb placed suspicious WATER_BUCKET @ world: x477, z747
+12:28 DavidTheStarman: so I need you to take a chest, a villager spawn egg, and follow the instructions to make a shop
+12:28 iamthecaleb    : Ok
+12:29 DavidTheStarman: when you hold the egg in your hand, it should give you some instructions to use it
+12:30 DavidTheStarman: the villagers can't move
+12:30 DavidTheStarman: they won't escape
+12:30 DavidTheStarman: looks like it worked
+12:30 DavidTheStarman: put items that you want to sell in the chest
+12:31 DavidTheStarman: then shift-right-click on the villager to edit the prices
+12:31 DavidTheStarman: can you set up a couple trades so we can test them?
+12:32 iamthecaleb    : I think it works
+12:32 DavidTheStarman: yeah, it worked!
+12:33 DavidTheStarman: thanks!
+12:33 iamthecaleb    : Ya
+12:33 iamthecaleb    : How will people get emeralds though?
+12:34 DavidTheStarman: I think I'm going to set up a shop at spawn where players can sell valuables for emeralds
+12:34 iamthecaleb    : Gotcha
+12:34 DavidTheStarman: the plugin lets you set up shops that work in reverse
+12:34 iamthecaleb    : How?
+12:35 DavidTheStarman: hold a spawn egg in your hand, then look at what the instructions say. The first two lines let you change what type of shop it is
+12:35 DavidTheStarman: you can choose if the shop is a villager or sign, and you can choose if the shop sells, buys, or trades
+12:35 iamthecaleb    : Unfortunate that I do not have a second spawn egg
+12:35 DavidTheStarman: now you do
+12:35 iamthecaleb    : Gratzi
+12:36 iamthecaleb    : There are a lot of variants
+12:36 DavidTheStarman: or, if players don't have emeralds, they can use the trade option so you can use diamonds or iron as currency
+12:36 iamthecaleb    : Yea I saw that
+12:37 DavidTheStarman: so I think I won't setup a shop at spawn where you can sell iron and diamonds for emeralds
+12:37 iamthecaleb    : Yea
+12:37 DavidTheStarman: emeralds do spawn naturally, and you can get them from vanilla villagers. Other shops could just use iron or diamonds
+12:37 DavidTheStarman: I will need to make one that sells Villager spawn eggs though
+12:37 iamthecaleb    : Yes
+12:38 iamthecaleb    : And you need to make a currency exchange
+12:38 DavidTheStarman: maybe
+12:38 iamthecaleb    : x Iron= x diamond=x emerald
+12:38 DavidTheStarman: the trouble with using emeralds and iron is that both are farmable
+12:39 DavidTheStarman: I think I might just change all shops to use diamonds instead
+12:39 iamthecaleb    : But then you have a harder to aquire currency and thus you would have to set up an exchange feature
+12:40 DavidTheStarman: idk, diamonds aren't that hard to get
+12:40 DavidTheStarman: and early game, they might even be easier than emeralds
+12:40 iamthecaleb    : No there's a village in the taiga biome
+12:40 iamthecaleb    : And a cartographer
+12:40 DavidTheStarman: and if there is a currency exchange, then now diamonds are just as farmable as emeralds or iron
+12:40 iamthecaleb    : It would be better to have it that you can trade diamonds for emeralds rather than vice versa
+12:41 iamthecaleb    : Since emeralds are only inherently valuable for their trade value
+12:41 DavidTheStarman: but again, diamonds are one of the only valuable items in the game that is not farmable
+12:41 iamthecaleb    : But they're not common enough to be able to used as a currency
+12:41 DavidTheStarman: arent they?
+12:42 DavidTheStarman: diamond's aren't that hard to get
+12:42 iamthecaleb    : Not in my opinion
+12:42 DavidTheStarman: ok, I'm gonna open a poll on the discord. I'll let democracy decide this.
+12:42 iamthecaleb    : Ok
+12:47 iamthecaleb    : Also I have noticed villager egg does not return to inventory if you delete it
+12:47 DavidTheStarman: yeah, I'm gonna fix that.
+12:49 iamthecaleb    : Also chests that are placed on chests do not connect
+12:49 DavidTheStarman: oh yeah, that was a change a couple updates ago.
+12:50 DavidTheStarman: thats not because of the plugin
+12:50 iamthecaleb    : Nvm I figured it out
+12:56 DavidTheStarman: can you check now, if the spawn eggs are returned when you delete a shop?
+12:56 iamthecaleb    : Yes
+12:56 iamthecaleb    : they do
+12:56 DavidTheStarman: great, thanks
+12:56 DavidTheStarman: also, the poll is up
+12:56 iamthecaleb    : No problem
+12:57 iamthecaleb    : I'm not part of the discord XD
+12:57 DavidTheStarman: the link is shown in the TAB list
+12:57 iamthecaleb    : I know and I could ask mathieu at any time for it but I'm too lazy
+13:01 iamthecaleb    : Also the discord link does not work
+13:01 DavidTheStarman: oh, we will fix that before we launch tomorr
+13:01 iamthecaleb    : ZwVw2C
+13:01 DavidTheStarman: *tomorrow
+13:01 DavidTheStarman: I also need to build an Imperial Star Destroyer and a few X-Wings above spawn for Star Wars day
+13:01 iamthecaleb    : I miss the times when AFK plugin was not a thing
+13:02 iamthecaleb    : Also David, Diamonds are not common
+13:02 iamthecaleb    : I only have 15
+13:03 DavidTheStarman: how many hours have you been mining?
+13:03 iamthecaleb    : A few
+13:03 DavidTheStarman: can I see your mine? Maybe you are using the innefficient method
+13:03 iamthecaleb    : No I am using the most efficient method
+13:03 DavidTheStarman: this isnt it
+13:03 DavidTheStarman: watch me
+13:04 iamthecaleb    : But that way is gross
+13:04 DavidTheStarman: this method maximizes the surface area of your mine, while minimizing the number of blocks you mine
+13:05 iamthecaleb    : This way creates long tunnels while also minimizing the number of blocks I have to mine
+13:06 DavidTheStarman: you should see the mines I make on my survival world
+13:07 iamthecaleb    : I like my mining method, much easy to walk through
+13:07 DavidTheStarman: btw, the discord vote is open and we have 5 votes so far
+13:07 DavidTheStarman: 4 for diamond, 1 for emerald
+13:07 iamthecaleb    : Trade?
+13:08 iamthecaleb    : Trade question mark
+13:10 iamthecaleb placed suspicious WATER_BUCKET @ world: x477, z747
+13:11 DavidTheStarman: Shopkeeper
+13:12 iamthecaleb    : David can you spot me some books? Or will I have to make them myself?
+13:13 DavidTheStarman: you mean you want me to get books for you?
+13:13 DavidTheStarman: like from a villager?
+13:13 iamthecaleb    : What?
+13:13 DavidTheStarman: I don't get what you mean
+13:13 iamthecaleb    : Nvm I'll just make the books
+13:14 iamthecaleb placed suspicious WATER_BUCKET @ world: x477, z752
+13:23 DavidTheStarman: hey, so right now diamonds are winning. How much should a shop cost in diamonds?
+13:23 iamthecaleb    : How hard do you want it to be to get a shop?
+13:23 iamthecaleb    : I would say 1-5 for easy
+13:23 iamthecaleb    : 5-10 for medium
+13:24 DavidTheStarman: hard enough that people don't spam them, easy enough that people can get multiple villagers for larger shops
+13:24 iamthecaleb    : 15
+13:24 iamthecaleb    : Maybe less
+13:24 DavidTheStarman: 15 diamonds?
+13:24 iamthecaleb    : 10-15
+13:25 DavidTheStarman: I was gonna go for 3-5
+13:25 iamthecaleb    : why would people spam villagers?
+13:25 iamthecaleb    : If you want to keep people from spamming villagers then it would have to be higher than 5
+13:26 DavidTheStarman: I'm not that worried about spam though, I'm gonna make it 5 diamonds for a villager
+13:26 iamthecaleb    : Ok sounds good
+13:26 DavidTheStarman: if people complain, I can easily lower it
+13:26 iamthecaleb    : 3 is like deciding whether to make a pickaxe or not
+13:26 iamthecaleb    : Alternatively david
+13:27 iamthecaleb    : david can you spot me like 2-3 bones
+13:27 DavidTheStarman: what should I name the villager at spawn? the one that sells the villager eggs
+13:28 iamthecaleb    : I don't have any on me and I just spotted a wolf
+13:28 iamthecaleb    : Name him Carl
+13:28 DavidTheStarman: he works a camera
+13:28 iamthecaleb    : Gratzi
+13:28 DavidTheStarman: Carl
+13:28 iamthecaleb    : Oh then just name him Razzi
+13:29 DavidTheStarman: "he works a camera" was a Phineas and Ferb reference
+13:29 iamthecaleb    : Oh It's been too long David
+13:29 DavidTheStarman: do you get it now?
+13:29 iamthecaleb    : No I don't remember
+13:29 DavidTheStarman: Carl was the intern with the glasses
+13:29 iamthecaleb    : Oh yes I remember Carl
+13:29 iamthecaleb    : I didn't remember the camera portion
+13:30 DavidTheStarman: he worked the camera for when Major Monogram was talking to Perry
+13:30 iamthecaleb    : I remember that too Carl the unpaid intern
+13:30 iamthecaleb    : I don't remember the camera line though
+13:32 DavidTheStarman: so what else should Carl sell?
+13:32 iamthecaleb    : Gold shovels
+13:32 DavidTheStarman: oh yeah
+13:32 iamthecaleb    : My brother lost his and now he can't claim land
+13:32 DavidTheStarman: we were going to have those in the kit though
+13:32 iamthecaleb    : Ah that's smart
+13:32 iamthecaleb    : Then no golden shovel
+13:33 iamthecaleb    : Different types of vegetables?
+13:33 DavidTheStarman: I don't want him to just sell things that you might want in survival mode. I want him to sell things related to our plugins and such
+13:34 DavidTheStarman: so I'll add the golden shovel. You get your first one free in the kit when you join, but then you can buy additional ones for 1 iron or something
+13:34 DavidTheStarman: or you could just make a golden shovel
+13:34 iamthecaleb    : Yea will you get the kit more than once?
+13:35 DavidTheStarman: no. you get the kit once, it probably will contain the golden shovel, some leather armor and stone tools
+13:35 iamthecaleb    : Ok then yes definitely put in the golden shovel and sell for maybe 3 iron?
+13:35 DavidTheStarman: oh, it looks like Math already made the kit
+13:35 iamthecaleb    : YEah
+13:36 iamthecaleb    : The kit only contained the golden shovel and bread I think
+13:36 DavidTheStarman: and a wooden sword
+13:36 DavidTheStarman: that seems like enough to me
+13:36 iamthecaleb    : Oh yea
+13:36 iamthecaleb    : Maybe a few seeds
+13:36 iamthecaleb    : Since the weeds around spawn will eventually be cleared out by people looking for seeds
+13:37 iamthecaleb    : Also when I fell asleep on the bed during the thunderstorm thunderstorm was still there
+13:37 DavidTheStarman: still, you shouldn't need to go very far to get seeds. And what will you buy the seeds with anyway?
+13:37 iamthecaleb    : No I mean include it in the kit
+13:37 DavidTheStarman: also, yeah, because of the 1-player-sleep datapack we are using sleeping does not reset the weather anymore
+13:38 iamthecaleb    : Ah
+13:38 iamthecaleb    : Maybe eventually you can add more plug ins and add it to the villager
+13:38 iamthecaleb    : Right now only the golden shovel and villager eggs sound prudent
+13:40 DavidTheStarman: yeah
+13:42 DavidTheStarman: looks like I need to restart the server for my changes to FirstJoinPlus to take effect
+13:42 iamthecaleb    : First join plus?
+13:42 DavidTheStarman: yeah, its the plugin that manages the kits you get when you first join
+13:43 iamthecaleb    : Gotcha
+13:43 DavidTheStarman: I made a few changes to the kit, but when I tested it it did not change
+13:43 iamthecaleb    : WShat kind of changes/w
+13:43 DavidTheStarman: I added wheat seeds to the kit, I made it not say "hello future friends" when you join, and I made it not give you speed
+13:43 DavidTheStarman: but when I tested it just now, no change
+13:43 iamthecaleb    : I thought the speed was a nice touch
+13:44 DavidTheStarman: I found it annoying
+13:44 iamthecaleb    : It can allow you to get past claimed land quickly
+13:44 iamthecaleb    : Though i suppose that won't be much of a problem in the beginning
+13:44 DavidTheStarman: true, but we want players to stick around for a bit to read the rules and server info
+13:44 iamthecaleb    : I couldn't read server info
+13:44 iamthecaleb    : Has that been fixed
+13:44 DavidTheStarman: see it now?
+13:44 iamthecaleb    : No
+13:45 DavidTheStarman: what does it say?
+13:45 iamthecaleb    : You can't read it lol
+13:45 DavidTheStarman: you don't have permission to read from the lectern?
+13:45 iamthecaleb    : No it's a problem I asked mathieu about last night
+13:45 DavidTheStarman: ok, I figure he will fix it soon
+13:45 iamthecaleb    : Yea
+13:46 DavidTheStarman: otherwise, I can just have players spawn with a book that has the rules in it
+13:46 iamthecaleb    : That's true
+13:47 iamthecaleb    : Are just you Xander and Mathieu admins?
+13:47 DavidTheStarman: yes
+13:47 iamthecaleb    : Gotcha so Brandon and I will be on our own?
+13:51 iamthecaleb    : How long until you get kicked from AFK?
+13:52 DavidTheStarman: I don't think we kick for AFK at all.
+13:52 DavidTheStarman: I'm not against AFK
+13:52 iamthecaleb    : No Mathieu installed a plug yesterday
+13:53 iamthecaleb    : I understand why because it lets people artifically inflate their playtime
+13:53 iamthecaleb    : =more claimable land
+13:53 iamthecaleb    : But it's also a pain because I want to AFK fish
+13:53 DavidTheStarman: oh yeah, I see it
+13:53 DavidTheStarman: I'm gonna ask him about it
+13:54 iamthecaleb    : I could ask him XD
+13:54 DavidTheStarman: I already put in a message to him on Discord
+13:55 DavidTheStarman: oh, he is typing his reply
+13:56 DavidTheStarman: Mathieu seems to really not like AFKing
+13:57 iamthecaleb    : Darn XD
+13:57 iamthecaleb    : I guess I have no choice but to actually fish
+13:57 DavidTheStarman: oh, it seems Xander is against it too
+13:58 DavidTheStarman: they think that the hardware the Library will use to run the server will not be as good as what it is running on now, so the AFKing is likely to cause lag
+13:58 iamthecaleb    : AAh
+13:58 DavidTheStarman: the server is already using like 40 threads
+13:59 DavidTheStarman: Math has it set to 10 minutes before you get kicked for AFK
+14:08 iamthecaleb    : NOOOOOOOO
+14:36 iamthecaleb: Will mobs kill my villagers?
+14:36 DavidTheStarman: no, villagers spawned by the shop plugin are invulnerable
+14:37 iamthecaleb    : Also RIP my wolf dissapeared
+14:37 iamthecaleb    : Disappeared*
+14:40 DavidTheStarman: yeah, I just spawned a bunch of pillagers to see if they tried to kill your shopkeepers
+14:40 DavidTheStarman: they didn't even try
+14:40 iamthecaleb    : Gotcha
+14:41 DavidTheStarman: are you building a shop here?
+14:41 iamthecaleb    : I might
+14:42 DavidTheStarman: its a bit close
+14:42 iamthecaleb    : that's the point
+14:42 Math0424       : rejoin for permissions david /hub
+14:42 iamthecaleb    : I was also thinking of starting a nether highway
+14:42 iamthecaleb    : I'm not sure which I want to do yet
+14:43 Math0424       : also david, am i on tabslist
+14:43 DavidTheStarman: yes you are
+14:43 Math0424       : shame
+14:43 Math0424       : caleb do you see me on tabs list
+14:44 DavidTheStarman: also, Math, the permissions aren't fixed
+14:44 iamthecaleb    : Yes
+14:45 Math0424       : i will fix later gtg
+14:48 DavidTheStarman: vote is now 7:1 for Diamonds
+16:05 iamthecaleb    :  placed a sign @ world: x472, z741
+  dw
+16:05 iamthecaleb placed suspicious WATER_BUCKET @ world: x473, z741
+16:05 iamthecaleb placed suspicious WATER_BUCKET @ world: x473, z741
+16:33 cutepink2505: f
+16:55 Math0424    :  placed a sign @ world: x448, z549
+  /hub
+  or
+  /lobby
+  to leave
+17:03 Math0424    :  placed a sign @ world: x428, z563
+  tem
+17:03 Math0424    :  placed a sign @ world: x428, z563
+  temp removal
+  let the noobs
+  get portals
+  themselves
+17:11 Math0424    :  placed a sign @ world: x427, z563
+  items in ur chest
+17:12 iamthecaleb : Is the nether fixed?
+17:12 Math0424    :  placed a sign @ world: x470, z739
+  items
+  /\
+  |
+17:15 iamthecaleb : No?
+17:16 Math0424    : can you not enter?
+17:16 iamthecaleb : an enter
+17:16 iamthecaleb : Hold on
+17:16 iamthecaleb : I cn enter
+17:16 Math0424    : so its working
+17:18 iamthecaleb : Ok I will build a second portal in the nether instead
+17:18 Math0424    : why tho
+17:19 iamthecaleb : I'm trying to build a nether highway
+17:19 Math0424    : ah
+17:19 Math0424    : yeah move the nether portal in the nether then
+17:19 iamthecaleb : I'm not sure where I want it to go yet but I'll figure that out later
+17:19 iamthecaleb : Coco0422 where are you?
+17:30 Math0424    : also the villagers dont have to be trapped
+17:30 iamthecaleb : I know
+17:31 iamthecaleb : I just like the look of trapped villagers
+17:35 iamthecaleb : Much illager outpost
+17:45 DavidTheStarman: hello
+17:45 iamthecaleb    : Oh hello
+17:46 DavidTheStarman: watcha working on Math?
+17:47 Math0424       : makin cool people dissapear in tab
+17:47 DavidTheStarman: ooh
+17:47 iamthecaleb    : But why?
+17:48 DavidTheStarman: for spying
+17:48 Math0424       : well if your vanished its to spy
+17:48 iamthecaleb    : Ah
+17:48 iamthecaleb    : That seems silly
+17:48 iamthecaleb    : Who made this cross?
+17:48 Math0424       : exactly
+17:48 iamthecaleb    : ...
+17:48 iamthecaleb    : Why?
+17:48 Math0424       : demonstration
+17:49 iamthecaleb    : Seems like a silly thing to use
+17:49 Math0424       : not against someone who is flying around thinking they arnt being caught cheating
+17:49 iamthecaleb    : David
+17:49 DavidTheStarman: yes?
+17:49 Math0424       : yeah , like david
+17:50 Math0424       : am i on the tab list?
+17:50 iamthecaleb    : Yes
+17:50 Math0424       : darn
+17:50 Math0424       : will fix later
+17:50 iamthecaleb    : Try quit and come back?
+17:50 Math0424       : got to eat now
+17:50 Math0424       : no that wouldnt matter
+17:50 iamthecaleb    : You still there
+17:51 Math0424       : i has to eat now o7
+18:22 iamthecaleb    : Coco where are you?
+18:22 iamthecaleb    : Coordinate wise
+18:23 exhoi          : what are the coordinates for spawn
+18:47 DavidTheStarman: why did you remove the portal at spawn?
+18:48 Math0424       : IPortal disables nether
+18:48 DavidTheStarman: oh
+18:48 DavidTheStarman: yeah thats bad
+18:49 DavidTheStarman:  placed a sign @ world: x447, z549
+  Use /lobby
+  or /hub to leave
+18:52 DavidTheStarman: wow, that's much nicer than the datapack
+18:52 DavidTheStarman: so where are you, I can't tp
+18:52 Math0424       : the point
+18:52 Math0424       : still gotta remove me from tabs list
+18:52 DavidTheStarman: why can't I tp?
+18:52 Math0424       : because im vanished and your client doenst know i exist
+18:52 DavidTheStarman: no, I can't tp anywhere
+18:53 Math0424       : oh well thats a perms thing then
+18:53 Math0424       : fixin
+18:54 Math0424       : rejoin
+18:54 DavidTheStarman: I still see you in tab, and I still can't tp
+18:55 Math0424       : tabs list is bungeecord
+18:55 Math0424       : not minecraft
+18:55 Math0424       : your client doesnt think im here
+18:55 Math0424       : your client doesnt know im ehre
+18:55 DavidTheStarman: ah
+18:55 Math0424       : tabs list is just a name
+18:55 Math0424       : but you can tp now
+18:55 DavidTheStarman: nope
+18:56 DavidTheStarman: I don't have access to /tp
+18:56 Math0424       : i just gave it...
+18:56 Math0424       : hmm
+18:56 Math0424       : no work?
+18:56 DavidTheStarman: "I'm sorry, but you do not have permission to perform this command."
+18:56 Math0424       : ./tps
+18:57 Math0424       : work?
+18:57 DavidTheStarman: yes
+18:57 DavidTheStarman: but thats ticks per second
+18:57 Math0424       : ik
+18:57 Math0424       : ./gamemode?
+18:57 DavidTheStarman: yes, I can use this
+18:57 Math0424       : ./kill?
+18:58 DavidTheStarman: I can use kill, but not with a selector
+18:58 Math0424       : david.
+18:58 Coco0422       : WTH
+18:58 Math0424       : she is playing
+18:58 Math0424       : you just lost her XP
+18:58 Math0424       : all of it at that
+18:59 DavidTheStarman: I deserve that
+18:59 DavidTheStarman: I'm sorry
+18:59 Math0424       : odd then
+18:59 Math0424       : it says you have tp
+18:59 DavidTheStarman: well, I don't
+18:59 DavidTheStarman: maybe you didn't actually remove Op?
+18:59 Math0424       : try now
+18:59 Math0424       : rejoin
+18:59 Math0424       : i removed it
+18:59 DavidTheStarman: maybe you didn't actually remove Op
+18:59 Math0424       : i removed OP, you cant even type /op
+18:59 Math0424       : there
+18:59 DavidTheStarman: yeah, it worked
+19:00 Math0424       : apparently MC has 2 nodes
+19:00 Math0424       : tp and teleport
+19:00 Math0424       : tp does nothing
+19:00 DavidTheStarman: maybe I was able to use /teleport the whole time
+19:00 DavidTheStarman: but why can't I use the selector?
+19:00 Math0424       : try now
+19:00 Math0424       : @p
+19:00 DavidTheStarman: "selector not allowed"
+19:01 Math0424       : huh
+19:01 Math0424       : didnt know it has perms
+19:01 Math0424       : cool
+19:01 Math0424       : there
+19:01 Math0424       : selector perms
+19:01 DavidTheStarman: it worked
+19:01 DavidTheStarman: house looks nice
+19:02 Math0424       : gotta fix the time thing too, for 50%
+19:02 Math0424       : not 1 person
+19:02 DavidTheStarman: can we have a message in chat when not enough players are sleeping that explains why its not going to day?
+19:03 Math0424       : i can change everything
+19:03 Math0424       : because plugin
+19:04 DavidTheStarman: what if you only needed 1 player to fast forward, but the speed of the night depends on what proportion of online players were sleeping?
+19:06 Math0424       : you cant use /time right?
+19:06 DavidTheStarman: nope
+19:06 Math0424       : good
+19:06 DavidTheStarman: but I can use weather
+19:06 DavidTheStarman: also, shouldnt admins be able to set the time?
+19:06 Math0424       : absolutly not
+19:06 DavidTheStarman: why?
+19:06 Math0424       : ./time set day, set day to 0
+19:07 DavidTheStarman: what do you mean?
+19:07 Math0424       : f3 meu
+19:07 Math0424       : day count
+19:07 Math0424       : ./time set day
+19:07 Math0424       : will set it to 0
+19:07 Math0424       : cuz mojang lazy
+19:07 DavidTheStarman: oh, so then we should only allow time subtract and add
+19:07 Math0424       : new commad will be skipnight
+19:08 Math0424       : its all one node david
+19:08 DavidTheStarman: oh
+19:08 Math0424       : time permission
+19:08 DavidTheStarman: come on Mojang
+19:08 cutepink2505   : excuse moi
+19:12 Math0424       : bad david
+19:12 Math0424       : dont mess with the natrual mc world
+19:12 Math0424       : it ignores people in creative
+19:13 Math0424       : or vanished
+19:13 Math0424       : the skipnight
+19:14 DavidTheStarman: hi
+19:14 Ghastslayer    : ello
+19:16 cutepink2505   : /msg Coco0422 hi 
+19:17 Coco0422       : hi
+19:17 Ghastslayer    : /msg Coco0422 hi 
+19:17 Coco0422       : /msg 
+19:20 Math0424       : ./co i
+19:24 Math0424       : thinking of allowing PVP
+19:24 Ghastslayer    : yes
+19:24 Math0424       : but not on claims
+19:24 Ghastslayer    : no
+19:24 DavidTheStarman: no. we have a pvp arena
+19:25 Math0424       : but we also have survival
+19:25 DavidTheStarman: and we have a survival duels plugin
+19:25 Ghastslayer    : David, stop not letting us do anything fun
+19:25 Math0424       : lemme just mute him real quick
+19:25 Math0424       : ok as i was saying
+19:25 DavidTheStarman: I'm cool with pvp in the survival world, so long as it is limited to mutual accepted duels
+19:25 Math0424       : why just that though
+19:26 DavidTheStarman: because I don't want people getting attacked
+19:26 Math0424       : you can attack them with lava
+19:26 Math0424       : or tnt
+19:26 Math0424       : or literally anything dangerous
+19:26 DavidTheStarman: and we ban players for that kind of behavior
+19:26 iamthecaleb    : Have no fear
+19:26 iamthecaleb    : FOR I AM HERE
+19:26 Math0424       : exactly so then pvp would be fine since its the same
+19:27 iamthecaleb    : ???
+19:27 Math0424       : ignore us
+19:27 iamthecaleb    : No I'm listening
+19:27 Math0424       : :|
+19:27 iamthecaleb    : What did brandon do this time?
+19:27 iamthecaleb    : Ghast?
+19:27 DavidTheStarman: wait, so you are ok with enabling pvp because we will ban perpetrators?
+19:27 iamthecaleb    : /pm ghastslayer 
+19:27 Math0424       : well you just said that about lava dumping and flint and steel, if people want to kill eachother they will
+19:27 iamthecaleb    : Ghast where are you?
+19:28 Math0424       : you cant disable murder
+19:28 DavidTheStarman: yes, but why make it easier to break the rules?
+19:28 Math0424       : its not against the rules to pvp
+19:28 DavidTheStarman: it is if the one or more of the players involved does not want to pvp
+19:28 Math0424       : then they dont?
+19:29 DavidTheStarman: and what if the other players don't respect their wishes?
+19:29 Math0424       : ima change it to a toggle
+19:29 Math0424       : then they can opt in or out
+19:30 DavidTheStarman: thats fine then
+19:30 Math0424       : default will be in
+19:30 DavidTheStarman: no, default is out
+19:30 Math0424       : in
+19:30 DavidTheStarman: how do you toggle it?
+19:30 Math0424       : dunno
+19:30 Math0424       : figuring it out
+19:37 DavidTheStarman:  placed a sign @ world: x446, z553
+  This Survival
+  server is all
+  about
+  collaboration.
+19:38 DavidTheStarman:  placed a sign @ world: x445, z553
+  Here you can
+  build, survive,
+  and create
+  together.
+19:38 DavidTheStarman:  placed a sign @ world: x446, z553
+  In the Survival
+  world, you can
+  build, farm, and
+  mine together.
+19:39 DavidTheStarman:  placed a sign @ world: x445, z553
+  We have a few
+  extra features
+  to improve your
+  experience.
+19:39 DavidTheStarman:  placed a sign @ world: x445, z553
+  We use the
+  GriefPrevention
+  plugin to protect
+  our builds.
+19:40 DavidTheStarman:  placed a sign @ world: x444, z553
+  Use the
+  shopkeepers to
+  open and manage
+  shops
+19:41 DavidTheStarman:  placed a sign @ world: x434, z546
+  Hi, I'm Carl!
+19:42 DavidTheStarman:  placed a sign @ world: x433, z547
+  Get a
+  Gold Shovel for
+  claiming and a
+19:42 DavidTheStarman:  placed a sign @ world: x433, z547
+  Buy useful
+  items from
+  Carl!
+  >>>>>
+19:43 Math0424       : righty if your not online in a year (365 days) your plot claim will expire
+19:43 Math0424       : oh i forgot to add the toggle plugin
+19:51 DavidTheStarman: hey Math, are we using the giants?
+19:51 Ghastslayer    : PLEASE
+19:51 Math0424       : YEET
+19:51 Math0424       : CAPS LOCK WORKS
+19:51 exhoi          : well hello
+19:52 Math0424       : run
+19:52 Ghastslayer    : hello noah
+19:52 Ghastslayer    : We hope you enjoy your stay
+19:52 exhoi          : what are the coordinates for spawn
+19:52 Math0424       : 0 0 0
+19:52 exhoi          : nooo
+19:52 exhoi          : don''t kill me
+19:56 exhoi          : where is spawn
+19:59 DavidTheStarman: hey, should we test skywars?
+20:01 DavidTheStarman: and we need to get that server info book at spawn working
+20:01 Math0424       : it hardly says anything useful in it
+20:01 DavidTheStarman: should I just remove it then?
+20:02 DavidTheStarman:  placed a sign @ world: x445, z553
+  For Server info,
+  or help, go to the
+  Discord!
+21:01 iamthecaleb: Lag?
+21:10 cutepink2505: lol

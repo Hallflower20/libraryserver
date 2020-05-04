@@ -1,0 +1,34 @@
+# This is the default configuration file of BungeeTabListPlus.
+#
+# Since the configuration of the plugin is quite complex you
+# might want to have a look at the wiki from time to time.
+#
+# Wiki: https://github.com/CodeCrafter47/BungeeTabListPlus/wiki
+#  Placeholders: https://github.com/CodeCrafter47/BungeeTabListPlus/wiki/Placeholders
+#  Examples: https://github.com/CodeCrafter47/BungeeTabListPlus/wiki/Examples
+#
+
+
+showTo: all
+priority: 1
+
+playerSets:
+  global:
+    filter: all
+    hiddenPlayers: INVISIBLE
+
+showHeaderFooter: true
+header: "&cWelcome &f${viewer name} &e${viewer ping}ms ping"
+footer: "&fOfficialDiscord:&7 discord.gg/ZwVw2C"
+
+customPlaceholders:
+  vanish_suffix: !conditional
+    condition: ${player is_hidden}
+    true: "&a[V]"
+    false: ""
+
+type: DYNAMIC_SIZE
+
+playerSet: global
+playerOrder: "server viewer-first"
+playerComponent: {text: "&a${player server} ${player luckpermsbungee_prefix} ${vanish_suffix}&7${player name}", icon: "${player skin}", ping: "${player ping}"}

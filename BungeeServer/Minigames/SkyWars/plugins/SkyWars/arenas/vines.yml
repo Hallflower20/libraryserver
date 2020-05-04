@@ -1,0 +1,263 @@
+# ####### vines.yml ###
+# This is the Skyblock Warriors arena config.
+# 
+# All values that are not in this configuration will be inherited from
+#  arena-parent.yml
+# 
+# All comment changes will be removed.
+# 
+# For documentation, please visit 
+# https://dabo.guru/projects/skywars/configuring-arenas
+# #######
+config-version: 3
+spawns:
+- x: 16.5
+  y: 29.0
+  z: 51.5
+- x: 26.5
+  y: 29.0
+  z: 25.5
+- x: 52.5
+  y: 29.0
+  z: 16.5
+- x: 76.5
+  y: 29.0
+  z: 26.5
+- x: 88.5
+  y: 29.0
+  z: 53.5
+- x: 76.5
+  y: 29.0
+  z: 78.5
+- x: 50.5
+  y: 29.0
+  z: 87.5
+- x: 25.5
+  y: 29.0
+  z: 77.5
+num-teams: 8
+team-size: 1
+min-players: 2
+boundaries:
+  origin:
+    min:
+      x: -47
+      y: 96
+      z: 2460
+    max:
+      x: 56
+      y: 138
+      z: 2564
+    world: world
+  building:
+    min:
+      x: -2
+      y: -20
+      z: -2
+    max:
+      x: 105
+      y: 44
+      z: 106
+  clearing:
+    min:
+      x: -3
+      y: -21
+      z: -3
+    max:
+      x: 106
+      y: 45
+      z: 107
+placement-y: 20
+chests:
+- location:
+    x: 11
+    y: 29
+    z: 51
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 15
+    y: 29
+    z: 49
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 22
+    y: 29
+    z: 25
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 24
+    y: 29
+    z: 75
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 24
+    y: 29
+    z: 81
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 28
+    y: 29
+    z: 25
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 47
+    y: 29
+    z: 48
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 47
+    y: 29
+    z: 56
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 48
+    y: 29
+    z: 88
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 49
+    y: 29
+    z: 52
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 50
+    y: 29
+    z: 92
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 51
+    y: 29
+    z: 50
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 51
+    y: 29
+    z: 54
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 52
+    y: 29
+    z: 12
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 53
+    y: 29
+    z: 52
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 54
+    y: 29
+    z: 16
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 55
+    y: 29
+    z: 48
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 55
+    y: 29
+    z: 56
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 74
+    y: 29
+    z: 79
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 78
+    y: 29
+    z: 23
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 78
+    y: 29
+    z: 29
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 80
+    y: 29
+    z: 79
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 87
+    y: 29
+    z: 55
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 91
+    y: 29
+    z: 53
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30

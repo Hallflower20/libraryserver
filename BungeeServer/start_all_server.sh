@@ -1,42 +1,41 @@
 #!/bin/sh
-cd Bungee
-screen -R -S bungee sh run.sh
+cd Waterfall
+screen -R -m -S waterfall sh run.sh
 cd ..
 cd Hub
-screen -R -S hub sh run.sh
+screen -R -m -S hub sh run.sh
 cd ..
 cd Survival
-screen -R -S survival sh run.sh
+screen -R -m -S survival sh run.sh
 cd ..
 cd Creative
-screen -R -S creative sh run.sh
+screen -R -m -S creative sh run.sh
 cd ..
 cd Withered
-screen -R -S withered sh run.sh
+screen -R -m -S withered sh run.sh
 cd ..
 cd Minigames/BedWars
-screen -R -S bedwars sh run.sh
+screen -R -m -S bedwars sh run.sh
 cd ..
 cd ..
 cd Minigames/ElytraDogFights
-screen -R -S elytradogfights sh run.sh
+screen -R -m -S elytra sh run.sh
 cd ..
 cd ..
 cd Minigames/PvP
-screen -R -S pvp sh run.sh
+screen -R -m -S pvp sh run.sh
 cd ..
 cd ..
 cd Minigames/Spleef
-screen -R -S spleef sh run.sh
+screen -R -m -S spleef sh run.sh
 cd ..
 cd ..
-cd Minigames/Blockfall
-screen -R -S blockfall sh run.sh
-cd ..
-cd ..
+#cd Minigames/Blockfall
+#screen -R -m -S blockfall sh run.sh
+#cd ..
+#cd ..
 cd Minigames/SkyWars
-screen -R -S skywars sh run.sh
+screen -R -m -S skywars sh run.sh
 cd ..
 cd ..
 echo "All servers booted"
-echo "Would you like a piece of cake?"

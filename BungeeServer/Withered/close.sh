@@ -1,0 +1,1 @@
+/usr/bin/screen -S withered -X stuff "`echo \"stop\r\"`"

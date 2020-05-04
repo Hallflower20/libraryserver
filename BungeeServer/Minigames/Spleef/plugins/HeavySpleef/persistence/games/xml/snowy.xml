@@ -5,11 +5,11 @@
     <flag name="autostart">2</flag>
     <flag name="lobby">
       <world>world</world>
-      <x>-168.03646135607246</x>
-      <y>100.74631495467513</y>
-      <z>329.47645738046083</z>
-      <yaw>90.14628</yaw>
-      <pitch>0.25996023</pitch>
+      <x>-170.04557707946066</x>
+      <y>101.49872160994515</y>
+      <z>328.5107302491739</z>
+      <yaw>269.12552</yaw>
+      <pitch>1.0186989</pitch>
     </flag>
     <flag name="countdown">20</flag>
     <flag name="splegg"/>

@@ -1,0 +1,26 @@
+data:
+  ==: me.Math0424.Withered.Core.PlayerData
+  kills: 0
+  wins: 0
+  killStreak: 0
+  bankCash: 0
+  highestKillStreak: 0
+  bulletsFired: 2
+  inventory: |
+    rO0ABXcEAAAALXBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcA==
+  resetLevel: 0
+  grenadesFired: 0
+  xp: 0
+  location:
+    ==: org.bukkit.Location
+    world: world
+    x: -353.01639862768803
+    y: 43.0
+    z: 388.4421583200824
+    pitch: 11.099968
+    yaw: -183.45349
+  talkType: LOCAL
+  UUID: e6767cfe-4fe7-434b-a181-d1addfa79754
+  lang: ENGLISH
+  cash: 100
+  deaths: 1

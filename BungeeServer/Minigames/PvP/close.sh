@@ -1,0 +1,1 @@
+/usr/bin/screen -S pvp -X stuff "`echo \"stop\r\"`"

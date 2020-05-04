@@ -14,8 +14,11 @@ save-inventory: true
 save-experience: true
 save-position-gamemode-health: true
 enabled-arenas:
-- skyblock-warriors
-- water-warriors
+- mines
+- end
+- mountain
+- wonderland
+- jungle
 locale: en
 skywars-arena-gamerules:
   doDaylightCycle: 'false'
@@ -39,7 +42,7 @@ economy:
   kill-reward: 10
   win-reward: 10
   reward-messages: true
-arena-distance-apart: 200
+arena-distance-apart: 500
 arena-copying:
   number-of-blocks-to-copy-at-once: 500
 command-whitelist:
@@ -64,13 +67,11 @@ kit-gui:
   replace-kit-command: false
   auto-show-on-join: true
 game-timer:
-  time-till-start-after-max-join: 30
-  time-till-start-after-any-join: 200
+  time-till-start-after-max-join: 10
+  time-till-start-after-any-join: 60
   time-before-start-to-start-arena-copy-operation: 45
   time-after-start-to-freeze-players: 5
   times-to-message-before-start:
-  - 600
-  - 300
   - 180
   - 60
   - 45

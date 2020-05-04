@@ -1,0 +1,1 @@
+/usr/bin/screen -S spleef -X stuff "`echo \"stop\r\"`"

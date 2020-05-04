@@ -1,0 +1,607 @@
+# ####### jungle.yml ###
+# This is the Skyblock Warriors arena config.
+# 
+# All values that are not in this configuration will be inherited from
+#  arena-parent.yml
+# 
+# All comment changes will be removed.
+# 
+# For documentation, please visit 
+# https://dabo.guru/projects/skywars/configuring-arenas
+# #######
+config-version: 3
+spawns:
+- x: 13.5
+  y: 12.0
+  z: 113.5
+- x: 14.5
+  y: 12.0
+  z: 86.5
+- x: 14.5
+  y: 14.0
+  z: 61.5
+- x: 16.5
+  y: 14.0
+  z: 35.5
+- x: 48.5
+  y: 12.0
+  z: 13.5
+- x: 74.5
+  y: 12.0
+  z: 14.5
+- x: 102.5
+  y: 14.0
+  z: 14.5
+- x: 126.5
+  y: 14.0
+  z: 15.5
+- x: 146.5
+  y: 12.0
+  z: 49.5
+- x: 145.5
+  y: 12.0
+  z: 73.5
+- x: 146.5
+  y: 14.0
+  z: 103.5
+- x: 144.5
+  y: 14.0
+  z: 126.5
+- x: 116.5
+  y: 12.0
+  z: 146.5
+- x: 86.5
+  y: 12.0
+  z: 146.5
+- x: 60.5
+  y: 14.0
+  z: 146.5
+- x: 33.5
+  y: 14.0
+  z: 145.5
+num-teams: 16
+team-size: 1
+min-players: 2
+boundaries:
+  origin:
+    min:
+      x: -76
+      y: 111
+      z: 2932
+    max:
+      x: 84
+      y: 145
+      z: 3092
+    world: world
+  building:
+    min:
+      x: -2
+      y: -20
+      z: -2
+    max:
+      x: 162
+      y: 36
+      z: 162
+  clearing:
+    min:
+      x: -3
+      y: -21
+      z: -3
+    max:
+      x: 163
+      y: 37
+      z: 163
+placement-y: 20
+chests:
+- location:
+    x: 49
+    y: 8
+    z: 11
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 50
+    y: 8
+    z: 4
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 75
+    y: 8
+    z: 12
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 76
+    y: 8
+    z: 5
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 5
+    y: 10
+    z: 58
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 6
+    y: 10
+    z: 32
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 12
+    y: 10
+    z: 59
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 13
+    y: 10
+    z: 33
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 32
+    y: 10
+    z: 154
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 33
+    y: 10
+    z: 147
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 58
+    y: 10
+    z: 155
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 59
+    y: 10
+    z: 148
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 101
+    y: 10
+    z: 12
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 102
+    y: 10
+    z: 5
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 127
+    y: 10
+    z: 13
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 128
+    y: 10
+    z: 6
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 147
+    y: 10
+    z: 127
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 148
+    y: 10
+    z: 101
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 154
+    y: 10
+    z: 128
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 155
+    y: 10
+    z: 102
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 41
+    y: 11
+    z: 112
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 48
+    y: 11
+    z: 41
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 58
+    y: 11
+    z: 102
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 112
+    y: 11
+    z: 119
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 119
+    y: 11
+    z: 48
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 13
+    y: 12
+    z: 115
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 14
+    y: 12
+    z: 89
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 38
+    y: 12
+    z: 51
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 38
+    y: 12
+    z: 80
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 38
+    y: 12
+    z: 86
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 45
+    y: 12
+    z: 13
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 51
+    y: 12
+    z: 122
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 71
+    y: 12
+    z: 14
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 71
+    y: 12
+    z: 89
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 74
+    y: 12
+    z: 38
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 80
+    y: 12
+    z: 38
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 80
+    y: 12
+    z: 122
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 86
+    y: 12
+    z: 122
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 89
+    y: 12
+    z: 71
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 89
+    y: 12
+    z: 146
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 101
+    y: 12
+    z: 59
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 109
+    y: 12
+    z: 38
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 115
+    y: 12
+    z: 147
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 122
+    y: 12
+    z: 74
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 122
+    y: 12
+    z: 80
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 122
+    y: 12
+    z: 109
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 146
+    y: 12
+    z: 71
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 147
+    y: 12
+    z: 45
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 14
+    y: 14
+    z: 63
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 15
+    y: 14
+    z: 37
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 37
+    y: 14
+    z: 145
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 63
+    y: 14
+    z: 146
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 80
+    y: 14
+    z: 80
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 97
+    y: 14
+    z: 14
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 123
+    y: 14
+    z: 15
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 145
+    y: 14
+    z: 123
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 146
+    y: 14
+    z: 97
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 92
+    y: 21
+    z: 92
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 69
+    y: 22
+    z: 69
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 44
+    y: 27
+    z: 45
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 45
+    y: 27
+    z: 116
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 115
+    y: 27
+    z: 44
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 116
+    y: 27
+    z: 115
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 80
+    y: 30
+    z: 80
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30

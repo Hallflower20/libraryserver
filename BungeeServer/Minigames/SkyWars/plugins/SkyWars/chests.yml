@@ -44,6 +44,7 @@ items:
   - {type: RAW_FISH, amount: 3}
   - {type: APPLE, amount: 3}
   - {type: ARROW, amount: 7}
+  - {type: STONE, amount: 20}
   level-2:
   - type: WOOD_SWORD
   - type: GOLD_HELMET
@@ -72,6 +73,7 @@ items:
   - {type: GOLDEN_APPLE, amount: 2}
   - type: FLINT_AND_STEEL
   - type: GOLD_SWORD
+  - {type: STONE, amount: 20}
   level-4:
   - type: IRON_SWORD
   level-5:

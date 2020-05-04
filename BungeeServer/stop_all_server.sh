@@ -1,42 +1,41 @@
 #!/bin/sh
-cd Bungee
-screen -S bungee -X end
+cd Waterfall
+sh close.sh
 cd ..
 cd Hub
-screen -S hub -X stop
+sh close.sh
 cd ..
 cd Survival
-screen -S survival -X stop
+sh close.sh
 cd ..
 cd Creative
-screen -S creative -X stop
+sh close.sh
 cd ..
 cd Withered
-screen -S withered -X stop
+sh close.sh
 cd ..
 cd Minigames/BedWars
-screen -S bedwars -X stop
+sh close.sh
 cd ..
 cd ..
 cd Minigames/ElytraDogFights
-screen -S elytradogfights -X stop
+sh close.sh
 cd ..
 cd ..
 cd Minigames/PvP
-screen -S pvp -X stop
+sh close.sh
 cd ..
 cd ..
 cd Minigames/Spleef
-screen -S spleef -X stop
+sh close.sh
 cd ..
 cd ..
-cd Minigames/Blockfall
-screen -S blockfall -X stop
-cd ..
-cd ..
+#cd Minigames/Blockfall
+#sh close.sh
+#cd ..
+#cd ..
 cd Minigames/SkyWars
-screen -S skywars -X stop
+sh close.sh
 cd ..
 cd ..
-echo "All servers booted"
-echo "Would you like a piece of cake?"
+echo "All servers closed"

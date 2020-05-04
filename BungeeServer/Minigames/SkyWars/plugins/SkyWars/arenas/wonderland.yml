@@ -1,0 +1,391 @@
+# ####### wonderland.yml ###
+# This is the Skyblock Warriors arena config.
+# 
+# All values that are not in this configuration will be inherited from
+#  arena-parent.yml
+# 
+# All comment changes will be removed.
+# 
+# For documentation, please visit 
+# https://dabo.guru/projects/skywars/configuring-arenas
+# #######
+config-version: 3
+spawns:
+- x: 14.5
+  y: 82.0
+  z: 84.5
+- x: 34.5
+  y: 83.0
+  z: 33.5
+- x: 84.5
+  y: 83.0
+  z: 13.5
+- x: 135.5
+  y: 83.0
+  z: 34.5
+- x: 154.5
+  y: 83.0
+  z: 84.5
+- x: 133.5
+  y: 83.0
+  z: 134.5
+- x: 84.5
+  y: 83.0
+  z: 154.5
+- x: 33.5
+  y: 83.0
+  z: 133.5
+num-teams: 8
+team-size: 1
+min-players: 2
+boundaries:
+  origin:
+    min:
+      x: -69
+      y: 62
+      z: 1931
+    max:
+      x: 99
+      y: 202
+      z: 2099
+    world: world
+  building:
+    min:
+      x: -2
+      y: -20
+      z: -2
+    max:
+      x: 170
+      y: 142
+      z: 170
+  clearing:
+    min:
+      x: -3
+      y: -21
+      z: -3
+    max:
+      x: 171
+      y: 143
+      z: 171
+placement-y: 20
+chests:
+- location:
+    x: 78
+    y: 38
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 83
+    y: 38
+    z: 83
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 15
+    y: 41
+    z: 83
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 35
+    y: 41
+    z: 35
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 35
+    y: 41
+    z: 133
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 83
+    y: 41
+    z: 153
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 85
+    y: 41
+    z: 15
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 133
+    y: 41
+    z: 35
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 133
+    y: 41
+    z: 133
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 153
+    y: 41
+    z: 85
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 82
+    y: 42
+    z: 100
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 95
+    y: 43
+    z: 71
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 100
+    y: 43
+    z: 89
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 75
+    y: 45
+    z: 91
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 78
+    y: 46
+    z: 75
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 14
+    y: 47
+    z: 82
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 34
+    y: 47
+    z: 132
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 36
+    y: 47
+    z: 34
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 82
+    y: 47
+    z: 154
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 86
+    y: 47
+    z: 14
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 132
+    y: 47
+    z: 134
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 134
+    y: 47
+    z: 36
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 154
+    y: 47
+    z: 86
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 51
+    z: 89
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 89
+    y: 61
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 13
+    y: 62
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 33
+    y: 62
+    z: 134
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 34
+    y: 62
+    z: 33
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 62
+    z: 13
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 62
+    z: 155
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 134
+    y: 62
+    z: 135
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 135
+    y: 62
+    z: 34
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 155
+    y: 62
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 71
+    z: 79
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 79
+    y: 81
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 91
+    z: 89
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 89
+    y: 101
+    z: 84
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 84
+    y: 111
+    z: 79
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 81
+    y: 127
+    z: 85
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 87
+    y: 127
+    z: 83
+  randomize: true
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30

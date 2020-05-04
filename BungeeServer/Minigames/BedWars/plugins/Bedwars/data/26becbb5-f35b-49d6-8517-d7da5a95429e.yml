@@ -1,0 +1,29 @@
+ArenaType:
+  5v5:
+    BedsBroken: 0
+    BedsLost5v5: 0
+    Deaths: 1
+    FinalDeaths: 0
+    GamesPlayed: 1
+    Kills: 0
+    Losses: 0
+    Wins: 1
+  4v4v4v4:
+    BedsBroken: 0
+    BedsLost4v4v4v4: 0
+    Deaths: 0
+    FinalDeaths: 0
+    GamesPlayed: 1
+    Kills: 0
+    Losses: 0
+    Wins: 1
+  1v1v1v1:
+    BedsBroken: 0
+    BedsLost1v1v1v1: 2
+    Deaths: 1
+    FinalDeaths: 0
+    GamesPlayed: 2
+    Kills: 5
+    Losses: 2
+    Wins: 0
+SkinName: VILLAGER

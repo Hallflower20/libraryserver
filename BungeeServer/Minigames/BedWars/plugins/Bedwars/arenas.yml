@@ -1,0 +1,111 @@
+Games:
+  nether:
+    ArenaType: 5v5
+    UpgradePath: DEFAULT
+    ShopPath: DEFAULT
+    ScoreboardPath: 5v5
+    ArenaOptionsPath: DEFAULT
+    DiamondGenerators:
+    - nether,-25.5,86.0,-25.5,229.77267,88.71993
+    - nether,-25.5,86.0,26.5,79.61218,90.0
+    - nether,26.5,86.0,-25.5,356.10608,90.0
+    - nether,26.5,86.0,26.5,23.718445,90.0
+    EmeraldGenerators:
+    - nether,5.5,85.0,5.5,197.25848,90.0
+    - nether,-4.5,85.0,-4.5,71.17261,89.90857
+    - nether,3.5,80.0,-3.5,228.80145,90.0
+    Spectate: nether,2.5,108.58507991223556,2.5,88.96515,23.710657
+    PositionOne: nether,-69.0,60.0,-42.0,0.0,0.0
+    PositionTwo: nether,102.0,146.0,71.0,0.0,0.0
+    MinimumTeams: 2
+    Waiting: nether,0.5,149.0,0.5,91.98242,90.0
+    MaxPlayers: 10
+    PerTeamPlayers: 5
+    Team:
+      Red:
+        Color: RED
+        BedFace: WEST
+        BedLocation: nether,-46.408532383911435,86.5625,0.49914535554896367,269.18787,85.15399
+        SpawnLocation: nether,-57.5,86.0,0.5,271.3822,-2.5307798
+        ShopLocation: nether,-54.5,86.0,-3.5,94.068115,90.0
+        UpgradeLocation: nether,-54.5,86.0,4.5,99.80127,90.0
+        IronGeneratorLocation: nether,-60.5,85.5,0.5,271.20007,-3.3536766
+        GoldGeneratorLocation: nether,-60.5,85.5,0.5,271.20007,-3.3536766
+        EmeraldGeneratorLocation: nether,-60.5,85.5,0.5,271.20007,-3.3536766
+      Blue:
+        Color: BLUE
+        BedFace: EAST
+        BedLocation: nether,47.55191820538845,86.5625,0.5769795298758132,87.25903,89.90856
+        SpawnLocation: nether,58.5,86.0,0.5,89.26929,3.4123683
+        ShopLocation: nether,55.5,86.0,4.5,224.31519,-1.9821855
+        UpgradeLocation: nether,55.5,86.0,-3.5,316.30493,-5.4566684
+        IronGeneratorLocation: nether,61.5,85.5,0.5,89.245605,0.9436766
+        GoldGeneratorLocation: nether,61.5,85.5,0.5,89.245605,0.9436766
+        EmeraldGeneratorLocation: nether,61.5,85.5,0.5,89.245605,0.9436766
+  void:
+    ArenaType: 1v1v1v1
+    UpgradePath: DEFAULT
+    ShopPath: DEFAULT
+    ScoreboardPath: 1v1v1v1
+    ArenaOptionsPath: DEFAULT
+    DiamondGenerators:
+    - void,15.54784502522591,92.0,-15.498905205578094,16.835205,90.0
+    - void,15.520598690616843,92.0,14.53791849351418,115.93005,90.0
+    - void,-14.501631640557635,92.0,14.565735054561419,180.74377,90.0
+    - void,-14.526740998943158,92.0,-15.511934837279266,267.01,90.0
+    EmeraldGenerators:
+    - void,-0.4824731241913334,90.0,-0.5273721394516291,345.67114,90.0
+    - void,1.4915734414032664,90.0,-0.5187214463234274,1.3361816,90.0
+    Spectate: void,0.5757158397570638,102.0,-0.49130145541855685,176.83252,6.7981257
+    PositionOne: void,37.0,115.0,-36.0,0.0,0.0
+    PositionTwo: void,-34.0,72.0,34.0,0.0,0.0
+    MinimumTeams: 2
+    Waiting: void,0.5757158397570638,102.0,-0.49130145541855685,176.83252,6.7981257
+    MaxPlayers: 4
+    PerTeamPlayers: 1
+    Team:
+      Yellow:
+        Color: YELLOW
+        BedFace: WEST
+        BedLocation: void,-22.612725169780994,90.5625,-0.5174211522293387,268.42358,88.8649
+        SpawnLocation: void,-24.54836881933109,90.0,-0.5295971945064718,269.67236,2.0307612
+        ShopLocation: void,-23.536201805774507,90.0,2.4699416536306664,181.70312,5.776554
+        UpgradeLocation: void,-23.51485138240461,90.0,-3.4918760139932723,359.11597,1.803744
+        IronGeneratorLocation: void,-26.227750053283444,89.5,-0.49640676235632214,269.4452,-2.6231103
+        GoldGeneratorLocation: void,-26.227750053283444,89.5,-0.49640676235632214,269.4452,-2.6231103
+        EmeraldGeneratorLocation: void,-26.227750053283444,89.5,-0.49640676235632214,269.4452,-2.6231103
+      Blue:
+        Color: BLUE
+        BedFace: NORTH
+        BedLocation: void,0.4626366488675264,90.5625,-23.35872780747824,0.02331543,90.0
+        SpawnLocation: void,0.5373151168692272,90.0,-25.501519671903335,359.5691,-0.8069525
+        ShopLocation: void,-2.5068552467638385,90.0,-24.536124419572232,269.5564,0.78215647
+        UpgradeLocation: void,3.486801818590646,90.0,-24.503402486433682,90.94385,-0.12590323
+        IronGeneratorLocation: void,0.5219712905055462,89.5,-27.482624235701664,357.97986,0.3281293
+        GoldGeneratorLocation: void,0.5219712905055462,89.5,-27.482624235701664,357.97986,0.3281293
+        EmeraldGeneratorLocation: void,0.5219712905055462,89.5,-27.482624235701664,357.97986,0.3281293
+      Green:
+        Color: GREEN
+        BedFace: EAST
+        BedLocation: void,23.520054222341123,90.5625,-0.5467792642556866,89.242065,90.0
+        SpawnLocation: void,25.54658130966163,90.0,-0.48429170850700737,89.354614,0.10111433
+        ShopLocation: void,24.46040678601625,90.0,-3.487372992421309,0.13842773,-0.806952
+        UpgradeLocation: void,24.47894375149746,90.0,2.530129821533518,179.93542,1.2362013
+        IronGeneratorLocation: void,27.51856139768625,89.5,-0.4732436802772613,90.60364,-0.4664302
+        GoldGeneratorLocation: void,27.51856139768625,89.5,-0.4732436802772613,90.60364,-0.4664302
+        EmeraldGeneratorLocation: void,27.51856139768625,89.5,-0.4732436802772613,90.60364,-0.4664302
+      Red:
+        Color: RED
+        BedFace: SOUTH
+        BedLocation: void,0.47341392278025807,90.5625,22.627051968590102,179.8219,87.5028
+        SpawnLocation: void,0.49059338129149466,90.0,24.559224057425467,179.48145,-0.9204726
+        ShopLocation: void,3.4844998356383803,90.0,23.513255526648003,90.60559,0.44165283
+        UpgradeLocation: void,-2.511951482770363,90.0,23.515124982938385,270.06323,-0.12590729
+        IronGeneratorLocation: void,0.47446623098216434,89.5,26.51138625590985,179.36804,-0.80698276
+        GoldGeneratorLocation: void,0.47446623098216434,89.5,26.51138625590985,179.36804,-0.80698276
+        EmeraldGeneratorLocation: void,0.47446623098216434,89.5,26.51138625590985,179.36804,-0.80698276
+Signs:
+  nether:
+  - world,-388.0,76.0,380.0,0.0,0.0
+  void:
+  - world,-390.0,76.0,380.0,0.0,0.0

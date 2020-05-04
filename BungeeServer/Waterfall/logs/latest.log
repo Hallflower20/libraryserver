@@ -1,0 +1,632 @@
+[00:00:23] [Netty Worker IO Thread #9/INFO]: [Hallflower|/10.0.1.4:52649] <-> ServerConnector [skywars] has connected
+[00:00:23] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:52649|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:00:26] [Netty Worker IO Thread #8/INFO]: [Math0424|/98.32.158.72:62749] <-> ServerConnector [skywars] has connected
+[00:00:26] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:62749|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:02:43] [Plan Pool Thread #0/INFO] [Plan]: Config file for server 'Plan' updated in /Plan/serverConfiguration
+[00:04:42] [Netty Worker IO Thread #8/INFO]: [Math0424] disconnected with: disconnect.spam
+[00:04:42] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:62749|Math0424] -> UpstreamBridge has disconnected
+[00:04:42] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:62749|Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:04:44] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812] <-> InitialHandler has connected
+[00:04:44] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [hub] has connected
+[00:04:48] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [skywars] has connected
+[00:04:48] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:08:08] [Netty Worker IO Thread #11/INFO]: [/10.0.1.86:53527] <-> InitialHandler has connected
+[00:08:09] [Netty Worker IO Thread #11/INFO]: [cutepink2505|/10.0.1.86:53527] <-> ServerConnector [hub] has connected
+[00:09:07] [Netty Worker IO Thread #11/INFO]: [cutepink2505|/10.0.1.86:53527] <-> ServerConnector [skywars] has connected
+[00:09:07] [Netty Worker IO Thread #11/INFO]: [/10.0.1.86:53527|cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+[00:10:05] [Netty Worker IO Thread #6/INFO]: [DavidTheStarman|/73.208.230.151:58251] <-> ServerConnector [skywars] has connected
+[00:10:05] [Netty Worker IO Thread #6/INFO]: [/73.208.230.151:58251|DavidTheStarman] <-> DownstreamBridge <-> [elytra] has disconnected
+[00:11:17] [Netty Worker IO Thread #6/INFO]: [DavidTheStarman] disconnected with: disconnect.spam
+[00:11:17] [Netty Worker IO Thread #6/INFO]: [/73.208.230.151:58251|DavidTheStarman] -> UpstreamBridge has disconnected
+[00:11:17] [Netty Worker IO Thread #6/INFO]: [/73.208.230.151:58251|DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:11:20] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488] <-> InitialHandler has connected
+[00:11:21] [Netty Worker IO Thread #12/INFO]: [DavidTheStarman|/73.208.230.151:58488] <-> ServerConnector [hub] has connected
+[00:11:30] [Netty Worker IO Thread #12/INFO]: [DavidTheStarman|/73.208.230.151:58488] <-> ServerConnector [skywars] has connected
+[00:11:30] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:14:22] [Netty Worker IO Thread #12/INFO]: [DavidTheStarman|/73.208.230.151:58488] <-> ServerConnector [hub] has connected
+[00:14:22] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488|DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:15:05] [Netty Worker IO Thread #12/INFO]: [DavidTheStarman|/73.208.230.151:58488] <-> ServerConnector [skywars] has connected
+[00:15:05] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:15:50] [Netty Worker IO Thread #11/INFO]: [/10.0.1.86:53527|cutepink2505] -> UpstreamBridge has disconnected
+[00:15:50] [Netty Worker IO Thread #11/INFO]: [/10.0.1.86:53527|cutepink2505] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:17:27] [Netty Worker IO Thread #12/INFO]: [DavidTheStarman] disconnected with: You are sending too many packets!
+[00:17:27] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488|DavidTheStarman] -> UpstreamBridge has disconnected
+[00:17:27] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:58488|DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:17:30] [Netty Worker IO Thread #13/INFO]: [/73.208.230.151:58540] <-> InitialHandler has pinged
+[00:17:30] [Netty Worker IO Thread #14/INFO]: [/73.208.230.151:58543] <-> InitialHandler has pinged
+[00:17:31] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544] <-> InitialHandler has connected
+[00:17:31] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [hub] has connected
+[00:17:37] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [skywars] has connected
+[00:17:37] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:35:06] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [hub] has connected
+[00:35:06] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:35:12] [Netty Worker IO Thread #9/INFO]: [Hallflower|/10.0.1.4:52649] <-> ServerConnector [hub] has connected
+[00:35:12] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [elytra] has connected
+[00:35:12] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:52649|Hallflower] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:35:12] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:35:15] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:52649|Hallflower] -> UpstreamBridge has disconnected
+[00:35:15] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:52649|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:35:22] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [hub] has connected
+[00:35:22] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [skywars] has disconnected
+[00:35:48] [Netty Worker IO Thread #16/INFO]: [/10.0.1.4:49690] <-> InitialHandler has pinged
+[00:35:50] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [elytra] has connected
+[00:35:50] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:35:51] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694] <-> InitialHandler has connected
+[00:35:51] [Netty Worker IO Thread #17/INFO]: [Hallflower|/10.0.1.4:49694] <-> ServerConnector [hub] has connected
+[00:36:03] [Netty Worker IO Thread #17/INFO]: [Hallflower|/10.0.1.4:49694] <-> ServerConnector [elytra] has connected
+[00:36:04] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:36:33] [Netty Worker IO Thread #18/INFO]: [/10.0.1.4:49729] <-> InitialHandler has pinged
+[00:39:16] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [hub] has connected
+[00:39:16] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [elytra] has disconnected
+[00:39:24] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [elytra] has connected
+[00:39:24] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:39:25] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [hub] has connected
+[00:39:26] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [elytra] has disconnected
+[00:39:35] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:62812] <-> ServerConnector [bedwars] has connected
+[00:39:35] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:39:37] [Netty Worker IO Thread #17/INFO]: [Hallflower|/10.0.1.4:49694] <-> ServerConnector [hub] has connected
+[00:39:37] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694|Hallflower] <-> DownstreamBridge <-> [elytra] has disconnected
+[00:39:45] [Netty Worker IO Thread #10/INFO]: [Math0424] disconnected with: BedWars1058 was RELOADED! (do not reload plugins)
+[00:39:45] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] -> UpstreamBridge has disconnected
+[00:39:45] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:62812|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:39:47] [Netty Worker IO Thread #17/INFO]: [Hallflower|/10.0.1.4:49694] <-> ServerConnector [bedwars] has connected
+[00:39:47] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:40:10] [Netty Worker IO Thread #17/INFO]: [Hallflower] disconnected with: Server closed
+[00:40:10] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694|Hallflower] -> UpstreamBridge has disconnected
+[00:40:10] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:49694|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:40:38] [Netty Worker IO Thread #20/INFO]: [/10.0.1.4:49886] <-> InitialHandler has connected
+[00:40:39] [Netty Worker IO Thread #20/INFO]: [Hallflower|/10.0.1.4:49886] <-> ServerConnector [hub] has connected
+[00:40:39] [Netty Worker IO Thread #21/INFO]: [/98.32.158.72:63031] <-> InitialHandler has connected
+[00:40:40] [Netty Worker IO Thread #21/INFO]: [Math0424|/98.32.158.72:63031] <-> ServerConnector [hub] has connected
+[00:40:54] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [hub] has connected
+[00:40:54] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [elytra] has disconnected
+[00:41:33] [Netty Worker IO Thread #21/INFO]: [Math0424|/98.32.158.72:63031] <-> ServerConnector [bedwars] has connected
+[00:41:33] [Netty Worker IO Thread #21/INFO]: [/98.32.158.72:63031|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:41:44] [Netty Worker IO Thread #20/INFO]: [Hallflower|/10.0.1.4:49886] <-> ServerConnector [bedwars] has connected
+[00:41:45] [Netty Worker IO Thread #20/INFO]: [/10.0.1.4:49886|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:42:13] [Netty Worker IO Thread #20/INFO]: [Hallflower] disconnected with: disconnect.spam
+[00:42:13] [Netty Worker IO Thread #20/INFO]: [/10.0.1.4:49886|Hallflower] -> UpstreamBridge has disconnected
+[00:42:13] [Netty Worker IO Thread #20/INFO]: [/10.0.1.4:49886|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:42:21] [Netty Worker IO Thread #22/INFO]: [/10.0.1.4:49948] <-> InitialHandler has connected
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: LuckPerms already has data for player 'Hallflower' - but this data is stored under a different UUID.
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: 'Hallflower' has previously used the unique ids [7f5086aa-78a3-319a-b085-a29c8ad98c44] but is now connecting with '26becbb5-f35b-49d6-8517-d7da5a95429e'
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:42:21] [LuckPerms Pool Thread #47/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:42:21] [Netty Worker IO Thread #22/INFO]: [Hallflower|/10.0.1.4:49948] <-> ServerConnector [hub] has connected
+[00:42:27] [Netty Worker IO Thread #22/INFO]: [Hallflower|/10.0.1.4:49948] <-> ServerConnector [bedwars] has connected
+[00:42:27] [Netty Worker IO Thread #22/INFO]: [/10.0.1.4:49948|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:43:26] [Netty Worker IO Thread #21/INFO]: [Math0424] disconnected with: disconnect.spam
+[00:43:27] [Netty Worker IO Thread #21/INFO]: [/98.32.158.72:63031|Math0424] -> UpstreamBridge has disconnected
+[00:43:27] [Netty Worker IO Thread #21/INFO]: [/98.32.158.72:63031|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:43:29] [Netty Worker IO Thread #23/INFO]: [/98.32.158.72:63072] <-> InitialHandler has connected
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:43:29] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:43:29] [Netty Worker IO Thread #23/INFO]: [Math0424|/98.32.158.72:63072] <-> ServerConnector [hub] has connected
+[00:43:35] [Netty Worker IO Thread #23/INFO]: [Math0424|/98.32.158.72:63072] <-> ServerConnector [bedwars] has connected
+[00:43:35] [Netty Worker IO Thread #23/INFO]: [/98.32.158.72:63072|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:43:49] [Netty Worker IO Thread #23/INFO]: [Math0424] disconnected with: disconnect.spam
+[00:43:49] [Netty Worker IO Thread #23/INFO]: [/98.32.158.72:63072|Math0424] -> UpstreamBridge has disconnected
+[00:43:49] [Netty Worker IO Thread #23/INFO]: [/98.32.158.72:63072|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:43:52] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076] <-> InitialHandler has connected
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:43:52] [LuckPerms Pool Thread #50/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:43:52] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [hub] has connected
+[00:43:58] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [bedwars] has connected
+[00:43:58] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:45:59] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [bedwars] has connected
+[00:45:59] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:46:13] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [hub] has connected
+[00:46:13] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:46:17] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman|/73.208.230.151:58544] <-> ServerConnector [bedwars] has connected
+[00:46:17] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:47:18] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 8ecf9137-494c-4d09-a2aa-d39ea5c5d68b
+[00:47:19] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [hub] has connected
+[00:47:19] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:47:24] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [bedwars] has connected
+[00:47:25] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:48:12] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: c85aa72e-1819-4a52-884e-b014d237d214
+[00:48:13] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [hub] has connected
+[00:48:13] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:48:16] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:63076] <-> ServerConnector [bedwars] has connected
+[00:48:16] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:51:05] [Netty Worker IO Thread #22/INFO]: [Hallflower] disconnected with: Server closed
+[00:51:05] [Netty Worker IO Thread #22/INFO]: [/10.0.1.4:49948|Hallflower] -> UpstreamBridge has disconnected
+[00:51:05] [Netty Worker IO Thread #22/INFO]: [/10.0.1.4:49948|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:51:05] [Netty Worker IO Thread #24/INFO]: [Math0424] disconnected with: Server closed
+[00:51:05] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] -> UpstreamBridge has disconnected
+[00:51:05] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:63076|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:51:06] [Netty Worker IO Thread #15/INFO]: [DavidTheStarman] disconnected with: [Proxy] Lost connection to server.
+[00:51:06] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:51:06] [Netty Worker IO Thread #15/INFO]: [/73.208.230.151:58544|DavidTheStarman] -> UpstreamBridge has disconnected
+[00:51:09] [Netty Worker IO Thread #25/INFO]: [/73.208.230.151:58933] <-> InitialHandler has pinged
+[00:51:09] [Netty Worker IO Thread #26/INFO]: [/73.208.230.151:58937] <-> InitialHandler has pinged
+[00:51:10] [Netty Worker IO Thread #27/INFO]: [/73.208.230.151:58939] <-> InitialHandler has connected
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: LuckPerms already has data for player 'DavidTheStarman' - but this data is stored under a different UUID.
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: 'DavidTheStarman' has previously used the unique ids [d1f252f3-7aa9-3257-af04-24c2610d892c] but is now connecting with 'a8570f8f-d7cd-4df3-b864-e7e5b5e71eb9'
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:51:11] [LuckPerms Pool Thread #59/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:51:11] [Netty Worker IO Thread #27/INFO]: [DavidTheStarman|/73.208.230.151:58939] <-> ServerConnector [hub] has connected
+[00:54:13] [Netty Worker IO Thread #27/INFO]: [/73.208.230.151:58939|DavidTheStarman] -> UpstreamBridge has disconnected
+[00:54:13] [Netty Worker IO Thread #27/INFO]: [/73.208.230.151:58939|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[00:54:14] [Netty Worker IO Thread #28/INFO]: [/73.208.230.151:58947] <-> InitialHandler has pinged
+[00:54:14] [Netty Worker IO Thread #29/INFO]: [/73.208.230.151:58951] <-> InitialHandler has pinged
+[00:54:36] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:63157] <-> InitialHandler has connected
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:54:37] [LuckPerms Pool Thread #62/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:54:37] [Netty Worker IO Thread #30/INFO]: [Math0424|/98.32.158.72:63157] <-> ServerConnector [hub] has connected
+[00:55:01] [Netty Worker IO Thread #30/INFO]: [Math0424|/98.32.158.72:63157] <-> ServerConnector [bedwars] has connected
+[00:55:02] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:63157|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:55:52] [Netty Worker IO Thread #30/INFO]: [Math0424] disconnected with: Server closed
+[00:55:52] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:63157|Math0424] -> UpstreamBridge has disconnected
+[00:55:52] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:63157|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:56:23] [Netty Worker IO Thread #31/INFO]: [/98.32.158.72:63190] <-> InitialHandler has connected
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:56:24] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:56:24] [Netty Worker IO Thread #31/INFO]: [Math0424|/98.32.158.72:63190] <-> ServerConnector [hub] has connected
+[00:56:47] [Netty Worker IO Thread #31/INFO]: [Math0424|/98.32.158.72:63190] <-> ServerConnector [bedwars] has connected
+[00:56:48] [Netty Worker IO Thread #31/INFO]: [/98.32.158.72:63190|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[00:56:57] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569] <-> InitialHandler has connected
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: LuckPerms already has data for player 'Hallflower' - but this data is stored under a different UUID.
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: 'Hallflower' has previously used the unique ids [7f5086aa-78a3-319a-b085-a29c8ad98c44] but is now connecting with '26becbb5-f35b-49d6-8517-d7da5a95429e'
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:56:57] [LuckPerms Pool Thread #65/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:56:57] [Netty Worker IO Thread #32/INFO]: [Hallflower|/10.0.1.4:50569] <-> ServerConnector [hub] has connected
+[00:57:10] [Netty Worker IO Thread #32/INFO]: [Hallflower|/10.0.1.4:50569] <-> ServerConnector [bedwars] has connected
+[00:57:10] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[00:57:47] [Netty Worker IO Thread #32/INFO]: [Hallflower|/10.0.1.4:50569] <-> ServerConnector [hub] has connected
+[00:57:47] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:58:10] [Netty Worker IO Thread #31/INFO]: [Math0424] disconnected with: Server closed
+[00:58:10] [Netty Worker IO Thread #31/INFO]: [/98.32.158.72:63190|Math0424] -> UpstreamBridge has disconnected
+[00:58:10] [Netty Worker IO Thread #31/INFO]: [/98.32.158.72:63190|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[00:59:08] [Netty Worker IO Thread #33/INFO]: [/98.32.158.72:63225] <-> InitialHandler has connected
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:59:08] [LuckPerms Pool Thread #69/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[00:59:08] [Netty Worker IO Thread #33/INFO]: [Math0424|/98.32.158.72:63225] <-> ServerConnector [hub] has connected
+[01:00:24] [Netty Worker IO Thread #33/INFO]: [Math0424|/98.32.158.72:63225] <-> ServerConnector [bedwars] has connected
+[01:00:25] [Netty Worker IO Thread #33/INFO]: [/98.32.158.72:63225|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:00:42] [Netty Worker IO Thread #32/INFO]: [Hallflower|/10.0.1.4:50569] <-> ServerConnector [bedwars] has connected
+[01:00:42] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:02:59] [Netty Worker IO Thread #33/INFO]: [Math0424] disconnected with: BedWars1058 was RELOADED! (do not reload plugins)
+[01:02:59] [Netty Worker IO Thread #33/INFO]: [/98.32.158.72:63225|Math0424] -> UpstreamBridge has disconnected
+[01:02:59] [Netty Worker IO Thread #33/INFO]: [/98.32.158.72:63225|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:02:59] [Netty Worker IO Thread #32/INFO]: [Hallflower] disconnected with: BedWars1058 was RELOADED! (do not reload plugins)
+[01:02:59] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569|Hallflower] -> UpstreamBridge has disconnected
+[01:02:59] [Netty Worker IO Thread #32/INFO]: [/10.0.1.4:50569|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:03:02] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249] <-> InitialHandler has connected
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[01:03:03] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[01:03:03] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:63249] <-> ServerConnector [hub] has connected
+[01:03:06] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:63249] <-> ServerConnector [bedwars] has connected
+[01:03:07] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:03:10] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768] <-> InitialHandler has connected
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: LuckPerms already has data for player 'Hallflower' - but this data is stored under a different UUID.
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: 'Hallflower' has previously used the unique ids [7f5086aa-78a3-319a-b085-a29c8ad98c44] but is now connecting with '26becbb5-f35b-49d6-8517-d7da5a95429e'
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[01:03:10] [LuckPerms Pool Thread #71/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[01:03:10] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [hub] has connected
+[01:03:16] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [bedwars] has connected
+[01:03:17] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:04:43] [Netty Worker IO Thread #36/INFO]: [/73.208.230.151:59169] <-> InitialHandler has pinged
+[01:04:43] [Netty Worker IO Thread #37/INFO]: [/73.208.230.151:59170] <-> InitialHandler has pinged
+[01:04:46] [Netty Worker IO Thread #38/INFO]: [/73.208.230.151:59172] <-> InitialHandler has connected
+[01:04:46] [Netty Worker IO Thread #38/INFO]: [DavidTheStarman|/73.208.230.151:59172] <-> ServerConnector [hub] has connected
+[01:04:55] [Netty Worker IO Thread #38/INFO]: [/73.208.230.151:59172|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:04:55] [Netty Worker IO Thread #38/INFO]: [/73.208.230.151:59172|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:04:55] [Netty Worker IO Thread #39/INFO]: [/73.208.230.151:59178] <-> InitialHandler has pinged
+[01:04:55] [Netty Worker IO Thread #40/INFO]: [/73.208.230.151:59180] <-> InitialHandler has pinged
+[01:06:16] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:63249] <-> ServerConnector [hub] has connected
+[01:06:16] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:06:24] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [hub] has connected
+[01:06:24] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:09:21] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:63249] <-> ServerConnector [bedwars] has connected
+[01:09:22] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:09:52] [Netty Worker IO Thread #34/INFO]: [Math0424] disconnected with: Server closed
+[01:09:52] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249|Math0424] -> UpstreamBridge has disconnected
+[01:09:52] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:63249|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:11:06] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291] <-> InitialHandler has connected
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: LuckPerms already has data for player 'Math0424' - but this data is stored under a different UUID.
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: 'Math0424' has previously used the unique ids [94036a12-7e71-397f-a8ad-a6fc249da380] but is now connecting with '79b308d7-618a-4acf-8123-3b5b0f25d949'
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[01:11:07] [LuckPerms Pool Thread #80/WARN] [LuckPerms]: See here for more info: https://github.com/lucko/LuckPerms/wiki/Network-Installation#pre-setup
+[01:11:07] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [hub] has connected
+[01:11:14] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has connected
+[01:11:14] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has disconnected
+[01:11:16] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [bedwars] has connected
+[01:11:17] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:11:17] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has connected
+[01:11:18] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:12:05] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [hub] has connected
+[01:12:05] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:12:09] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [pvp] has connected
+[01:12:10] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:12:11] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [hub] has connected
+[01:12:12] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:12:15] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [hub] has connected
+[01:12:15] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [pvp] has disconnected
+[01:12:19] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has connected
+[01:12:19] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:12:35] [Netty Worker IO Thread #42/INFO]: [/73.208.230.151:59384] <-> InitialHandler has pinged
+[01:12:35] [Netty Worker IO Thread #43/INFO]: [/73.208.230.151:59388] <-> InitialHandler has pinged
+[01:12:36] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389] <-> InitialHandler has connected
+[01:12:37] [Netty Worker IO Thread #44/INFO]: [DavidTheStarman|/73.208.230.151:59389] <-> ServerConnector [hub] has connected
+[01:13:40] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [hub] has connected
+[01:13:40] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:13:43] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has connected
+[01:13:44] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:13:45] [Netty Worker IO Thread #35/INFO]: [Hallflower|/10.0.1.4:50768] <-> ServerConnector [bedwars] has connected
+[01:13:45] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:13:49] [Netty Worker IO Thread #44/INFO]: [DavidTheStarman|/73.208.230.151:59389] <-> ServerConnector [bedwars] has connected
+[01:13:50] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:14:37] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: f0ebb1b7-39c7-45e5-9f29-48f15afa2908
+[01:15:13] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 3311c554-3c0a-490d-92e8-794861637fed
+[01:15:18] [Netty Worker IO Thread #35/INFO]: [Hallflower] disconnected with: disconnect.spam
+[01:15:18] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] -> UpstreamBridge has disconnected
+[01:15:18] [Netty Worker IO Thread #35/INFO]: [/10.0.1.4:50768|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:15:26] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [hub] has connected
+[01:15:27] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:15:31] [Netty Worker IO Thread #44/INFO]: [DavidTheStarman|/73.208.230.151:59389] <-> ServerConnector [hub] has connected
+[01:15:31] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:15:32] [Netty Worker IO Thread #41/INFO]: [Math0424|/98.32.158.72:63291] <-> ServerConnector [bedwars] has connected
+[01:15:32] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:15:35] [Netty Worker IO Thread #44/INFO]: [DavidTheStarman|/73.208.230.151:59389] <-> ServerConnector [bedwars] has connected
+[01:15:35] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:15:44] [Netty Worker IO Thread #45/INFO]: [/10.0.1.4:51671] <-> InitialHandler has pinged
+[01:15:48] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672] <-> InitialHandler has connected
+[01:15:49] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [hub] has connected
+[01:16:02] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [bedwars] has connected
+[01:16:03] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:17:24] [Netty Worker IO Thread #44/INFO]: [DavidTheStarman] disconnected with: disconnect.spam
+[01:17:24] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:17:24] [Netty Worker IO Thread #44/INFO]: [/73.208.230.151:59389|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:17:27] [Netty Worker IO Thread #47/INFO]: [/73.208.230.151:59404] <-> InitialHandler has connected
+[01:17:27] [Netty Worker IO Thread #47/INFO]: [DavidTheStarman|/73.208.230.151:59404] <-> ServerConnector [hub] has connected
+[01:17:34] [Netty Worker IO Thread #47/INFO]: [DavidTheStarman|/73.208.230.151:59404] <-> ServerConnector [bedwars] has connected
+[01:17:34] [Netty Worker IO Thread #47/INFO]: [/73.208.230.151:59404|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:19:47] [Netty Worker IO Thread #47/INFO]: [DavidTheStarman] disconnected with: disconnect.spam
+[01:19:47] [Netty Worker IO Thread #47/INFO]: [/73.208.230.151:59404|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:19:47] [Netty Worker IO Thread #47/INFO]: [/73.208.230.151:59404|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:19:49] [Netty Worker IO Thread #48/INFO]: [/73.208.230.151:59409] <-> InitialHandler has connected
+[01:19:50] [Netty Worker IO Thread #48/INFO]: [DavidTheStarman|/73.208.230.151:59409] <-> ServerConnector [hub] has connected
+[01:19:53] [Netty Worker IO Thread #48/INFO]: [DavidTheStarman|/73.208.230.151:59409] <-> ServerConnector [bedwars] has connected
+[01:19:53] [Netty Worker IO Thread #48/INFO]: [/73.208.230.151:59409|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:24:12] [Netty Worker IO Thread #41/INFO]: [Math0424] disconnected with: disconnect.spam
+[01:24:12] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] -> UpstreamBridge has disconnected
+[01:24:12] [Netty Worker IO Thread #41/INFO]: [/98.32.158.72:63291|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:24:47] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436] <-> InitialHandler has connected
+[01:24:47] [Netty Worker IO Thread #49/INFO]: [Math0424|/98.32.158.72:63436] <-> ServerConnector [hub] has connected
+[01:24:51] [Netty Worker IO Thread #50/INFO]: [/98.32.158.72:63446] <-> InitialHandler has pinged
+[01:25:11] [Netty Worker IO Thread #48/INFO]: [DavidTheStarman] disconnected with: disconnect.spam
+[01:25:11] [Netty Worker IO Thread #48/INFO]: [/73.208.230.151:59409|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:25:11] [Netty Worker IO Thread #48/INFO]: [/73.208.230.151:59409|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:25:13] [Netty Worker IO Thread #51/INFO]: [/73.208.230.151:59434] <-> InitialHandler has connected
+[01:25:14] [Netty Worker IO Thread #51/INFO]: [DavidTheStarman|/73.208.230.151:59434] <-> ServerConnector [hub] has connected
+[01:25:17] [Netty Worker IO Thread #51/INFO]: [DavidTheStarman|/73.208.230.151:59434] <-> ServerConnector [bedwars] has connected
+[01:25:17] [Netty Worker IO Thread #51/INFO]: [/73.208.230.151:59434|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:25:55] [Netty Worker IO Thread #49/INFO]: [Math0424|/98.32.158.72:63436] <-> ServerConnector [bedwars] has connected
+[01:25:55] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:30:42] [Netty Worker IO Thread #51/INFO]: [DavidTheStarman] disconnected with: disconnect.spam
+[01:30:42] [Netty Worker IO Thread #51/INFO]: [/73.208.230.151:59434|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:30:42] [Netty Worker IO Thread #51/INFO]: [/73.208.230.151:59434|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:30:44] [Netty Worker IO Thread #52/INFO]: [/73.208.230.151:59448] <-> InitialHandler has pinged
+[01:30:44] [Netty Worker IO Thread #53/INFO]: [/73.208.230.151:59451] <-> InitialHandler has pinged
+[01:30:45] [Netty Worker IO Thread #54/INFO]: [/73.208.230.151:59452] <-> InitialHandler has connected
+[01:30:45] [Netty Worker IO Thread #54/INFO]: [DavidTheStarman|/73.208.230.151:59452] <-> ServerConnector [hub] has connected
+[01:30:50] [Netty Worker IO Thread #54/INFO]: [DavidTheStarman|/73.208.230.151:59452] <-> ServerConnector [bedwars] has connected
+[01:30:50] [Netty Worker IO Thread #54/INFO]: [/73.208.230.151:59452|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:32:55] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [hub] has connected
+[01:32:55] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:33:07] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [bedwars] has connected
+[01:33:07] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:33:14] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [hub] has connected
+[01:33:14] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:33:27] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [bedwars] has connected
+[01:33:27] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:38:36] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [hub] has connected
+[01:38:36] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:41:08] [Netty Worker IO Thread #49/INFO]: [Math0424|/98.32.158.72:63436] <-> ServerConnector [hub] has connected
+[01:41:08] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:41:08] [Netty Worker IO Thread #46/INFO]: [Hallflower|/10.0.1.4:51672] <-> ServerConnector [bedwars] has connected
+[01:41:09] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:41:18] [Netty Worker IO Thread #54/INFO]: [DavidTheStarman] disconnected with: Server closed
+[01:41:18] [Netty Worker IO Thread #54/INFO]: [/73.208.230.151:59452|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:41:18] [Netty Worker IO Thread #54/INFO]: [/73.208.230.151:59452|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:41:19] [Netty Worker IO Thread #46/WARN]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[01:41:19] [Netty Worker IO Thread #46/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[01:41:19] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] -> UpstreamBridge has disconnected
+[01:41:19] [Netty Worker IO Thread #46/INFO]: [/10.0.1.4:51672|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:41:33] [Netty Worker IO Thread #55/INFO]: [/73.208.230.151:59476] <-> InitialHandler has pinged
+[01:41:33] [Netty Worker IO Thread #56/INFO]: [/73.208.230.151:59478] <-> InitialHandler has pinged
+[01:41:33] [Netty Worker IO Thread #57/INFO]: [/73.208.230.151:59480] <-> InitialHandler has connected
+[01:41:34] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [hub] has connected
+[01:42:02] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [bedwars] has connected
+[01:42:02] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [bedwars] has disconnected
+[01:42:02] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [bedwars] has connected
+[01:42:03] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [bedwars] has disconnected
+[01:42:06] [Netty Worker IO Thread #58/INFO]: [/10.0.1.4:52665] <-> InitialHandler has pinged
+[01:42:10] [Netty Worker IO Thread #59/INFO]: [/10.0.1.4:52673] <-> InitialHandler has connected
+[01:42:10] [Netty Worker IO Thread #59/INFO]: [Hallflower|/10.0.1.4:52673] <-> ServerConnector [hub] has connected
+[01:42:19] [Netty Worker IO Thread #57/INFO]: [DavidTheStarman|/73.208.230.151:59480] <-> ServerConnector [bedwars] has connected
+[01:42:19] [Netty Worker IO Thread #57/INFO]: [/73.208.230.151:59480|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:42:28] [Netty Worker IO Thread #59/INFO]: [Hallflower|/10.0.1.4:52673] <-> ServerConnector [bedwars] has connected
+[01:42:28] [Netty Worker IO Thread #59/INFO]: [/10.0.1.4:52673|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:42:51] [Netty Worker IO Thread #60/INFO]: [/10.0.1.4:52706] <-> InitialHandler has pinged
+[01:44:13] [Netty Worker IO Thread #49/INFO]: [Math0424|/98.32.158.72:63436] <-> ServerConnector [bedwars] has connected
+[01:44:13] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:47:04] [Netty Worker IO Thread #57/INFO]: [/73.208.230.151:59480|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:47:04] [Netty Worker IO Thread #57/INFO]: [/73.208.230.151:59480|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:47:04] [Netty Worker IO Thread #61/INFO]: [/73.208.230.151:59504] <-> InitialHandler has pinged
+[01:47:04] [Netty Worker IO Thread #62/INFO]: [/73.208.230.151:59508] <-> InitialHandler has pinged
+[01:47:05] [Netty Worker IO Thread #63/INFO]: [/73.208.230.151:59510] <-> InitialHandler has connected
+[01:47:05] [Netty Worker IO Thread #63/INFO]: [DavidTheStarman|/73.208.230.151:59510] <-> ServerConnector [hub] has connected
+[01:47:09] [Netty Worker IO Thread #63/INFO]: [DavidTheStarman|/73.208.230.151:59510] <-> ServerConnector [bedwars] has connected
+[01:47:09] [Netty Worker IO Thread #63/INFO]: [/73.208.230.151:59510|DavidTheStarman] <-> DownstreamBridge <-> [hub] has disconnected
+[01:50:55] [Netty Worker IO Thread #59/INFO]: [/10.0.1.4:52673|Hallflower] -> UpstreamBridge has disconnected
+[01:50:55] [Netty Worker IO Thread #59/INFO]: [/10.0.1.4:52673|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:51:00] [Netty Worker IO Thread #0/INFO]: [/10.0.1.4:53042] <-> InitialHandler has pinged
+[01:51:12] [Netty Worker IO Thread #1/INFO]: [/10.0.1.4:53056] <-> InitialHandler has connected
+[01:51:12] [Netty Worker IO Thread #1/INFO]: [Hallflower|/10.0.1.4:53056] <-> ServerConnector [hub] has connected
+[01:51:32] [Netty Worker IO Thread #1/INFO]: [Hallflower|/10.0.1.4:53056] <-> ServerConnector [bedwars] has connected
+[01:51:32] [Netty Worker IO Thread #1/INFO]: [/10.0.1.4:53056|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:51:45] [Netty Worker IO Thread #2/INFO]: [/10.0.1.4:53110] <-> InitialHandler has pinged
+[01:51:46] [Netty Worker IO Thread #63/INFO]: [/73.208.230.151:59510|DavidTheStarman] -> UpstreamBridge has disconnected
+[01:51:46] [Netty Worker IO Thread #63/INFO]: [/73.208.230.151:59510|DavidTheStarman] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:51:46] [Netty Worker IO Thread #3/INFO]: [/73.208.230.151:59522] <-> InitialHandler has pinged
+[01:51:46] [Netty Worker IO Thread #4/INFO]: [/73.208.230.151:59524] <-> InitialHandler has pinged
+[01:53:56] [Netty Worker IO Thread #1/INFO]: [Hallflower] disconnected with: Server closed
+[01:53:56] [Netty Worker IO Thread #1/INFO]: [/10.0.1.4:53056|Hallflower] -> UpstreamBridge has disconnected
+[01:53:56] [Netty Worker IO Thread #1/INFO]: [/10.0.1.4:53056|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:53:56] [Netty Worker IO Thread #49/WARN]: [/98.32.158.72:63436|Math0424] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[01:53:56] [Netty Worker IO Thread #49/INFO]: [Math0424] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[01:53:56] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436|Math0424] -> UpstreamBridge has disconnected
+[01:53:56] [Netty Worker IO Thread #49/INFO]: [/98.32.158.72:63436|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:53:58] [Netty Worker IO Thread #5/INFO]: [/98.32.158.72:63822] <-> InitialHandler has connected
+[01:53:58] [Netty Worker IO Thread #5/INFO]: [Math0424|/98.32.158.72:63822] <-> ServerConnector [hub] has connected
+[01:54:11] [Netty Worker IO Thread #6/INFO]: [/10.0.1.4:53225] <-> InitialHandler has connected
+[01:54:11] [Netty Worker IO Thread #6/INFO]: [Hallflower|/10.0.1.4:53225] <-> ServerConnector [hub] has connected
+[01:54:22] [Netty Worker IO Thread #5/INFO]: [Math0424|/98.32.158.72:63822] <-> ServerConnector [bedwars] has connected
+[01:54:23] [Netty Worker IO Thread #5/INFO]: [/98.32.158.72:63822|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:54:26] [Netty Worker IO Thread #6/INFO]: [Hallflower|/10.0.1.4:53225] <-> ServerConnector [bedwars] has connected
+[01:54:27] [Netty Worker IO Thread #6/INFO]: [/10.0.1.4:53225|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[01:58:06] [Netty Worker IO Thread #5/INFO]: [Math0424] disconnected with: Flying is not enabled on this server
+[01:58:06] [Netty Worker IO Thread #5/INFO]: [/98.32.158.72:63822|Math0424] -> UpstreamBridge has disconnected
+[01:58:06] [Netty Worker IO Thread #5/INFO]: [/98.32.158.72:63822|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[01:58:08] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876] <-> InitialHandler has connected
+[01:58:09] [Netty Worker IO Thread #7/INFO]: [Math0424|/98.32.158.72:63876] <-> ServerConnector [hub] has connected
+[01:58:11] [Netty Worker IO Thread #7/INFO]: [Math0424|/98.32.158.72:63876] <-> ServerConnector [pvp] has connected
+[01:58:11] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[01:58:15] [Netty Worker IO Thread #7/INFO]: [Math0424|/98.32.158.72:63876] <-> ServerConnector [hub] has connected
+[01:58:15] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876|Math0424] <-> DownstreamBridge <-> [pvp] has disconnected
+[01:58:18] [Netty Worker IO Thread #7/INFO]: [Math0424|/98.32.158.72:63876] <-> ServerConnector [bedwars] has connected
+[01:58:18] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:05:14] [Netty Worker IO Thread #7/INFO]: [Math0424] disconnected with: Server closed
+[02:05:14] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876|Math0424] -> UpstreamBridge has disconnected
+[02:05:14] [Netty Worker IO Thread #7/INFO]: [/98.32.158.72:63876|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:05:15] [Netty Worker IO Thread #6/WARN]: [/10.0.1.4:53225|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[02:05:15] [Netty Worker IO Thread #6/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[02:05:15] [Netty Worker IO Thread #6/INFO]: [/10.0.1.4:53225|Hallflower] -> UpstreamBridge has disconnected
+[02:05:15] [Netty Worker IO Thread #6/INFO]: [/10.0.1.4:53225|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:05:15] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:63928] <-> InitialHandler has connected
+[02:05:16] [Netty Worker IO Thread #8/INFO]: [Math0424|/98.32.158.72:63928] <-> ServerConnector [hub] has connected
+[02:05:27] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:53702] <-> InitialHandler has connected
+[02:05:27] [Netty Worker IO Thread #9/INFO]: [Hallflower|/10.0.1.4:53702] <-> ServerConnector [hub] has connected
+[02:08:00] [Netty Worker IO Thread #8/INFO]: [Math0424|/98.32.158.72:63928] <-> ServerConnector [bedwars] has connected
+[02:08:01] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:63928|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:08:40] [Netty Worker IO Thread #8/INFO]: [Math0424] disconnected with: Server closed
+[02:08:40] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:63928|Math0424] -> UpstreamBridge has disconnected
+[02:08:40] [Netty Worker IO Thread #8/INFO]: [/98.32.158.72:63928|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:08:41] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:63965] <-> InitialHandler has connected
+[02:08:42] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:63965] <-> ServerConnector [hub] has connected
+[02:09:42] [Netty Worker IO Thread #10/INFO]: [Math0424|/98.32.158.72:63965] <-> ServerConnector [bedwars] has connected
+[02:09:43] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:63965|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:09:45] [Netty Worker IO Thread #9/INFO]: [Hallflower|/10.0.1.4:53702] <-> ServerConnector [bedwars] has connected
+[02:09:45] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:53702|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[02:19:16] [Netty Worker IO Thread #10/INFO]: [Math0424] disconnected with: Server closed
+[02:19:16] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:63965|Math0424] -> UpstreamBridge has disconnected
+[02:19:16] [Netty Worker IO Thread #10/INFO]: [/98.32.158.72:63965|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:19:17] [Netty Worker IO Thread #9/WARN]: [/10.0.1.4:53702|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[02:19:17] [Netty Worker IO Thread #9/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[02:19:17] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:53702|Hallflower] -> UpstreamBridge has disconnected
+[02:19:17] [Netty Worker IO Thread #9/INFO]: [/10.0.1.4:53702|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:21:35] [Netty Worker IO Thread #11/INFO]: [/10.0.1.4:54341] <-> InitialHandler has connected
+[02:21:35] [Netty Worker IO Thread #11/INFO]: [Hallflower|/10.0.1.4:54341] <-> ServerConnector [hub] has connected
+[02:22:56] [Netty Worker IO Thread #12/INFO]: [/98.32.158.72:64110] <-> InitialHandler has connected
+[02:22:57] [Netty Worker IO Thread #12/INFO]: [Math0424|/98.32.158.72:64110] <-> ServerConnector [hub] has connected
+[02:23:20] [Netty Worker IO Thread #12/INFO]: [Math0424|/98.32.158.72:64110] <-> ServerConnector [bedwars] has connected
+[02:23:20] [Netty Worker IO Thread #12/INFO]: [/98.32.158.72:64110|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:23:29] [Netty Worker IO Thread #11/INFO]: [Hallflower|/10.0.1.4:54341] <-> ServerConnector [bedwars] has connected
+[02:23:29] [Netty Worker IO Thread #11/INFO]: [/10.0.1.4:54341|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[02:24:08] [Netty Worker IO Thread #12/INFO]: [Math0424] disconnected with: Server closed
+[02:24:08] [Netty Worker IO Thread #12/INFO]: [/98.32.158.72:64110|Math0424] -> UpstreamBridge has disconnected
+[02:24:08] [Netty Worker IO Thread #12/INFO]: [/98.32.158.72:64110|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:24:09] [Netty Worker IO Thread #11/WARN]: [/10.0.1.4:54341|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[02:24:09] [Netty Worker IO Thread #11/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[02:24:09] [Netty Worker IO Thread #11/INFO]: [/10.0.1.4:54341|Hallflower] -> UpstreamBridge has disconnected
+[02:24:09] [Netty Worker IO Thread #11/INFO]: [/10.0.1.4:54341|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:24:16] [Netty Worker IO Thread #13/INFO]: [/10.0.1.4:54447] <-> InitialHandler has connected
+[02:24:16] [Netty Worker IO Thread #13/INFO]: [Hallflower|/10.0.1.4:54447] <-> ServerConnector [hub] has connected
+[02:24:37] [Netty Worker IO Thread #14/INFO]: [/98.32.158.72:64131] <-> InitialHandler has connected
+[02:24:37] [Netty Worker IO Thread #14/INFO]: [Math0424|/98.32.158.72:64131] <-> ServerConnector [hub] has connected
+[02:28:44] [Netty Worker IO Thread #13/INFO]: [/10.0.1.4:54447|Hallflower] -> UpstreamBridge has disconnected
+[02:28:44] [Netty Worker IO Thread #13/INFO]: [/10.0.1.4:54447|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[02:28:49] [Netty Worker IO Thread #15/INFO]: [/10.0.1.4:54611] <-> InitialHandler has pinged
+[02:29:33] [Netty Worker IO Thread #16/INFO]: [/10.0.1.4:54668] <-> InitialHandler has pinged
+[02:31:26] [Netty Worker IO Thread #14/INFO]: [/98.32.158.72:64131|Math0424] -> UpstreamBridge has disconnected
+[02:31:26] [Netty Worker IO Thread #14/INFO]: [/98.32.158.72:64131|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:31:37] [Netty Worker IO Thread #17/INFO]: [/10.0.1.4:54791] <-> InitialHandler has pinged
+[02:31:41] [Netty Worker IO Thread #18/INFO]: [/98.32.158.72:64212] <-> InitialHandler has pinged
+[02:31:47] [Netty Worker IO Thread #19/INFO]: [/98.32.158.72:64225] <-> InitialHandler has connected
+[02:31:47] [Netty Worker IO Thread #19/INFO]: [Math0424|/98.32.158.72:64225] <-> ServerConnector [hub] has connected
+[02:32:02] [Netty Worker IO Thread #20/INFO]: [/98.32.158.72:64232] <-> InitialHandler has pinged
+[02:32:21] [Netty Worker IO Thread #21/INFO]: [/10.0.1.4:54883] <-> InitialHandler has pinged
+[02:34:59] [Netty Worker IO Thread #19/INFO]: [/98.32.158.72:64225|Math0424] -> UpstreamBridge has disconnected
+[02:34:59] [Netty Worker IO Thread #19/INFO]: [/98.32.158.72:64225|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:35:00] [Netty Worker IO Thread #22/INFO]: [/98.32.158.72:64258] <-> InitialHandler has pinged
+[02:35:21] [Netty Worker IO Thread #23/INFO]: [/98.32.158.72:64284] <-> InitialHandler has pinged
+[02:38:11] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300] <-> InitialHandler has connected
+[02:38:11] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [hub] has connected
+[02:40:47] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [pvp] has connected
+[02:40:47] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:40:54] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [hub] has connected
+[02:40:54] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [pvp] has disconnected
+[02:46:26] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [bedwars] has connected
+[02:46:26] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:47:35] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 8a49a7d4-83f1-4f31-bb91-b9ccde47e463
+[02:48:12] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [hub] has connected
+[02:48:12] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:48:12] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: ea66c138-815e-4a89-a9d0-09557bd2f2e0
+[02:48:18] [Netty Worker IO Thread #24/INFO]: [Math0424|/98.32.158.72:64300] <-> ServerConnector [bedwars] has connected
+[02:48:18] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:48:45] [Netty Worker IO Thread #25/INFO]: [/10.0.1.4:55628] <-> InitialHandler has pinged
+[02:48:48] [Netty Worker IO Thread #26/INFO]: [/10.0.1.4:55632] <-> InitialHandler has connected
+[02:48:49] [Netty Worker IO Thread #26/INFO]: [Hallflower|/10.0.1.4:55632] <-> ServerConnector [hub] has connected
+[02:49:05] [Netty Worker IO Thread #26/INFO]: [Hallflower|/10.0.1.4:55632] <-> ServerConnector [bedwars] has connected
+[02:49:05] [Netty Worker IO Thread #26/INFO]: [/10.0.1.4:55632|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[02:49:30] [Netty Worker IO Thread #27/INFO]: [/10.0.1.4:55673] <-> InitialHandler has pinged
+[02:52:08] [Netty Worker IO Thread #24/INFO]: [Math0424] disconnected with: Server closed
+[02:52:08] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] -> UpstreamBridge has disconnected
+[02:52:08] [Netty Worker IO Thread #24/INFO]: [/98.32.158.72:64300|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:52:09] [Netty Worker IO Thread #26/WARN]: [/10.0.1.4:55632|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[02:52:09] [Netty Worker IO Thread #26/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[02:52:09] [Netty Worker IO Thread #26/INFO]: [/10.0.1.4:55632|Hallflower] -> UpstreamBridge has disconnected
+[02:52:09] [Netty Worker IO Thread #26/INFO]: [/10.0.1.4:55632|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:52:10] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528] <-> InitialHandler has connected
+[02:52:10] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [hub] has connected
+[02:52:20] [Netty Worker IO Thread #29/INFO]: [/10.0.1.4:55773] <-> InitialHandler has connected
+[02:52:20] [Netty Worker IO Thread #29/INFO]: [Hallflower|/10.0.1.4:55773] <-> ServerConnector [hub] has connected
+[02:53:25] [Netty Worker IO Thread #29/INFO]: [Hallflower|/10.0.1.4:55773] <-> ServerConnector [bedwars] has connected
+[02:53:25] [Netty Worker IO Thread #29/INFO]: [/10.0.1.4:55773|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[02:53:25] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [bedwars] has connected
+[02:53:25] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:54:14] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 5b65d27d-8cd4-4df5-81e2-aadfd8065b29
+[02:55:20] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [hub] has connected
+[02:55:20] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:55:21] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 66053521-3cfc-4716-af29-9189c28795e9
+[02:55:23] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [bedwars] has connected
+[02:55:24] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:56:13] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [hub] has connected
+[02:56:13] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[02:56:15] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 1baddeb4-7941-4520-beb7-87e1e345eead
+[02:56:17] [Netty Worker IO Thread #28/INFO]: [Math0424|/98.32.158.72:64528] <-> ServerConnector [bedwars] has connected
+[02:56:17] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[02:57:37] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: b6d45d14-728d-437a-81cf-2107d432b6aa
+[03:04:41] [Netty Worker IO Thread #28/INFO]: [Math0424] disconnected with: Flying is not enabled on this server
+[03:04:41] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] -> UpstreamBridge has disconnected
+[03:04:41] [Netty Worker IO Thread #28/INFO]: [/98.32.158.72:64528|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:04:43] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:64606] <-> InitialHandler has connected
+[03:04:44] [Netty Worker IO Thread #30/INFO]: [Math0424|/98.32.158.72:64606] <-> ServerConnector [hub] has connected
+[03:04:48] [Netty Worker IO Thread #29/INFO]: [Hallflower] disconnected with: Server closed
+[03:04:48] [Netty Worker IO Thread #29/INFO]: [/10.0.1.4:55773|Hallflower] -> UpstreamBridge has disconnected
+[03:04:48] [Netty Worker IO Thread #29/INFO]: [/10.0.1.4:55773|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:06:47] [Netty Worker IO Thread #30/INFO]: [Math0424|/98.32.158.72:64606] <-> ServerConnector [bedwars] has connected
+[03:06:47] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:64606|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:06:49] [Netty Worker IO Thread #31/INFO]: [/10.0.1.4:56492] <-> InitialHandler has connected
+[03:06:49] [Netty Worker IO Thread #31/INFO]: [Hallflower|/10.0.1.4:56492] <-> ServerConnector [hub] has connected
+[03:06:56] [Netty Worker IO Thread #31/INFO]: [Hallflower|/10.0.1.4:56492] <-> ServerConnector [bedwars] has connected
+[03:06:56] [Netty Worker IO Thread #31/INFO]: [/10.0.1.4:56492|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[03:15:53] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652] <-> InitialHandler has connected
+[03:15:53] [Netty Worker IO Thread #32/INFO]: [Math0424] disconnected with: You are already connected to this proxy!
+[03:15:53] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:64606|Math0424] -> UpstreamBridge has disconnected
+[03:15:53] [Netty Worker IO Thread #30/INFO]: [/98.32.158.72:64606|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:15:53] [Netty Worker IO Thread #32/INFO]: [Math0424|/98.32.158.72:64652] <-> ServerConnector [hub] has connected
+[03:15:57] [Netty Worker IO Thread #32/INFO]: [Math0424|/98.32.158.72:64652] <-> ServerConnector [pvp] has connected
+[03:15:57] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:15:59] [Netty Worker IO Thread #32/INFO]: [Math0424|/98.32.158.72:64652] <-> ServerConnector [hub] has connected
+[03:15:59] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652|Math0424] <-> DownstreamBridge <-> [pvp] has disconnected
+[03:16:04] [Netty Worker IO Thread #31/INFO]: [Hallflower] disconnected with: Server closed
+[03:16:04] [Netty Worker IO Thread #31/INFO]: [/10.0.1.4:56492|Hallflower] -> UpstreamBridge has disconnected
+[03:16:04] [Netty Worker IO Thread #31/INFO]: [/10.0.1.4:56492|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:16:30] [Netty Worker IO Thread #33/INFO]: [/10.0.1.4:57065] <-> InitialHandler has connected
+[03:16:31] [Netty Worker IO Thread #33/INFO]: [Hallflower|/10.0.1.4:57065] <-> ServerConnector [hub] has connected
+[03:19:57] [Netty Worker IO Thread #32/INFO]: [Math0424|/98.32.158.72:64652] <-> ServerConnector [bedwars] has connected
+[03:19:59] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:20:44] [LuckPerms Pool Thread #3/INFO] [LuckPerms]: [Messaging] Received update ping with id: 6e87fcbc-920a-45e4-a4f2-83ffaab13ed5
+[03:20:47] [Netty Worker IO Thread #32/INFO]: [Math0424] disconnected with: Server closed
+[03:20:47] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652|Math0424] -> UpstreamBridge has disconnected
+[03:20:47] [Netty Worker IO Thread #32/INFO]: [/98.32.158.72:64652|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:20:49] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:64698] <-> InitialHandler has connected
+[03:20:49] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:64698] <-> ServerConnector [hub] has connected
+[03:21:23] [Netty Worker IO Thread #34/INFO]: [Math0424|/98.32.158.72:64698] <-> ServerConnector [bedwars] has connected
+[03:21:23] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:64698|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:21:28] [Netty Worker IO Thread #33/INFO]: [Hallflower|/10.0.1.4:57065] <-> ServerConnector [bedwars] has connected
+[03:21:28] [Netty Worker IO Thread #33/INFO]: [/10.0.1.4:57065|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[03:30:02] [Netty Worker IO Thread #34/INFO]: [Math0424] disconnected with: Server closed
+[03:30:02] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:64698|Math0424] -> UpstreamBridge has disconnected
+[03:30:02] [Netty Worker IO Thread #34/INFO]: [/98.32.158.72:64698|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:30:03] [Netty Worker IO Thread #33/WARN]: [/10.0.1.4:57065|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[03:30:03] [Netty Worker IO Thread #33/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[03:30:03] [Netty Worker IO Thread #33/INFO]: [/10.0.1.4:57065|Hallflower] -> UpstreamBridge has disconnected
+[03:30:03] [Netty Worker IO Thread #33/INFO]: [/10.0.1.4:57065|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:30:04] [Netty Worker IO Thread #35/INFO]: [/98.32.158.72:64831] <-> InitialHandler has connected
+[03:30:04] [Netty Worker IO Thread #35/INFO]: [Math0424|/98.32.158.72:64831] <-> ServerConnector [hub] has connected
+[03:30:24] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808] <-> InitialHandler has connected
+[03:30:25] [Netty Worker IO Thread #36/INFO]: [Hallflower|/10.0.1.4:57808] <-> ServerConnector [hub] has connected
+[03:32:39] [Netty Worker IO Thread #35/INFO]: [Math0424|/98.32.158.72:64831] <-> ServerConnector [bedwars] has connected
+[03:32:39] [Netty Worker IO Thread #35/INFO]: [/98.32.158.72:64831|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:33:48] [Netty Worker IO Thread #36/INFO]: [Hallflower|/10.0.1.4:57808] <-> ServerConnector [bedwars] has connected
+[03:33:48] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[03:36:18] [Netty Worker IO Thread #36/INFO]: [Hallflower|/10.0.1.4:57808] <-> ServerConnector [hub] has connected
+[03:36:18] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:36:28] [Netty Worker IO Thread #36/INFO]: [Hallflower|/10.0.1.4:57808] <-> ServerConnector [bedwars] has connected
+[03:36:28] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[03:39:36] [Netty Worker IO Thread #35/INFO]: [/98.32.158.72:64831|Math0424] -> UpstreamBridge has disconnected
+[03:39:36] [Netty Worker IO Thread #35/INFO]: [/98.32.158.72:64831|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:39:53] [Netty Worker IO Thread #37/INFO]: [/98.32.158.72:64926] <-> InitialHandler has connected
+[03:39:53] [Netty Worker IO Thread #37/INFO]: [Math0424|/98.32.158.72:64926] <-> ServerConnector [hub] has connected
+[03:39:58] [Netty Worker IO Thread #38/INFO]: [/98.32.158.72:64933] <-> InitialHandler has pinged
+[03:40:01] [Netty Worker IO Thread #37/INFO]: [Math0424|/98.32.158.72:64926] <-> ServerConnector [bedwars] has connected
+[03:40:01] [Netty Worker IO Thread #37/INFO]: [/98.32.158.72:64926|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:46:11] [Netty Worker IO Thread #37/INFO]: [Math0424] disconnected with: Server closed
+[03:46:11] [Netty Worker IO Thread #37/INFO]: [/98.32.158.72:64926|Math0424] -> UpstreamBridge has disconnected
+[03:46:11] [Netty Worker IO Thread #37/INFO]: [/98.32.158.72:64926|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:46:12] [Netty Worker IO Thread #36/WARN]: [/10.0.1.4:57808|Hallflower] <-> DownstreamBridge <-> [bedwars] - NativeIoException: readAddress(..) failed: Connection reset by peer
+[03:46:12] [Netty Worker IO Thread #36/INFO]: [Hallflower] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[03:46:12] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808|Hallflower] -> UpstreamBridge has disconnected
+[03:46:12] [Netty Worker IO Thread #36/INFO]: [/10.0.1.4:57808|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:47:55] [Netty Worker IO Thread #39/INFO]: [/10.0.1.4:58806] <-> InitialHandler has connected
+[03:47:55] [Netty Worker IO Thread #39/INFO]: [Hallflower|/10.0.1.4:58806] <-> ServerConnector [hub] has connected
+[03:47:57] [Netty Worker IO Thread #40/INFO]: [/98.32.158.72:64962] <-> InitialHandler has connected
+[03:47:57] [Netty Worker IO Thread #40/INFO]: [Math0424|/98.32.158.72:64962] <-> ServerConnector [hub] has connected
+[03:48:15] [Netty Worker IO Thread #39/INFO]: [Hallflower|/10.0.1.4:58806] <-> ServerConnector [bedwars] has connected
+[03:48:15] [Netty Worker IO Thread #39/INFO]: [/10.0.1.4:58806|Hallflower] <-> DownstreamBridge <-> [hub] has disconnected
+[03:48:17] [Netty Worker IO Thread #40/INFO]: [Math0424|/98.32.158.72:64962] <-> ServerConnector [bedwars] has connected
+[03:48:17] [Netty Worker IO Thread #40/INFO]: [/98.32.158.72:64962|Math0424] <-> DownstreamBridge <-> [hub] has disconnected
+[03:57:22] [Netty Worker IO Thread #39/INFO]: [/10.0.1.4:58806|Hallflower] -> UpstreamBridge has disconnected
+[03:57:22] [Netty Worker IO Thread #39/INFO]: [/10.0.1.4:58806|Hallflower] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:57:27] [Netty Worker IO Thread #41/INFO]: [/10.0.1.4:59389] <-> InitialHandler has pinged
+[03:57:28] [Netty Worker IO Thread #40/INFO]: [/98.32.158.72:64962|Math0424] -> UpstreamBridge has disconnected
+[03:57:28] [Netty Worker IO Thread #40/INFO]: [/98.32.158.72:64962|Math0424] <-> DownstreamBridge <-> [bedwars] has disconnected
+[03:57:28] [Netty Worker IO Thread #42/INFO]: [/98.32.158.72:65014] <-> InitialHandler has pinged

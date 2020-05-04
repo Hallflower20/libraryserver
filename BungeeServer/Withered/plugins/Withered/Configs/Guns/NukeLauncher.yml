@@ -4,10 +4,10 @@ gun:
     ammoId: 13
     modelId: 22
     isPrimaryGun: true
-    isAutomatic: false
+    isAutomatic: true
     fireRate: 10
-    reloadRate: 100
-    clipSize: 1
+    reloadRate: 5
+    clipSize: 45
     ammoConsumedPerReload: 1
     shotsReloadedPerReload: 1
     fireSound: NUKE_GUN
@@ -31,6 +31,6 @@ gun:
       - LONGBARREL
       - HITNOTIFY
     startingAttachments:
-    explosiveYield: 25.0
+    explosiveYield: 3.0
     level: 50
     chanceOfSpawning: 0.5

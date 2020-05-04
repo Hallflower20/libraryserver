@@ -102,7 +102,7 @@ data:
   database: minecraft
 
   # Credentials for the database.
-  username: luckperms
+  username: minecraft
   password: 'E!mhurst60126'
 
   # These settings apply to the MySQL connection pool.
@@ -136,6 +136,7 @@ data:
     properties:
       useUnicode: true
       characterEncoding: utf8
+      useSSL: false
 
   # The prefix for all LuckPerms SQL tables.
   # - Change this is you want to use different tables for different servers.
@@ -481,7 +482,7 @@ group-weight:
 #
 # - When set to 'false', all players will be de-opped, and the /op and /deop commands will be
 #   disabled.
-enable-ops: true
+enable-ops: false
 
 # Enables or disables a special permission based system in LuckPerms for controlling OP status.
 #

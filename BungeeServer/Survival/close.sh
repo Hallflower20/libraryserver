@@ -1,0 +1,1 @@
+/usr/bin/screen -S survival -X stuff "`echo \"stop\r\"`"
