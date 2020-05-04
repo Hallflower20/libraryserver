@@ -36,10 +36,10 @@ GriefPrevention:
     InvestigationTool: STICK
     ModificationTool: GOLDEN_SHOVEL
     Expiration:
-      ChestClaimDays: 60
-      UnusedClaimDays: 60
+      ChestClaimDays: 365
+      UnusedClaimDays: 365
       AllClaims:
-        DaysInactive: 60
+        DaysInactive: 365
         ExceptWhenOwnerHasTotalClaimBlocks: 10000
         ExceptWhenOwnerHasBonusClaimBlocks: 5000
       AutomaticNatureRestoration:

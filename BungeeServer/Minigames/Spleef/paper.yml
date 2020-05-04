@@ -9,10 +9,6 @@
 
 config-version: 9
 data-value-allowed-items: []
-settings:
-  baby-zombie-movement-speed: 0.5
-  limit-player-interactions: true
-warnWhenSettingExcessiveVelocity: true
 stackable-buckets:
   lava: false
   water: false
@@ -20,6 +16,10 @@ stackable-buckets:
 effect-modifiers:
   strength: 1.3
   weakness: -0.5
+settings:
+  baby-zombie-movement-speed: 0.5
+  limit-player-interactions: true
+warnWhenSettingExcessiveVelocity: true
 world-settings:
   default:
     verbose: false
@@ -35,18 +35,19 @@ world-settings:
       village: false
       flat-bedrock: true
     allow-block-location-tab-completion: true
+    disable-teleportation-suffocation-check: false
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
-    optimize-explosions: false
     despawn-ranges:
       soft: 32
       hard: 128
+    tnt-explosion-volume: 4.0
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
-    tnt-explosion-volume: 4.0
     mob-spawner-tick-rate: 1
+    optimize-explosions: false
     player-blocking-damage-multiplier: 0.5
     squid-spawn-height:
       minimum: 45.0
@@ -59,7 +60,6 @@ world-settings:
     lava-flow-speed:
       normal: 30
       nether: 10
-    disable-teleportation-suffocation-check: false
     max-growth-height:
       cactus: 3
       reeds: 3

@@ -1,76 +1,76 @@
-[20:38:07] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[20:38:07] [Server thread/INFO]: Loading properties
-[20:38:07] [Server thread/INFO]: Default game type: ADVENTURE
-[20:38:07] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-"4c7641d" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[20:38:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:38:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:38:08] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[20:38:08] [Server thread/INFO]: Debug logging is disabled
-[20:38:08] [Server thread/INFO]: Data value allowed items: 
-[20:38:08] [Server thread/INFO]: Generating keypair
-[20:38:08] [Server thread/INFO]: Starting Minecraft server on *:25559
-[20:38:08] [Server thread/INFO]: Using epoll channel type
-[20:38:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[20:38:09] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
-[20:38:09] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[20:38:09] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
-[20:38:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v2.2.3
-[20:38:09] [Server thread/INFO]: [ViaVersion] ViaVersion 2.2.3 is now loaded, injecting!
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 block mapping...
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 item mapping...
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading new 1.13 tags...
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 enchantment mapping...
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 sound mapping...
-[20:38:09] [Server thread/INFO]: [ViaVersion] Loading translation mapping
-[20:38:10] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 blockstate mapping...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 block mapping...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 item mapping...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 sound mapping...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.14 blockstates...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.14 heightmap data...
-[20:38:11] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 blockstate mapping...
-[20:38:12] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 block mapping...
-[20:38:12] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 item mapping...
-[20:38:12] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 sound mapping...
-[20:38:12] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[20:38:12] [Server thread/INFO]: [NoHitDelay] Loading NoHitDelay v1.0.0
-[20:38:12] [Server thread/INFO]: [BungeeTabListPlus] Loading BungeeTabListPlus v3.2.0
-[20:38:12] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[20:38:12] [Server thread/INFO]: [PVP Arena] Loading pvparena v1.3.1.50
-[20:38:12] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
-[20:38:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[20:38:12] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[20:38:12] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.72[m
-[20:38:12] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[20:38:12] [Server thread/INFO]: [m
-[20:38:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[20:38:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[20:38:13] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
-[20:38:13] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
-[20:38:13] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[20:38:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[20:38:14] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[20:38:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2472ms)
-[20:38:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:38:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:38:15] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[20:38:15] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[20:38:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:38:15] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[20:38:15] [Server thread/INFO]: Preparing level "world"
-[20:38:15] [Server thread/INFO]: Preparing start region for level 0 (Seed: -213731731164585991)
-[20:38:16] [Server thread/INFO]: Preparing spawn area: 69%
-[20:38:16] [Server thread/INFO]: Preparing start region for level 1 (Seed: -140787614818688664)
-[20:38:16] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0
-[20:38:16] [Server thread/INFO]: §c===================================
-[20:38:16] [Server thread/INFO]: §c===================================
-[20:38:16] [Server thread/INFO]: §aCheck out my other Plugins!
-[20:38:16] [Server thread/INFO]: §aI also sell a BedWars §aPlugin!
-[20:38:16] [Server thread/INFO]: §c===================================
-[20:38:16] [Server thread/INFO]: §c===================================
-[20:38:16] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8
-[20:38:17] [Server thread/INFO]: 
+[21:37:14] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[21:37:14] [Server thread/INFO]: Loading properties
+[21:37:14] [Server thread/INFO]: Default game type: ADVENTURE
+[21:37:15] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-"4c7641d" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[21:37:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:37:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:37:15] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[21:37:15] [Server thread/INFO]: Debug logging is disabled
+[21:37:16] [Server thread/INFO]: Data value allowed items: 
+[21:37:16] [Server thread/INFO]: Generating keypair
+[21:37:16] [Server thread/INFO]: Starting Minecraft server on *:25559
+[21:37:16] [Server thread/INFO]: Using epoll channel type
+[21:37:16] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:37:16] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
+[21:37:16] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[21:37:17] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
+[21:37:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v2.2.3
+[21:37:17] [Server thread/INFO]: [ViaVersion] ViaVersion 2.2.3 is now loaded, injecting!
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 block mapping...
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 item mapping...
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading new 1.13 tags...
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 enchantment mapping...
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 sound mapping...
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading translation mapping
+[21:37:17] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 blockstate mapping...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 block mapping...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 item mapping...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 sound mapping...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.14 blockstates...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.14 heightmap data...
+[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 blockstate mapping...
+[21:37:20] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 block mapping...
+[21:37:20] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 item mapping...
+[21:37:20] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 sound mapping...
+[21:37:20] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
+[21:37:20] [Server thread/INFO]: [NoHitDelay] Loading NoHitDelay v1.0.0
+[21:37:20] [Server thread/INFO]: [BungeeTabListPlus] Loading BungeeTabListPlus v3.2.0
+[21:37:20] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:37:20] [Server thread/INFO]: [PVP Arena] Loading pvparena v1.3.1.50
+[21:37:20] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
+[21:37:20] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[21:37:20] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[21:37:20] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.72[m
+[21:37:20] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[21:37:20] [Server thread/INFO]: [m
+[21:37:20] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:37:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[21:37:20] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
+[21:37:21] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
+[21:37:21] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[21:37:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:37:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:37:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2365ms)
+[21:37:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:37:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:37:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:37:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[21:37:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:37:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:37:22] [Server thread/INFO]: Preparing level "world"
+[21:37:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: -213731731164585991)
+[21:37:23] [Server thread/INFO]: Preparing spawn area: 64%
+[21:37:24] [Server thread/INFO]: Preparing start region for level 1 (Seed: -140787614818688664)
+[21:37:24] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0
+[21:37:24] [Server thread/INFO]: §c===================================
+[21:37:24] [Server thread/INFO]: §c===================================
+[21:37:24] [Server thread/INFO]: §aCheck out my other Plugins!
+[21:37:24] [Server thread/INFO]: §aI also sell a BedWars §aPlugin!
+[21:37:24] [Server thread/INFO]: §c===================================
+[21:37:24] [Server thread/INFO]: §c===================================
+[21:37:24] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8
+[21:37:25] [Server thread/INFO]: 
  
 [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
 [0;30;1m| [0;31;1mInformation:
@@ -86,61 +86,64 @@
 [0;30;1m|   [0;37;22mYou have the newest version
 [0;30;1m[]================================[][m
  [m
-[20:38:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[20:38:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[20:38:18] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[20:38:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v2.2.3
-[20:38:18] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[20:38:18] [Server thread/INFO]: [m
-[20:38:18] [Server thread/INFO]: [0;32;22m           ██▌[m
-[20:38:18] [Server thread/INFO]: [0;32;22m     ██▌   ██▌[m
-[20:38:18] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;32;22mPlayer Analytics[m
-[20:38:18] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;37;1mv5.1 build 505[m
-[20:38:18] [Server thread/INFO]: [m
-[20:38:18] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[20:38:19] [Server thread/INFO]: [Plan] You're using the latest version.
-[20:38:19] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[20:38:19] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[20:38:19] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[20:38:19] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
-[20:38:19] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[20:38:19] [Server thread/INFO]: [Plan] Registered extension: ViaVersion
-[20:38:19] [Server thread/INFO]: [Plan] Player Analytics Enabled. (1505 ms)
-[20:38:20] [Server thread/INFO]: [NoHitDelay] Enabling NoHitDelay v1.0.0
-[20:38:20] [Server thread/INFO]: [BungeeTabListPlus] Enabling BungeeTabListPlus v3.2.0
-[20:38:20] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[20:38:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[20:38:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[20:38:20] [Server thread/INFO]: [WorldGuard] Loading region data...
-[20:38:20] [Server thread/INFO]: [PVP Arena] Enabling pvparena v1.3.1.50
-[20:38:20] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mdebugging: off[m
-[20:38:21] [Server thread/INFO]: [PVP Arena] Downloading module update file...
-[20:38:21] [Server thread/INFO]: [PVP Arena] Downloaded module update file
-[20:38:21] [Thread-15/INFO]: Checking for updates...
-[20:38:21] [Server thread/INFO]: [PVP Arena] Plugin tracking enabled. Set 'tracker: false' inside the main config to disable.
-[20:38:21] [Server thread/INFO]: [PVP Arena] enabled (version pvparena v1.3.1.50)
-[20:38:21] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
-[20:38:21] [Server thread/INFO]: [BungeePortals] Metrics initiated!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Commands registered!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Events registered!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
-[20:38:21] [Server thread/INFO]: [BungeePortals] Save task started!
-[20:38:21] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (22ms)
-[20:38:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:38:21] [Thread-15/INFO]: You are using [0;33;1mv1.3.1.50[0;37;1m, an outdated version! Latest: [0;32;1mv1.3.2.140[m
-[20:38:21] [Thread-15/INFO]: https://www.spigotmc.org/resources/pvp-arena.16584/[m
-[20:38:21] [Server thread/INFO]: Done (6.806s)! For help, type "help" or "?"
-[20:38:21] [Server thread/INFO]: Timings Reset
-[20:38:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
-[20:38:22] [Server thread/INFO]: [ViaVersion] Enabling Paper/TacoSpigot/Torch patch: Fixes block placement.
+[21:37:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:37:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:37:25] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:37:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v2.2.3
+[21:37:25] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
+[21:37:26] [Server thread/INFO]: [m
+[21:37:26] [Server thread/INFO]: [0;32;22m           ██▌[m
+[21:37:26] [Server thread/INFO]: [0;32;22m     ██▌   ██▌[m
+[21:37:26] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;32;22mPlayer Analytics[m
+[21:37:26] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;37;1mv5.1 build 505[m
+[21:37:26] [Server thread/INFO]: [m
+[21:37:26] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[21:37:26] [Server thread/INFO]: [Plan] You're using the latest version.
+[21:37:26] [Server thread/INFO]: [Plan] MySQL-database connection established.
+[21:37:26] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
+[21:37:27] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
+[21:37:27] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
+[21:37:27] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[21:37:27] [Server thread/INFO]: [Plan] Registered extension: ViaVersion
+[21:37:27] [Server thread/INFO]: [Plan] Player Analytics Enabled. (1457 ms)
+[21:37:27] [Server thread/INFO]: [NoHitDelay] Enabling NoHitDelay v1.0.0
+[21:37:27] [Server thread/INFO]: [BungeeTabListPlus] Enabling BungeeTabListPlus v3.2.0
+[21:37:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[21:37:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:37:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:37:27] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:37:27] [Server thread/INFO]: [PVP Arena] Enabling pvparena v1.3.1.50
+[21:37:28] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mdebugging: off[m
+[21:37:28] [Server thread/INFO]: [PVP Arena] Downloading module update file...
+[21:37:29] [Server thread/INFO]: [PVP Arena] Downloaded module update file
+[21:37:29] [Server thread/INFO]: [PVP Arena] Plugin tracking enabled. Set 'tracker: false' inside the main config to disable.
+[21:37:29] [Thread-15/INFO]: Checking for updates...
+[21:37:29] [Server thread/INFO]: [PVP Arena] enabled (version pvparena v1.3.1.50)
+[21:37:29] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
+[21:37:29] [Server thread/INFO]: [BungeePortals] Metrics initiated!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Commands registered!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Events registered!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Portal data loaded! (7ms)
+[21:37:29] [Server thread/INFO]: [BungeePortals] Save task started!
+[21:37:29] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (25ms)
+[21:37:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:37:29] [Thread-15/INFO]: You are using [0;33;1mv1.3.1.50[0;37;1m, an outdated version! Latest: [0;32;1mv1.3.2.140[m
+[21:37:29] [Thread-15/INFO]: https://www.spigotmc.org/resources/pvp-arena.16584/[m
+[21:37:29] [Server thread/INFO]: Done (6.779s)! For help, type "help" or "?"
+[21:37:29] [Server thread/INFO]: Timings Reset
+[21:37:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[21:37:29] [Server thread/INFO]: [ViaVersion] Enabling Paper/TacoSpigot/Torch patch: Fixes block placement.
+[21:38:58] [luckperms-scheduler-worker-2/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[21:38:58] [luckperms-scheduler-worker-2/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add pvptoggle.toggle true[m
+[21:39:00] [luckperms-scheduler-worker-2/INFO]: [LuckPerms] [Messaging] Received update ping with id: 313974d8-8b3b-49f7-84d5-6ab296c1ae04

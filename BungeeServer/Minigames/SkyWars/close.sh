@@ -1,0 +1,1 @@
+/usr/bin/screen -S skywars -X stuff "`echo \"stop\r\"`"

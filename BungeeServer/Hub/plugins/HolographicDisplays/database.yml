@@ -1,0 +1,56 @@
+minigames:
+  location: world, -39.518, 73.000, 0.516
+  lines:
+  - '&eMinigames'
+  - '&dJump into a portal!'
+elytra:
+  location: world, -42.033, 73.000, -3.451
+  lines:
+  - '&eElytraDogFights'
+  - '&dFight in the air!'
+spleef:
+  location: world, -47.016, 73.000, -3.577
+  lines:
+  - '&eSpleef'
+  - '&dThrow people'
+  - '&dinto the void'
+skywars:
+  location: world, -49.489, 73.000, -1.983
+  lines:
+  - '&eSkywars'
+  - '&dKnock people'
+  - '&dinto the void'
+blockfall:
+  location: world, -49.401, 73.000, 2.995
+  lines:
+  - '&eBlockFall'
+  - '&dComing soon!'
+pvp:
+  location: world, -47.034, 73.000, 4.507
+  lines:
+  - '&ePvP'
+  - '&dFight to the death'
+bedwars:
+  location: world, -41.992, 73.000, 4.532
+  lines:
+  - '&eBedwars'
+  - '&dBreak enemies'
+  - '&dbeds and win'
+survival:
+  location: world, 0.506, 73.000, -41.566
+  lines:
+  - '&2Survival'
+  - '&eBuild and survive together!'
+creative:
+  location: world, 42.504, 73.000, 0.516
+  lines:
+  - '&bCreative'
+  - '&eThe only limit'
+  - '&eis your imagination!'
+withered:
+  location: world, 0.468, 73.000, 42.465
+  lines:
+  - '&cWithered'
+  - '&eKill other players'
+  - '&eWith guns, grenades'
+  - '&eAnd more!'

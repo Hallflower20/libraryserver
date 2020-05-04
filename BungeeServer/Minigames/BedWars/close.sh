@@ -1,0 +1,1 @@
+/usr/bin/screen -S bedwars -X stuff "`echo \"stop\r\"`"

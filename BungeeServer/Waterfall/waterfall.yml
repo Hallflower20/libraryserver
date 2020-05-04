@@ -1,5 +1,5 @@
 use_netty_dns_resolver: true
-disable_modern_tab_limiter: true
+disable_modern_tab_limiter: false
 log_initial_handler_connections: true
 throttling:
   tab_complete: 1000

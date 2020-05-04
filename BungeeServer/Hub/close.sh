@@ -1,0 +1,1 @@
+/usr/bin/screen -S hub -X stuff "`echo \"stop\r\"`"

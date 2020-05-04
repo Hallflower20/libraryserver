@@ -11,27 +11,7 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
-commands:
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  tab-complete: 0
 settings:
-  bungeecord: true
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./run.sh
@@ -43,6 +23,15 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  bungeecord: true
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-threshold: 100.0
   save-user-cache-on-stop-only: false
   debug: false
 messages:
@@ -52,6 +41,17 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
+commands:
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 0
 timings:
   enabled: true
   verbose: true
@@ -67,6 +67,7 @@ stats:
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 4
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -115,7 +116,6 @@ world-settings:
     save-structure-info: true
     max-bulk-chunks: 10
     max-entity-collisions: 8
-    mob-spawn-range: 4
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
