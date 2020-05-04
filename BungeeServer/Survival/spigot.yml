@@ -64,17 +64,17 @@ world-settings:
     mob-spawn-range: 8
     hopper-amount: 1
     dragon-death-sound-radius: 0
-    seed-village: 10387312
+    seed-village: 103873112
     seed-desert: 14357617
-    seed-igloo: 14357618
+    seed-igloo: 143576154
     seed-jungle: 14357619
     seed-swamp: 14357620
-    seed-monument: 10387313
-    seed-shipwreck: 165745295
+    seed-monument: 10387311
+    seed-shipwreck: 165745292
     seed-ocean: 14357621
-    seed-outpost: 165745296
-    seed-endcity: 10387313
-    seed-slime: 987234911
+    seed-outpost: 165745291
+    seed-endcity: 10387314
+    seed-slime: 987234910
     max-tnt-per-tick: 100
     view-distance: default
     zombie-aggressive-towards-villager: true
@@ -112,7 +112,7 @@ world-settings:
       tick-inactive-villagers: true
     merge-radius:
       exp: 3.0
-      item: 2.5
+      item: 3.0
     entity-tracking-range:
       players: 48
       animals: 48

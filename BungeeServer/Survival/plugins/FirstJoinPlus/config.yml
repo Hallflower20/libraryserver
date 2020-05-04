@@ -65,10 +65,10 @@ on-first-join:
     world: world
 other-messages:
   join-message:
-    enabled: true
+    enabled: false
     message: '&e%player_name joined the game.'
   quit-message:
-    enabled: true
+    enabled: false
     message: '&e%player_name left the game.'
   kick-message:
     enabled: false

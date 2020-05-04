@@ -1,0 +1,215 @@
+# ####### mountain.yml ###
+# This is the Skyblock Warriors arena config.
+# 
+# All values that are not in this configuration will be inherited from
+#  arena-parent.yml
+# 
+# All comment changes will be removed.
+# 
+# For documentation, please visit 
+# https://dabo.guru/projects/skywars/configuring-arenas
+# #######
+config-version: 3
+spawns:
+- x: 11.5
+  y: 37.0
+  z: 39.5
+- x: 6.5
+  y: 28.0
+  z: 24.5
+- x: 8.5
+  y: 28.0
+  z: 14.5
+- x: 25.5
+  y: 27.0
+  z: 4.5
+- x: 39.5
+  y: 27.0
+  z: 11.5
+- x: 44.5
+  y: 27.0
+  z: 24.5
+- x: 39.5
+  y: 27.0
+  z: 37.5
+- x: 25.5
+  y: 27.0
+  z: 44.5
+num-teams: 8
+team-size: 1
+min-players: 2
+boundaries:
+  origin:
+    min:
+      x: -16
+      y: 105
+      z: 1490
+    max:
+      x: 34
+      y: 149
+      z: 1540
+    world: world
+  building:
+    min:
+      x: -2
+      y: -20
+      z: -2
+    max:
+      x: 52
+      y: 46
+      z: 52
+  clearing:
+    min:
+      x: -3
+      y: -21
+      z: -3
+    max:
+      x: 53
+      y: 47
+      z: 53
+placement-y: 20
+chests:
+- location:
+    x: 5
+    y: 18
+    z: 27
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 9
+    y: 18
+    z: 13
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 13
+    y: 18
+    z: 41
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 23
+    y: 18
+    z: 5
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 27
+    y: 18
+    z: 45
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 37
+    y: 18
+    z: 9
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 41
+    y: 18
+    z: 37
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 45
+    y: 18
+    z: 23
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 7
+    y: 26
+    z: 29
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 9
+    y: 26
+    z: 16
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 16
+    y: 26
+    z: 41
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 21
+    y: 26
+    z: 7
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 29
+    y: 26
+    z: 43
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 34
+    y: 26
+    z: 9
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 41
+    y: 26
+    z: 34
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 43
+    y: 26
+    z: 21
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 21
+    y: 28
+    z: 27
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30
+- location:
+    x: 27
+    y: 28
+    z: 21
+  randomize: false
+  total-level: 30
+  min-item-value: 0
+  max-item-value: 30

@@ -29,7 +29,7 @@ GriefPrevention:
     AccruedIdlePercent: 0
     AbandonReturnRatio: 1.0
     AutomaticNewPlayerClaimsRadius: 4
-    ExtendIntoGroundDistance: 5
+    ExtendIntoGroundDistance: 50
     MinimumWidth: 5
     MinimumArea: 100
     MaximumDepth: 0
@@ -75,8 +75,8 @@ GriefPrevention:
     ProtectFreshSpawns: false
     PunishLogout: false
     CombatTimeoutSeconds: 15
-    AllowCombatItemDrop: false
-    BlockedSlashCommands: /home;/vanish;/spawn;/tpa
+    AllowCombatItemDrop: true
+    BlockedSlashCommands: /home;/vanish;/spawn;/tpa;/hub
     ProtectPlayersInLandClaims:
       PlayerOwnedClaims: true
       AdministrativeClaims: true
@@ -107,7 +107,7 @@ GriefPrevention:
   AdminsGetSignNotifications: true
   SmartBan: true
   Mute New Players Using Banned Words: true
-  MaxPlayersPerIpAddress: 3
+  MaxPlayersPerIpAddress: 50
   Siege:
     Worlds: []
     BreakableBlocks:
@@ -159,7 +159,7 @@ GriefPrevention:
   BanCommandPattern: ban %name% %reason%
   Advanced:
     fixNegativeClaimblockAmounts: true
-    ClaimExpirationCheckRate: 60
+    ClaimExpirationCheckRate: 365
     OfflinePlayer_cache_days: 90
   Abridged Logs:
     Days To Keep: 7

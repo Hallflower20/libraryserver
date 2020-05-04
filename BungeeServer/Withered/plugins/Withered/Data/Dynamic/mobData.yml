@@ -40,17 +40,6 @@ cars:
   materialId: 0
   inventory: |
     rO0ABXcEAAAACXBwcHBwcHBwcA==
-  uuid: 910637a8-0b5d-4f5f-b20a-62b6a55a4544
-- ==: me.Math0424.Withered.Entities.Cars.CarData
-  acceleration: 0.04
-  material: CHAIN_COMMAND_BLOCK
-  name: ChestCar
-  health: 20.0
-  maxSpeedOffRoad: 0.2
-  maxSpeed: 0.5
-  materialId: 0
-  inventory: |
-    rO0ABXcEAAAACXBwcHBwcHBwcA==
   uuid: 8e976329-4145-4636-b75d-dc7dd8b15049
 - ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.04
@@ -62,7 +51,28 @@ cars:
   materialId: 0
   inventory: |
     rO0ABXcEAAAACXBwcHBwcHBwcA==
+  uuid: 910637a8-0b5d-4f5f-b20a-62b6a55a4544
+- ==: me.Math0424.Withered.Entities.Cars.CarData
+  acceleration: 0.04
+  material: CHAIN_COMMAND_BLOCK
+  name: ChestCar
+  health: 20.0
+  maxSpeedOffRoad: 0.2
+  maxSpeed: 0.5
+  materialId: 0
+  inventory: |
+    rO0ABXcEAAAACXBwcHBwcHBwcA==
   uuid: 41b3dc47-80e2-4e3e-9029-0d02b3274e4e
+- &id002
+  ==: me.Math0424.Withered.Entities.Cars.CarData
+  acceleration: 0.05
+  material: COMMAND_BLOCK
+  name: OffroadCar
+  health: 20.0
+  maxSpeedOffRoad: 0.2
+  maxSpeed: 0.6
+  materialId: 0
+  uuid: 402d1e56-4581-4f6d-b9c1-7508e50fecfd
 - ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.04
   material: CHAIN_COMMAND_BLOCK
@@ -113,6 +123,16 @@ cars:
     rO0ABXcEAAAACXBwcHBwcHBwcA==
   uuid: e0ecf698-708f-4c61-a203-9a2190b7c5b7
 - ==: me.Math0424.Withered.Entities.Cars.CarData
+  acceleration: 0.05
+  material: COMMAND_BLOCK
+  name: OffroadCar
+  health: 20.0
+  maxSpeedOffRoad: 0.2
+  maxSpeed: 0.6
+  materialId: 0
+  uuid: 3d18f112-0d00-47bf-9239-43640be0fcee
+- &id003
+  ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.04
   material: CHAIN_COMMAND_BLOCK
   name: ChestCar
@@ -122,26 +142,8 @@ cars:
   materialId: 0
   inventory: |
     rO0ABXcEAAAACXBwcHBwcHBwcA==
-  uuid: 22e1c574-f462-41ec-b3d5-91c8441fc35b
-- ==: me.Math0424.Withered.Entities.Cars.CarData
-  acceleration: 0.05
-  material: COMMAND_BLOCK
-  name: OffroadCar
-  health: 20.0
-  maxSpeedOffRoad: 0.2
-  maxSpeed: 0.6
-  materialId: 0
-  uuid: 3d18f112-0d00-47bf-9239-43640be0fcee
-- &id002
-  ==: me.Math0424.Withered.Entities.Cars.CarData
-  acceleration: 0.05
-  material: COMMAND_BLOCK
-  name: OffroadCar
-  health: 20.0
-  maxSpeedOffRoad: 0.2
-  maxSpeed: 0.6
-  materialId: 0
-  uuid: 65f5d078-708a-4df2-be98-4a592b25bc93
+  uuid: 8cc42f34-6bff-4c21-9136-26ec2006e6c8
+- *id002
 - ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.06
   material: REPEATING_COMMAND_BLOCK
@@ -151,6 +153,7 @@ cars:
   maxSpeed: 0.7
   materialId: 0
   uuid: 7a55b31a-0923-4f8f-963e-055e2aabb0ab
+- *id003
 - ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.05
   material: COMMAND_BLOCK
@@ -160,7 +163,6 @@ cars:
   maxSpeed: 0.6
   materialId: 0
   uuid: 89c82d5a-7f5a-4250-9b82-002fc9e18e07
-- *id002
 - ==: me.Math0424.Withered.Entities.Cars.CarData
   acceleration: 0.04
   material: CHAIN_COMMAND_BLOCK

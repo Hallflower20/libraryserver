@@ -1,2 +1,2 @@
 #!/bin/sh
-java -Xms256M -Xmx256M -jar BungeeCord.jar
+java -Xms256M -Xmx256M -jar Waterfall.jar

@@ -67,7 +67,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -115,6 +114,7 @@ world-settings:
     random-light-updates: false
     save-structure-info: true
     max-bulk-chunks: 10
+    mob-spawn-range: 4
     max-entity-collisions: 8
     dragon-death-sound-radius: 0
     seed-village: 10387312
@@ -128,10 +128,10 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
-    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     view-distance: 10

@@ -1,0 +1,137 @@
+[20:37:58] [main/INFO]: Using mbed TLS based native cipher.
+[20:37:58] [main/INFO]: Using zlib based native compressor.
+[20:37:58] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.15-SNAPSHOT:e0795ab:341
+[20:37:58] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[20:37:58] [main/INFO]: Epoll is working, utilising it!
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[20:37:58] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin LuckPerms version 5.0.139 by Luck
+[20:37:58] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin AdvancedBan version 2.1.8 by Leoko
+[20:37:58] [main/INFO]: Loaded plugin BungeeHub version 0.3 by iFedeFC
+[20:37:58] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin Plan version 5.1 build 505 by Rsl1122
+[20:37:58] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:58] [main/INFO]: Loaded plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+[20:37:59] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:37:59] [main/INFO]:         __    
+[20:37:59] [main/INFO]:   |    |__)   LuckPerms v5.0.139
+[20:37:59] [main/INFO]:   |___ |      Running on BungeeCord - Waterfall
+[20:37:59] [main/INFO]: 
+[20:37:59] [main/INFO] [LuckPerms]: Loading configuration...
+[20:37:59] [main/INFO] [LuckPerms]: Loading storage provider... [MYSQL]
+[20:37:59] [main/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Starting...
+[20:37:59] [main/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Start completed.
+[20:37:59] [main/INFO] [LuckPerms]: Loading messaging service... [SQL]
+[20:37:59] [main/INFO] [LuckPerms]: Loading internal permission managers...
+[20:37:59] [main/INFO] [LuckPerms]: Performing initial data load...
+[20:37:59] [main/INFO] [LuckPerms]: Successfully enabled. (took 834ms)
+[20:37:59] [main/INFO]: Enabled plugin LuckPerms version 5.0.139 by Luck
+[20:37:59] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:38:00] [main/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.8
+|   Storage: MySQL (external)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[20:38:00] [main/INFO]: Enabled plugin AdvancedBan version 2.1.8 by Leoko
+[20:38:00] [main/INFO] [BungeeHub]: ----------------------------
+[20:38:00] [main/INFO] [BungeeHub]:      BungeeCord Hub
+[20:38:00] [main/INFO] [BungeeHub]: 
+[20:38:00] [main/INFO] [BungeeHub]: You are using the latest version
+[20:38:00] [main/INFO] [BungeeHub]: 
+[20:38:00] [main/INFO] [BungeeHub]: ----------------------------
+[20:38:00] [main/INFO]: Enabled plugin BungeeHub version 0.3 by iFedeFC
+[20:38:00] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:38:00] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:38:00] [main/INFO]: 
+[20:38:00] [main/INFO]:            ██▌
+[20:38:00] [main/INFO]:      ██▌   ██▌
+[20:38:00] [main/INFO]:   ██▌██▌██▌██▌  Player Analytics
+[20:38:00] [main/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
+[20:38:00] [main/INFO]: 
+[20:38:00] [main/INFO] [Plan]: Locale: 'English' by Rsl1122
+[20:38:00] [main/INFO] [Plan]: You're using the latest version.
+[20:38:01] [main/INFO] [Plan]: MySQL-database connection established.
+[20:38:01] [main/INFO] [Plan]: WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+[20:38:01] [main/INFO] [Plan]: WebServer: No Certificate -> Using HTTP-server for Visualization.
+[20:38:01] [main/INFO]: WebServer: User Authorization Disabled! (Not secure over HTTP)
+[20:38:01] [main/INFO] [Plan]: Webserver running on PORT 8804 (http://73.208.230.243:8804)
+[20:38:01] [main/INFO] [Plan]: Registered extension: AdvancedBan
+[20:38:01] [main/INFO] [Plan]: Registered extension: LuckPerms
+[20:38:01] [main/INFO] [Plan]: Player Analytics Enabled.
+[20:38:01] [main/INFO]: Enabled plugin Plan version 5.1 build 505 by Rsl1122
+[20:38:01] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:38:01] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e0795ab:341 by WaterfallMC
+[20:38:01] [main/INFO] [BungeeTabListPlus]: Starting UpdateChecker Task
+[20:38:01] [main/INFO]: Enabled plugin BungeeTabListPlus version 3.2.0 by CodeCrafter47
+[20:38:01] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25565
+[20:38:02] [Netty Worker IO Thread #0/INFO]: [/98.32.158.72:52545] <-> InitialHandler has pinged
+[20:38:03] [Netty Worker IO Thread #1/INFO]: [/76.16.163.92:53204] <-> InitialHandler has connected
+[20:38:04] [Netty Worker IO Thread #1/INFO]: [Ghastslayer|/76.16.163.92:53204] <-> ServerConnector [hub] has connected
+[20:38:05] [Netty Worker IO Thread #1/INFO]: [Ghastslayer] disconnected with: Kicked whilst connecting to hub: Outdated server! I'm still on 1.8.8
+[20:38:05] [Netty Worker IO Thread #1/INFO]: [/76.16.163.92:53204|Ghastslayer] -> UpstreamBridge has disconnected
+[20:38:05] [Netty Worker IO Thread #1/INFO]: [Ghastslayer|/76.16.163.92:53204] <-> ServerConnector [hub] has disconnected
+[20:38:06] [Netty Worker IO Thread #2/INFO]: [/10.0.1.86:55412] <-> InitialHandler has connected
+[20:38:06] [Netty Worker IO Thread #2/INFO]: [cutepink2505|/10.0.1.86:55412] <-> ServerConnector [hub] has connected
+[20:38:06] [Netty Worker IO Thread #2/INFO]: [cutepink2505] disconnected with: Kicked whilst connecting to hub: Outdated server! I'm still on 1.8.8
+[20:38:06] [Netty Worker IO Thread #2/INFO]: [/10.0.1.86:55412|cutepink2505] -> UpstreamBridge has disconnected
+[20:38:06] [Netty Worker IO Thread #2/INFO]: [cutepink2505|/10.0.1.86:55412] <-> ServerConnector [hub] has disconnected
+[20:38:08] [Netty Worker IO Thread #3/INFO]: [/24.14.242.238:63878] <-> InitialHandler has connected
+[20:38:08] [Netty Worker IO Thread #4/INFO]: [/76.16.163.92:53206] <-> InitialHandler has connected
+[20:38:09] [Netty Worker IO Thread #4/INFO]: [Ghastslayer|/76.16.163.92:53206] <-> ServerConnector [hub] has connected
+[20:38:09] [Netty Worker IO Thread #4/INFO]: [Ghastslayer] disconnected with: Kicked whilst connecting to hub: Outdated server! I'm still on 1.8.8
+[20:38:09] [Netty Worker IO Thread #4/INFO]: [/76.16.163.92:53206|Ghastslayer] -> UpstreamBridge has disconnected
+[20:38:09] [Netty Worker IO Thread #4/INFO]: [Ghastslayer|/76.16.163.92:53206] <-> ServerConnector [hub] has disconnected
+[20:38:09] [Netty Worker IO Thread #3/INFO]: [iamthecaleb|/24.14.242.238:63878] <-> ServerConnector [hub] has connected
+[20:38:09] [Netty Worker IO Thread #3/INFO]: [iamthecaleb] disconnected with: Kicked whilst connecting to hub: Outdated server! I'm still on 1.8.8
+[20:38:09] [Netty Worker IO Thread #3/INFO]: [/24.14.242.238:63878|iamthecaleb] -> UpstreamBridge has disconnected
+[20:38:09] [Netty Worker IO Thread #3/INFO]: [iamthecaleb|/24.14.242.238:63878] <-> ServerConnector [hub] has disconnected
+[20:38:13] [Netty Worker IO Thread #5/INFO]: [/24.14.242.238:63880] <-> InitialHandler has connected
+[20:38:14] [Netty Worker IO Thread #5/INFO]: [iamthecaleb|/24.14.242.238:63880] <-> ServerConnector [hub] has connected
+[20:38:14] [Netty Worker IO Thread #5/INFO]: [iamthecaleb] disconnected with: Kicked whilst connecting to hub: Outdated server! I'm still on 1.8.8
+[20:38:14] [Netty Worker IO Thread #5/INFO]: [/24.14.242.238:63880|iamthecaleb] -> UpstreamBridge has disconnected
+[20:38:14] [Netty Worker IO Thread #5/INFO]: [iamthecaleb|/24.14.242.238:63880] <-> ServerConnector [hub] has disconnected
+[20:38:15] [Netty Worker IO Thread #6/INFO]: [/24.14.242.238:63882] <-> InitialHandler has connected
+[20:38:15] [Netty Worker IO Thread #6/INFO]: [iamthecaleb|/24.14.242.238:63882] <-> ServerConnector [hub] has connected
+[20:38:17] [Netty Worker IO Thread #7/INFO]: [/10.0.1.86:55414] <-> InitialHandler has connected
+[20:38:17] [Netty Worker IO Thread #7/INFO]: [cutepink2505|/10.0.1.86:55414] <-> ServerConnector [hub] has connected
+[20:38:17] [Netty Worker IO Thread #8/INFO]: [/10.0.1.4:62100] <-> InitialHandler has connected
+[20:38:18] [Netty Worker IO Thread #8/INFO]: [Hallflower|/10.0.1.4:62100] <-> ServerConnector [hub] has connected
+[20:38:19] [Netty Worker IO Thread #9/INFO]: [/76.16.163.92:53223] <-> InitialHandler has connected
+[20:38:20] [Netty Worker IO Thread #9/INFO]: [Ghastslayer|/76.16.163.92:53223] <-> ServerConnector [hub] has connected
+[20:38:24] [Netty Worker IO Thread #6/INFO]: [iamthecaleb|/24.14.242.238:63882] <-> ServerConnector [survival] has connected
+[20:38:29] [Netty Worker IO Thread #9/INFO]: [Ghastslayer|/76.16.163.92:53223] <-> ServerConnector [survival] has connected
+[20:38:30] [Netty Worker IO Thread #7/INFO]: [cutepink2505|/10.0.1.86:55414] <-> ServerConnector [survival] has connected
+[20:38:34] [Netty Worker IO Thread #10/INFO]: [/76.16.163.92:53229] <-> InitialHandler has pinged
+[20:38:38] [Netty Worker IO Thread #7/INFO]: [/10.0.1.86:55414|cutepink2505] <-> DownstreamBridge <-> [hub] has disconnected
+[20:38:38] [Netty Worker IO Thread #9/INFO]: [/76.16.163.92:53223|Ghastslayer] <-> DownstreamBridge <-> [hub] has disconnected
+[20:38:38] [Netty Worker IO Thread #6/INFO]: [/24.14.242.238:63882|iamthecaleb] <-> DownstreamBridge <-> [hub] has disconnected
+[20:38:42] [Netty Worker IO Thread #11/INFO]: [/98.32.158.72:52547] <-> InitialHandler has connected
+[20:38:43] [Netty Worker IO Thread #11/INFO]: [Coco0422|/98.32.158.72:52547] <-> ServerConnector [hub] has connected
+[20:38:48] [Netty Worker IO Thread #12/INFO]: [/73.208.230.151:55505] <-> InitialHandler has pinged
+[20:38:48] [Netty Worker IO Thread #13/INFO]: [/73.208.230.151:55508] <-> InitialHandler has pinged
+[20:38:49] [Netty Worker IO Thread #14/INFO]: [/73.208.230.151:55509] <-> InitialHandler has connected
+[20:38:50] [Netty Worker IO Thread #14/INFO]: [DavidTheStarman|/73.208.230.151:55509] <-> ServerConnector [hub] has connected
+[20:38:50] [Netty Worker IO Thread #11/INFO]: [Coco0422|/98.32.158.72:52547] <-> ServerConnector [survival] has connected
+[20:38:50] [Netty Worker IO Thread #11/INFO]: [/98.32.158.72:52547|Coco0422] <-> DownstreamBridge <-> [hub] has disconnected
+[20:38:56] [Netty Worker IO Thread #15/INFO]: [/98.32.158.72:53185] <-> InitialHandler has connected
+[20:38:57] [Netty Worker IO Thread #15/INFO]: [Math0424|/98.32.158.72:53185] <-> ServerConnector [hub] has connected
+[20:39:04] [Netty Worker IO Thread #10/WARN]: [/76.16.163.92:53229] <-> InitialHandler - read timed out

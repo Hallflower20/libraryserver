@@ -48,3 +48,23 @@ main:
     maxdamage: 24
     damagetake: 466
     maxdamagetake: 24
+  0faf0ba9-7677-4b96-8ff4-1ce27858e250:
+    losses: 0
+    wins: 1
+    kills: 5
+    deaths: 0
+    damage: 284
+    maxdamage: 12
+    damagetake: 18
+    maxdamagetake: 6
+    name: Ghastslayer
+  7e42c253-a8cf-4539-9ca7-bd254194a923:
+    losses: 0
+    wins: 0
+    kills: 0
+    deaths: 5
+    damage: 18
+    maxdamage: 6
+    damagetake: 284
+    maxdamagetake: 12
+    name: iamthecaleb

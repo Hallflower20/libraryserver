@@ -14,9 +14,11 @@ save-inventory: true
 save-experience: true
 save-position-gamemode-health: true
 enabled-arenas:
-- skyblock-warriors
-- water-warriors
-- End
+- mines
+- end
+- mountain
+- wonderland
+- jungle
 locale: en
 skywars-arena-gamerules:
   doDaylightCycle: 'false'
