@@ -1,7 +1,7 @@
 main:
   79b308d7-618a-4acf-8123-3b5b0f25d949:
     losses: 0
-    wins: 1
+    wins: 10000
     kills: 3
     deaths: 0
     damage: 233

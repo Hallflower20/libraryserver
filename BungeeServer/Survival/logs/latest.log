@@ -1,308 +1,74 @@
-[21:37:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[21:37:14] [Server thread/INFO]: Loading properties
-[21:37:14] [Server thread/INFO]: This server is running Paper version git-Paper-211 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[21:37:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:37:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:37:14] [Server thread/INFO]: Debug logging is disabled
-[21:37:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:37:15] [Server thread/INFO]: Generating keypair
-[21:37:15] [Server thread/INFO]: Starting Minecraft server on *:25556
-[21:37:15] [Server thread/INFO]: Using epoll channel type
-[21:37:16] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[21:37:25] [Server thread/WARN]: Legacy plugin FirstJoinPlus v2.4.1 does not specify an api-version.
-[21:37:25] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.8 does not specify an api-version.
-[21:37:26] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[21:37:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[21:37:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1cecf3dc]
-[21:37:29] [Server thread/INFO]: [Harbor] Loading Harbor v1.6.1
-[21:37:29] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4.1
-[21:37:29] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.0
-[21:37:29] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
-[21:37:29] [Server thread/INFO]: [BetterGiants] Loading BetterGiants v1.3
-[21:37:29] [Server thread/INFO]: [AntiAFK] Loading AntiAFK v1.0.0
-[21:37:29] [Server thread/INFO]: [PvPToggle] Loading PvPToggle v1.15a
-[21:37:29] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
-[21:37:30] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
-[21:37:30] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[21:37:30] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
-[21:37:30] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.9.3
-[21:37:30] [Server thread/INFO]: [Shopkeepers] Loading config.
-[21:37:30] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[21:37:30] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[21:37:30] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.4
-[21:37:30] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
-[21:37:30] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[21:37:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:37:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[21:37:30] [Server thread/INFO]:         __    
-[21:37:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
-[21:37:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[21:37:30] [Server thread/INFO]: 
-[21:37:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[21:37:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[21:37:31] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
-[21:37:32] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
-[21:37:33] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[21:37:33] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[21:37:33] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[21:37:33] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2859ms)
-[21:37:33] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[21:37:33] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:37:34] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[21:37:34] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
-[21:37:34] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[21:37:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:37:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:37:34] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[21:37:34] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[21:37:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:37:34] [Server thread/INFO]: Preparing level "world"
-[21:37:35] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:37:35] [Server thread/INFO]: Loaded 6 recipes
-[21:37:35] [Server thread/INFO]: -------- World Settings For [world] --------
-[21:37:35] [Server thread/INFO]: Mob Spawn Range: 8
-[21:37:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:37:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:37:35] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:37:35] [Server thread/INFO]: Max TNT Explosions: 100
-[21:37:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:37:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:37:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:37:35] [Server thread/INFO]: Custom Map Seeds:  Village: 103873112 Desert: 14357617 Igloo: 143576154 Jungle: 14357619 Swamp: 14357620 Monument: 10387311 Ocean: 14357621 Shipwreck: 165745292 End City: 10387314 Slime: 987234910
-[21:37:35] [Server thread/INFO]: View Distance: 10
-[21:37:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:37:35] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:37:35] [Server thread/INFO]: Item Merge Radius: 3.0
-[21:37:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:37:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:37:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:37:36] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:37:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[21:37:36] [Server thread/INFO]: Mob Spawn Range: 8
-[21:37:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:37:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:37:36] [Server thread/INFO]: Max TNT Explosions: 100
-[21:37:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:37:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:37:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:37:36] [Server thread/INFO]: Custom Map Seeds:  Village: 103873112 Desert: 14357617 Igloo: 143576154 Jungle: 14357619 Swamp: 14357620 Monument: 10387311 Ocean: 14357621 Shipwreck: 165745292 End City: 10387314 Slime: 987234910
-[21:37:36] [Server thread/INFO]: View Distance: 10
-[21:37:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:37:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:37:36] [Server thread/INFO]: Item Merge Radius: 3.0
-[21:37:36] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:37:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:37:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:37:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[21:37:36] [Server thread/INFO]: Mob Spawn Range: 8
-[21:37:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:37:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:37:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:37:36] [Server thread/INFO]: Max TNT Explosions: 100
-[21:37:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:37:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:37:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:37:36] [Server thread/INFO]: Custom Map Seeds:  Village: 103873112 Desert: 14357617 Igloo: 143576154 Jungle: 14357619 Swamp: 14357620 Monument: 10387311 Ocean: 14357621 Shipwreck: 165745292 End City: 10387314 Slime: 987234910
-[21:37:36] [Server thread/INFO]: View Distance: 10
-[21:37:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:37:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:37:36] [Server thread/INFO]: Item Merge Radius: 3.0
-[21:37:36] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:37:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:37:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:37:36] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[21:37:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[21:37:36] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:36] [Server thread/INFO]: Time elapsed: 281 ms
-[21:37:36] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[21:37:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[21:37:37] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:37] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:37] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:37] [Server thread/INFO]: Time elapsed: 1239 ms
-[21:37:37] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[21:37:37] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[21:37:37] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:38] [Server thread/INFO]: Time elapsed: 245 ms
-[21:37:38] [Server thread/INFO]: [Harbor] Enabling Harbor v1.6.1
-[21:37:38] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4.1*
-[21:37:38] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.0
-[21:37:38] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8*
-[21:37:38] [Server thread/INFO]: 
- 
-[]=====[Enabling AdvancedBan]=====[]
-| Information:
-|   Name: AdvancedBan
-|   Developer: Leoko
-|   Version: 2.1.8
-|   Storage: MySQL (external)
-| Support:
-|   Github: https://github.com/DevLeoko/AdvancedBan/issues
-|   Discord: https://discord.gg/ycDG6rS
-| Twitter: @LeokoGar
-| Update:
-|   You have the newest version
-[]================================[]
- 
-[21:37:38] [Server thread/INFO]: [BetterGiants] Enabling BetterGiants v1.3
-[21:37:38] [Server thread/INFO]: [AntiAFK] Enabling AntiAFK v1.0.0
-[21:37:38] [Server thread/INFO]: [PvPToggle] Enabling PvPToggle v1.15a
-[21:37:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[21:37:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[21:37:39] [Server thread/INFO]: [WorldGuard] Loading region data...
-[21:37:39] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
-[21:37:40] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[21:37:40] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[21:37:40] [Server thread/INFO]: --------------------
-[21:37:40] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
-[21:37:40] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
-[21:37:40] [Server thread/INFO]: --------------------
-[21:37:40] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.9.3
-[21:37:40] [Server thread/INFO]: [Shopkeepers] Loading data of 4 shopkeepers..
-[21:37:40] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.4
-[21:37:40] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
-[21:37:41] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[21:37:41] [Server thread/INFO]: [GriefPrevention] 5 total claims loaded.
-[21:37:42] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[21:37:42] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[21:37:42] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[21:37:42] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[21:37:42] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[21:37:42] [Server thread/INFO]: 
-[21:37:42] [Server thread/INFO]:            ██▌
-[21:37:42] [Server thread/INFO]:      ██▌   ██▌
-[21:37:42] [Server thread/INFO]:   ██▌██▌██▌██▌  Player Analytics
-[21:37:42] [Server thread/INFO]:   ██▌██▌██▌██▌  v5.1 build 505
-[21:37:42] [Server thread/INFO]: 
-[21:37:42] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[21:37:43] [Server thread/INFO]: [Plan] You're using the latest version.
-[21:37:43] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[21:37:43] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[21:37:43] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[21:37:43] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
-[21:37:43] [Server thread/INFO]: [Plan] Registered extension: GriefPrevention
-[21:37:43] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[21:37:43] [Server thread/INFO]: [Plan] Player Analytics Enabled. (831 ms)
-[21:37:43] [Server thread/INFO]: Done (8.745s)! For help, type "help"
-[21:37:43] [Server thread/INFO]: Timings Reset
-[21:37:43] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[21:37:45] [User Authenticator #1/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[21:37:46] [Server thread/INFO]: Hallflower[/10.0.1.4:42917] logged in with entity id 271 at ([world]754.3996863016872, 69.0, 624.678571464744)
-[21:37:51] [Server thread/INFO]: Hallflower issued server command: /v
-[21:38:10] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:38:10] [Server thread/INFO]: Math0424[/98.32.158.72:53929] logged in with entity id 580 at ([world]748.6280279186903, 26.0, 599.7856174654484)
-[21:38:14] [Server thread/INFO]: Math0424 issued server command: /pvptoggle
-[21:38:16] [Server thread/INFO]: Math0424 issued server command: /pvp
-[21:38:18] [Server thread/INFO]: Hallflower issued server command: /pvp
-[21:38:41] [Server thread/INFO]: Math0424 issued server command: /lp editor
-[21:38:57] [Server thread/INFO]: Math0424 issued server command: /lp applyedits PwPvrux9mX
-[21:38:58] [ForkJoinPool-2-worker-18/INFO]: [LuckPerms] [Messaging] Sending log with id: 4312efd5-5062-48d0-a03c-f891c512e2b4
-[21:38:58] [pool-13-thread-1/INFO]: [LP] LOG > (Math0424) [G] (default)
-[21:38:58] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add pvptoggle.toggle true
-[21:38:59] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[21:39:00] [ForkJoinPool-2-worker-18/INFO]: [LuckPerms] [Messaging] Sending ping with id: 313974d8-8b3b-49f7-84d5-6ab296c1ae04
-[21:39:02] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@46b03ea1[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@4f24fc44]},legacy=false] (/98.32.158.72:51431): You must wait 8 seconds before logging-in again.
-[21:39:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@46b03ea1[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@4f24fc44]},legacy=false] (/98.32.158.72:51431) lost connection: You must wait 8 seconds before logging-in again.
-[21:39:05] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:05] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@17ab1d45[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@1ac33058]},legacy=false] (/98.32.158.72:53965): You must wait 5 seconds before logging-in again.
-[21:39:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@17ab1d45[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@1ac33058]},legacy=false] (/98.32.158.72:53965) lost connection: You must wait 5 seconds before logging-in again.
-[21:39:06] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@75f930a1[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@42930ab5]},legacy=false] (/98.32.158.72:56639): You must wait 4 seconds before logging-in again.
-[21:39:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@75f930a1[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@42930ab5]},legacy=false] (/98.32.158.72:56639) lost connection: You must wait 4 seconds before logging-in again.
-[21:39:07] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7b931a26[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@63a2aa9c]},legacy=false] (/98.32.158.72:52039): You must wait 3 seconds before logging-in again.
-[21:39:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b931a26[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@63a2aa9c]},legacy=false] (/98.32.158.72:52039) lost connection: You must wait 3 seconds before logging-in again.
-[21:39:08] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5704289a[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@6f7b9b89]},legacy=false] (/98.32.158.72:57357): You must wait 2 seconds before logging-in again.
-[21:39:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@5704289a[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@6f7b9b89]},legacy=false] (/98.32.158.72:57357) lost connection: You must wait 2 seconds before logging-in again.
-[21:39:08] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1dffd6[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@445fa36c]},legacy=false] (/98.32.158.72:59285): You must wait 2 seconds before logging-in again.
-[21:39:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dffd6[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@445fa36c]},legacy=false] (/98.32.158.72:59285) lost connection: You must wait 2 seconds before logging-in again.
-[21:39:09] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@514611b[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@2b30d950]},legacy=false] (/98.32.158.72:48891): You must wait 1 seconds before logging-in again.
-[21:39:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@514611b[id=79b308d7-618a-4acf-8123-3b5b0f25d949,name=Math0424,properties={textures=[com.mojang.authlib.properties.Property@2b30d950]},legacy=false] (/98.32.158.72:48891) lost connection: You must wait 1 seconds before logging-in again.
-[21:39:10] [User Authenticator #1/INFO]: UUID of player Math0424 is 79b308d7-618a-4acf-8123-3b5b0f25d949
-[21:39:10] [Server thread/INFO]: Math0424[/98.32.158.72:42893] logged in with entity id 708 at ([world]748.2918702333886, 26.0, 608.6999999880791)
-[21:39:11] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[21:39:11] [Server thread/INFO]: Hallflower left the game
-[21:39:13] [Server thread/INFO]: Math0424 issued server command: /pvp
-[21:39:15] [Server thread/INFO]: Math0424 issued server command: /pvp
-[21:39:17] [User Authenticator #1/INFO]: UUID of player Hallflower is 26becbb5-f35b-49d6-8517-d7da5a95429e
-[21:39:17] [Server thread/INFO]: Hallflower joined the game
-[21:39:17] [Server thread/INFO]: Hallflower[/10.0.1.4:59945] logged in with entity id 719 at ([world]728.2953983277317, 67.0, 638.0785540006021)
-[21:39:19] [Server thread/INFO]: Math0424 issued server command: /tp Hallflower
-[21:39:19] [Server thread/INFO]: [Math0424: Teleported Math0424 to Hallflower]
-[21:39:19] [Server thread/WARN]: Math0424 moved too quickly! -15.266781807334382,42.0,7.725019940084053
-[21:39:28] [Server thread/INFO]: Math0424 issued server command: /v
-[21:39:30] [Server thread/INFO]: Hallflower issued server command: /pvp
-[21:39:39] [Server thread/INFO]: Math0424 issued server command: /gamemode survival
-[21:39:39] [Server thread/INFO]: [Math0424: Set own game mode to Survival Mode]
-[21:39:45] [Server thread/INFO]: Hallflower issued server command: /pvp
-[21:39:59] [Server thread/INFO]: Hallflower issued server command: /pvp
-[21:40:32] [Server thread/INFO]: Math0424 was slain by Hallflower
-[21:40:41] [Server thread/INFO]: Math0424 issued server command: /plugins
-[21:41:24] [Server thread/INFO]: Math0424 lost connection: Disconnected
-[21:41:24] [Server thread/INFO]: Math0424 left the game
-[21:44:43] [Server thread/INFO]: Hallflower lost connection: Disconnected
-[21:44:43] [Server thread/INFO]: Hallflower left the game
+[00:02:21] [Craft Scheduler Thread - 64/INFO]: [Plan] The Config was updated to match one on the Proxy. Reload for changes to take effect.
+[00:47:16] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Console) [G] (superadmin)
+[00:47:16] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add bw.* true
+[00:47:16] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Console) [G] (superadmin)
+[00:47:16] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add bw.chatcolor true
+[00:47:18] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 8ecf9137-494c-4d09-a2aa-d39ea5c5d68b
+[00:48:10] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Console) [G] (admin)
+[00:48:10] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add bw.cmd.bypass true
+[00:48:12] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: c85aa72e-1819-4a52-884e-b014d237d214
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.* true
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (default)
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.rejoin true
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (default)
+[01:14:35] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.shout true
+[01:14:38] [luckperms-scheduler-worker-5/INFO]: [LuckPerms] [Messaging] Received update ping with id: f0ebb1b7-39c7-45e5-9f29-48f15afa2908
+[01:15:10] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[01:15:10] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add bedwars.admin true
+[01:15:12] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 3311c554-3c0a-490d-92e8-794861637fed
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bedwars.admin true
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.chatcolor true
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (admin)
+[02:47:33] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.cmd.bypass true
+[02:47:34] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (default)
+[02:47:34] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.shout.bypass true
+[02:47:34] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (default)
+[02:47:34] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor remove bw.chatcolor true
+[02:47:36] [luckperms-scheduler-worker-5/INFO]: [LuckPerms] [Messaging] Received update ping with id: 8a49a7d4-83f1-4f31-bb91-b9ccde47e463
+[02:48:11] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:48:11] [luckperms-scheduler-worker-5/INFO]: [LP] LOG > webeditor add bedwars.* true
+[02:48:13] [luckperms-scheduler-worker-5/INFO]: [LuckPerms] [Messaging] Received update ping with id: ea66c138-815e-4a89-a9d0-09557bd2f2e0
+[02:54:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:54:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove bedwars.* true
+[02:54:15] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 5b65d27d-8cd4-4df5-81e2-aadfd8065b29
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.addsign true
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.arena true
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.hologram true
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:55:19] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.forcestart true
+[02:55:22] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 66053521-3cfc-4716-af29-9189c28795e9
+[02:56:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:56:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.setgamedonelocation true
+[02:56:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:56:13] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.cmd.* true
+[02:56:15] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 1baddeb4-7941-4520-beb7-87e1e345eead
+[02:57:35] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:57:35] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.arenabuild true
+[02:57:35] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[02:57:35] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add mbedwars.updatemessage true
+[02:57:37] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: b6d45d14-728d-437a-81cf-2107d432b6aa
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor add bedwars.admin true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.cmd.setgamedonelocation true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.arenabuild true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.cmd.addsign true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.updatemessage true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove minecraft.command.op true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.cmd.forcestart true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.cmd.arena true
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > (Math0424) [G] (superadmin)
+[03:20:42] [luckperms-scheduler-worker-1/INFO]: [LP] LOG > webeditor remove mbedwars.cmd.hologram true
+[03:20:45] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 6e87fcbc-920a-45e4-a4f2-83ffaab13ed5

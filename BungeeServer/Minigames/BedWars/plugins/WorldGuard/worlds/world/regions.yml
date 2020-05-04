@@ -11,8 +11,8 @@
 #
 regions:
     spawn:
-        min: {x: -13.0, y: 29.0, z: -13.0}
-        max: {x: 13.0, y: 54.0, z: 10.0}
+        min: {x: -412.0, y: 62.0, z: 361.0}
+        max: {x: -373.0, y: 98.0, z: 401.0}
         members: {}
         flags: {other-explosion: deny, fall-damage: deny, use: allow, block-break: deny,
             tnt: deny, feed-min-hunger: 20}

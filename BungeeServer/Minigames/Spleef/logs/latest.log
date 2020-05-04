@@ -1,140 +1,74 @@
-[21:37:15] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[21:37:15] [Server thread/INFO]: Loading properties
-[21:37:15] [Server thread/INFO]: Default game type: ADVENTURE
-[21:37:16] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-"4c7641d" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[21:37:16] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[21:37:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:37:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:37:16] [Server thread/INFO]: Debug logging is disabled
-[21:37:16] [Server thread/INFO]: Data value allowed items: 
-[21:37:16] [Server thread/INFO]: Generating keypair
-[21:37:17] [Server thread/INFO]: Starting Minecraft server on *:25560
-[21:37:17] [Server thread/INFO]: Using epoll channel type
-[21:37:17] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[21:37:17] [Server thread/INFO]: [DisableJoinMessage] Loading DisableJoinMessage v1.0
-[21:37:17] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
-[21:37:17] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.8
-[21:37:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[21:37:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v2.2.3
-[21:37:17] [Server thread/INFO]: [ViaVersion] ViaVersion 2.2.3 is now loaded, injecting!
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 block mapping...
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 item mapping...
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading new 1.13 tags...
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 enchantment mapping...
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 sound mapping...
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading translation mapping
-[21:37:18] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 blockstate mapping...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 block mapping...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 item mapping...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 sound mapping...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.14 blockstates...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.14 heightmap data...
-[21:37:19] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 blockstate mapping...
-[21:37:21] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 block mapping...
-[21:37:21] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 item mapping...
-[21:37:21] [Server thread/INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 sound mapping...
-[21:37:21] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.4.1
-[21:37:21] [Server thread/INFO]: [Plan] Loading Plan v5.1 build 505
-[21:37:21] [Server thread/INFO]: [BungeeTabListPlus] Loading BungeeTabListPlus v3.2.0
-[21:37:21] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[21:37:21] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
-[21:37:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
-[21:37:21] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[21:37:21] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.72[m
-[21:37:21] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[21:37:21] [Server thread/INFO]: [m
-[21:37:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[21:37:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[21:37:21] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Starting...
-[21:37:22] [Server thread/WARN]: [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms-hikari - Start completed.
-[21:37:22] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[21:37:23] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[21:37:23] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[21:37:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2982ms)
-[21:37:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:37:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:37:24] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[21:37:24] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[21:37:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:37:24] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[21:37:24] [Server thread/INFO]: Preparing level "world"
-[21:37:24] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3331848832769418149)
-[21:37:25] [Server thread/INFO]: Preparing spawn area: 79%
-[21:37:25] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3331848832769418149)
-[21:37:26] [Server thread/INFO]: [DisableJoinMessage] Enabling DisableJoinMessage v1.0
-[21:37:26] [Server thread/INFO]: §c===================================
-[21:37:26] [Server thread/INFO]: §c===================================
-[21:37:26] [Server thread/INFO]: §aCheck out my other Plugins!
-[21:37:26] [Server thread/INFO]: §aI also sell a BedWars §aPlugin!
-[21:37:26] [Server thread/INFO]: §c===================================
-[21:37:26] [Server thread/INFO]: §c===================================
-[21:37:26] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.8
-[21:37:26] [Server thread/INFO]: 
- 
-[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
-[0;30;1m| [0;31;1mInformation:
-[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
-[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
-[0;30;1m|   [0;31;1mVersion: [0;37;22m2.1.8
-[0;30;1m|   [0;31;1mStorage: [0;37;22mMySQL (external)
-[0;30;1m| [0;31;1mSupport:
-[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
-[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
-[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
-[0;30;1m| [0;31;1mUpdate:
-[0;30;1m|   [0;37;22mYou have the newest version
-[0;30;1m[]================================[][m
- [m
-[21:37:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[21:37:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:37:27] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[21:37:27] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v2.2.3
-[21:37:27] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.4.1
-[21:37:28] [Server thread/INFO]: [HeavySpleef] Add-On load complete. Enabled 0 add-ons
-[21:37:28] [Server thread/INFO]: [Plan] Enabling Plan v5.1 build 505
-[21:37:29] [Server thread/INFO]: [m
-[21:37:29] [Server thread/INFO]: [0;32;22m           ██▌[m
-[21:37:29] [Server thread/INFO]: [0;32;22m     ██▌   ██▌[m
-[21:37:29] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;32;22mPlayer Analytics[m
-[21:37:29] [Server thread/INFO]: [0;32;22m  ██▌██▌██▌██▌  [0;37;1mv5.1 build 505[m
-[21:37:29] [Server thread/INFO]: [m
-[21:37:29] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
-[21:37:29] [Server thread/INFO]: [Plan] You're using the latest version.
-[21:37:29] [Server thread/INFO]: [Plan] MySQL-database connection established.
-[21:37:29] [Server thread/WARN]: [Plan] WebServer was not initialized. (WebServer.DisableWebServer: true)
-[21:37:30] [Plan Non critical-pool-2/INFO]: [Plan] Proxy server detected in the database - Proxy Webserver address is 'http://73.208.230.243:8804'.
-[21:37:30] [Server thread/INFO]: [Plan] Registered extension: AdvancedBan
-[21:37:30] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
-[21:37:30] [Server thread/INFO]: [Plan] Registered extension: ViaVersion
-[21:37:30] [Server thread/INFO]: [Plan] Player Analytics Enabled. (1355 ms)
-[21:37:30] [Server thread/INFO]: [BungeeTabListPlus] Enabling BungeeTabListPlus v3.2.0
-[21:37:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[21:37:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[21:37:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[21:37:30] [Server thread/INFO]: [WorldGuard] Loading region data...
-[21:37:30] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
-[21:37:30] [Server thread/INFO]: [BungeePortals] Metrics initiated!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Commands registered!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Events registered!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
-[21:37:30] [Server thread/INFO]: [BungeePortals] Save task started!
-[21:37:30] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (28ms)
-[21:37:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:37:31] [Server thread/INFO]: Done (7.673s)! For help, type "help" or "?"
-[21:37:31] [Server thread/INFO]: Timings Reset
-[21:37:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
-[21:37:31] [Server thread/INFO]: [ViaVersion] Enabling Paper/TacoSpigot/Torch patch: Fixes block placement.
-[21:38:58] [luckperms-scheduler-worker-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
-[21:38:58] [luckperms-scheduler-worker-1/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add pvptoggle.toggle true[m
-[21:39:00] [luckperms-scheduler-worker-1/INFO]: [LuckPerms] [Messaging] Received update ping with id: 313974d8-8b3b-49f7-84d5-6ab296c1ae04
+[00:02:12] [Craft Scheduler Thread - 5/INFO]: [Plan] The Config was updated to match one on the Proxy. Reload for changes to take effect.
+[00:47:15] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mConsole[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[00:47:15] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bw.* true[m
+[00:47:15] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mConsole[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[00:47:15] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bw.chatcolor true[m
+[00:47:17] [luckperms-scheduler-worker-0/INFO]: [LuckPerms] [Messaging] Received update ping with id: 8ecf9137-494c-4d09-a2aa-d39ea5c5d68b
+[00:48:09] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mConsole[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
+[00:48:09] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bw.cmd.bypass true[m
+[00:48:11] [luckperms-scheduler-worker-0/INFO]: [LuckPerms] [Messaging] Received update ping with id: c85aa72e-1819-4a52-884e-b014d237d214
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.* true[m
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.rejoin true[m
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[01:14:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.shout true[m
+[01:14:37] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: f0ebb1b7-39c7-45e5-9f29-48f15afa2908
+[01:15:09] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[01:15:09] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bedwars.admin true[m
+[01:15:12] [luckperms-scheduler-worker-0/INFO]: [LuckPerms] [Messaging] Received update ping with id: 3311c554-3c0a-490d-92e8-794861637fed
+[02:47:32] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:47:32] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bedwars.admin true[m
+[02:47:32] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:47:32] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.chatcolor true[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1madmin[0;30;1m)[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.cmd.bypass true[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.shout.bypass true[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1mdefault[0;30;1m)[m
+[02:47:33] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bw.chatcolor true[m
+[02:47:35] [luckperms-scheduler-worker-0/INFO]: [LuckPerms] [Messaging] Received update ping with id: 8a49a7d4-83f1-4f31-bb91-b9ccde47e463
+[02:48:10] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:48:10] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bedwars.* true[m
+[02:48:12] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: ea66c138-815e-4a89-a9d0-09557bd2f2e0
+[02:54:12] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:54:12] [luckperms-scheduler-worker-0/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove bedwars.* true[m
+[02:54:14] [luckperms-scheduler-worker-0/INFO]: [LuckPerms] [Messaging] Received update ping with id: 5b65d27d-8cd4-4df5-81e2-aadfd8065b29
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.addsign true[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.arena true[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.hologram true[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:55:18] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.forcestart true[m
+[02:55:21] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: 66053521-3cfc-4716-af29-9189c28795e9
+[02:56:12] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:56:12] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.setgamedonelocation true[m
+[02:56:12] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:56:12] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.cmd.* true[m
+[02:56:14] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: 1baddeb4-7941-4520-beb7-87e1e345eead
+[02:57:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:57:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.arenabuild true[m
+[02:57:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[02:57:34] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add mbedwars.updatemessage true[m
+[02:57:36] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: b6d45d14-728d-437a-81cf-2107d432b6aa
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor add bedwars.admin true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.cmd.setgamedonelocation true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.arenabuild true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.cmd.addsign true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.updatemessage true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove minecraft.command.op true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.cmd.forcestart true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.cmd.arena true[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;30;1m([0;33;1mMath0424[0;30;1m) [[0;32;1mG[0;30;1m] ([0;36;1msuperadmin[0;30;1m)[m
+[03:20:41] [luckperms-scheduler-worker-3/INFO]: [0;37;22m[21m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m[21m] [0;36;22mLOG [0;36;22m[21m> [0;37;1mwebeditor remove mbedwars.cmd.hologram true[m
+[03:20:44] [luckperms-scheduler-worker-3/INFO]: [LuckPerms] [Messaging] Received update ping with id: 6e87fcbc-920a-45e4-a4f2-83ffaab13ed5

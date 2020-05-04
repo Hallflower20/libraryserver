@@ -1,0 +1,109 @@
+YouDisplay: ' &7(You)'
+StartingDisplay: '&fStarting in &a<time>'
+SearchingDisplay: '&fSearching players...'
+ScoreboardPath:
+  DEFAULT:
+    Waiting-Enabled: true
+    Waiting-Title: '&e BED WARS'
+    Waiting:
+      Lines:
+      - ''
+      - '&fMap: &a<mapName>'
+      - '&fPlayers: &a<inGame>/<max>'
+      - ''
+      - <statusDisplay>
+      - ' '
+      - ''
+      - '&ee621.net'
+    Game-Enabled: true
+    Game-Title: '&e BED WARS'
+    Game:
+      Lines:
+      - ''
+      - '<nextEvent>:'
+      - '&a<time>'
+      - ''
+      - '&c&lR &fRed: <isAliveRed>'
+      - '&9&lB &fBlue: <isAliveBlue>'
+      - ''
+      - '&ee621.net'
+  1v1v1v1:
+    Game-Enabled: true
+    Game-Title: '&e BED WARS'
+    Game:
+      Lines:
+      - ' '
+      - '<nextEvent>:'
+      - '&a<time>'
+      - ' '
+      - '&e&lY &fYellow: <isAliveYellow>'
+      - '&9&lB &fBlue: <isAliveBlue>'
+      - '&2&lG &fGreen: <isAliveGreen>'
+      - '&c&lR &fRed: <isAliveRed>'
+      - ' '
+      - '&ewww.spigotmc.org'
+    Waiting-Enabled: true
+    Waiting-Title: '&e BED WARS'
+    Waiting:
+      Lines:
+      - ''
+      - '&fMap: &a<mapName>'
+      - '&fPlayers: &a<inGame>/<max>'
+      - ''
+      - <statusDisplay>
+      - ' '
+      - '&fServer: &aBedWars122G'
+      - ''
+      - '&ewww.spigotmc.org'
+  4v4v4v4:
+    Game-Enabled: true
+    Game-Title: '&e BED WARS'
+    Game:
+      Lines:
+      - ' '
+      - '<nextEvent>:'
+      - '&a<time>'
+      - ' '
+      - '&e&lY &fYellow: <isAliveYellow>'
+      - '&9&lB &fBlue: <isAliveBlue>'
+      - '&2&lG &fGreen: <isAliveGreen>'
+      - '&c&lR &fRed: <isAliveRed>'
+      - ' '
+      - '&ee621.net'
+    Waiting-Enabled: true
+    Waiting-Title: '&e BED WARS'
+    Waiting:
+      Lines:
+      - ''
+      - '&fMap: &a<mapName>'
+      - '&fPlayers: &a<inGame>/<max>'
+      - ''
+      - <statusDisplay>
+      - ' '
+      - ''
+      - '&ee621.net'
+  5v5:
+    Game-Enabled: true
+    Game-Title: '&e BED WARS'
+    Game:
+      Lines:
+      - ' '
+      - '<nextEvent>:'
+      - '&a<time>'
+      - ' '
+      - '&c&lR &fRed: <isAliveRed>'
+      - '&9&lB &fBlue: <isAliveBlue>'
+      - ' '
+      - '&ee621.net'
+    Waiting-Enabled: true
+    Waiting-Title: '&e BED WARS'
+    Waiting:
+      Lines:
+      - ''
+      - '&fMap: &a<mapName>'
+      - '&fPlayers: &a<inGame>/<max>'
+      - ''
+      - <statusDisplay>
+      - ' '
+      - ''
+      - '&ee621.net'

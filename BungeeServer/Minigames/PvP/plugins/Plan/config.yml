@@ -176,6 +176,7 @@ World_aliases:
     tree: tree
     winter: winter
     world_nether: world_nether
+    SkyWarsArenaWorld: SkyWarsArenaWorld
 # -----------------------------------------------------
 # These settings will make Plan write .js, .css, .json and .html files to some location on disk.
 # Relative path will render to /plugins/Plan/path

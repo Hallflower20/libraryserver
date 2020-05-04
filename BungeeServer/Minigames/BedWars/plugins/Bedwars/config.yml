@@ -1,0 +1,34 @@
+# Official Documentation https://bitbucket.org/STRMarius/bedwarswiki/wiki/Home
+WorldAdapter: NORMAL_ADAPTER
+FastAsyncWorldEdit: false
+onJoin:
+  TeleportToLobbyLocation: false
+ShoutCommand:
+  Name: shout
+MySQL:
+  Enabled: false
+  Host: localhost
+  Database: TestDatabase
+  Username: root
+  Password: ''
+  Port: 3306
+BungeeCord:
+  Enabled: false
+  RandomLobbyServer:
+    Enabled: false
+    Servers:
+    - Hub
+    - Hub-1
+    - Hub-2
+  LobbySocket:
+    Enabled: false
+    IP: localhost
+    Port: 9999
+  LobbyServer: Hub
+  RestartCommand: restart
+  RestartMessage: '&aThe server is going to restart in 10 seconds.'
+  MOTD:
+    Display: <gameState>,&a<inGame>/<max>
+    InGameState: '&cIN_GAME'
+    InWaitingState: '&aIN_WAITING'
+LobbyLocation: world,-388.49267627364577,75.0,377.03693279736603,-359.39978,4.050002

@@ -73,7 +73,7 @@ chests:
     x: 78
     y: 38
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -81,7 +81,7 @@ chests:
     x: 83
     y: 38
     z: 83
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -89,7 +89,7 @@ chests:
     x: 15
     y: 41
     z: 83
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -97,7 +97,7 @@ chests:
     x: 35
     y: 41
     z: 35
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -105,7 +105,7 @@ chests:
     x: 35
     y: 41
     z: 133
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -113,7 +113,7 @@ chests:
     x: 83
     y: 41
     z: 153
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -121,7 +121,7 @@ chests:
     x: 85
     y: 41
     z: 15
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -129,7 +129,7 @@ chests:
     x: 133
     y: 41
     z: 35
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -137,7 +137,7 @@ chests:
     x: 133
     y: 41
     z: 133
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -145,7 +145,7 @@ chests:
     x: 153
     y: 41
     z: 85
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -153,7 +153,7 @@ chests:
     x: 82
     y: 42
     z: 100
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -161,7 +161,7 @@ chests:
     x: 95
     y: 43
     z: 71
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -169,7 +169,7 @@ chests:
     x: 100
     y: 43
     z: 89
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -177,7 +177,7 @@ chests:
     x: 75
     y: 45
     z: 91
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -185,7 +185,7 @@ chests:
     x: 78
     y: 46
     z: 75
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -193,7 +193,7 @@ chests:
     x: 14
     y: 47
     z: 82
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -201,7 +201,7 @@ chests:
     x: 34
     y: 47
     z: 132
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -209,7 +209,7 @@ chests:
     x: 36
     y: 47
     z: 34
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -217,7 +217,7 @@ chests:
     x: 82
     y: 47
     z: 154
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -225,7 +225,7 @@ chests:
     x: 86
     y: 47
     z: 14
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -233,7 +233,7 @@ chests:
     x: 132
     y: 47
     z: 134
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -241,7 +241,7 @@ chests:
     x: 134
     y: 47
     z: 36
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -249,7 +249,7 @@ chests:
     x: 154
     y: 47
     z: 86
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -257,7 +257,7 @@ chests:
     x: 84
     y: 51
     z: 89
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -265,7 +265,7 @@ chests:
     x: 89
     y: 61
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -273,7 +273,7 @@ chests:
     x: 13
     y: 62
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -281,7 +281,7 @@ chests:
     x: 33
     y: 62
     z: 134
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -289,7 +289,7 @@ chests:
     x: 34
     y: 62
     z: 33
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -297,7 +297,7 @@ chests:
     x: 84
     y: 62
     z: 13
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -305,7 +305,7 @@ chests:
     x: 84
     y: 62
     z: 155
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -313,7 +313,7 @@ chests:
     x: 134
     y: 62
     z: 135
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -321,7 +321,7 @@ chests:
     x: 135
     y: 62
     z: 34
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -329,7 +329,7 @@ chests:
     x: 155
     y: 62
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -337,7 +337,7 @@ chests:
     x: 84
     y: 71
     z: 79
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -345,7 +345,7 @@ chests:
     x: 79
     y: 81
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -353,7 +353,7 @@ chests:
     x: 84
     y: 91
     z: 89
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -361,7 +361,7 @@ chests:
     x: 89
     y: 101
     z: 84
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -369,7 +369,7 @@ chests:
     x: 84
     y: 111
     z: 79
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -377,7 +377,7 @@ chests:
     x: 81
     y: 127
     z: 85
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
@@ -385,7 +385,7 @@ chests:
     x: 87
     y: 127
     z: 83
-  randomize: false
+  randomize: true
   total-level: 30
   min-item-value: 0
   max-item-value: 30
